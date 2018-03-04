@@ -670,3 +670,110 @@ LogInit: Object subsystem initialized
 [2018.03.04-02.43.38:547][233]SourceControl:  create mode 100644 TwistedFateGame/Content/ThirdPersonBP/ThirdPersonOverview.uasset
 [2018.03.04-02.43.38:547][233]SourceControl:  create mode 100644 TwistedFateGame/TwistedFateGame.uproject
 [2018.03.04-02.43.38:558][233]SourceControl: Commited [master 993bd2f] test.
+[2018.03.04-02.44.58:045][211]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.04-02.44.58:058][211]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.04-02.44.58:071][211]LightingResults: New page: Lighting Build
+[2018.03.04-02.44.58:072][211]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.03.04-02.44.58:075][211]MapCheck: New page: Map Check
+[2018.03.04-02.44.58:075][211]LightingResults: New page: Lighting Build
+[2018.03.04-02.44.58:170][211]LogAIModule: Creating AISystem for world Untitled_1
+[2018.03.04-02.44.58:263][211]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.04-02.44.58:290][211]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.04-02.44.58:381][211]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.697ms to complete.
+[2018.03.04-02.44.58:381][211]LogFileHelpers: Loading map 'Template_Default' took 0.337
+[2018.03.04-02.45.07:707][207]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2018.03.04-02.45.40:434][957]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2018.03.04-02.45.41:239][ 46]Cmd: DELETE
+[2018.03.04-02.45.41:239][ 46]Cmd: ACTOR DELETE
+[2018.03.04-02.45.41:393][ 46]LogEditorActor: Deleted Actor: Actor
+[2018.03.04-02.45.41:416][ 46]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.03.04-02.45.43:334][271]LogActorFactory: Actor Factory created Cube
+[2018.03.04-02.45.44:079][358]LogActorFactory: Actor Factory created Cube
+[2018.03.04-02.45.59:645][100]LogActorFactory: Actor Factory created Cylinder
+[2018.03.04-02.46.02:592][436]LogActorFactory: Actor Factory created Cylinder
+[2018.03.04-02.46.17:691][153]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.04-02.46.22:218][602]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.04-02.46.32:262][753]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.04-02.46.32:761][753]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.04-02.46.36:162][153]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.04-02.46.36:423][184]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.04-02.46.36:832][233]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.04-02.46.37:021][255]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.04-02.46.38:152][389]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.04-02.46.39:135][506]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.04-02.46.39:328][529]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.04-02.46.41:309][762]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.41:309][762]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.04-02.46.41:829][762]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.04-02.46.41:863][764]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.41:863][764]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.04-02.46.42:926][885]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.42:926][885]LogEditorTransaction: Undo Scale Actors
+[2018.03.04-02.46.43:644][967]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.43:644][967]LogEditorTransaction: Undo Scale Actors
+[2018.03.04-02.46.44:109][ 21]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.44:109][ 21]LogEditorTransaction: Undo Move Actors
+[2018.03.04-02.46.44:535][ 69]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.44:535][ 69]LogEditorTransaction: Undo Create Actors
+[2018.03.04-02.46.44:973][116]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.44:973][116]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.03.04-02.46.45:479][174]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.45:479][174]LogEditorTransaction: Undo Move Actors
+[2018.03.04-02.46.45:942][228]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.45:942][228]LogEditorTransaction: Undo Move Actors
+[2018.03.04-02.46.46:287][268]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.46:287][268]LogEditorTransaction: Undo Scale Actors
+[2018.03.04-02.46.46:597][304]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.46:597][304]LogEditorTransaction: Undo Create Actors
+[2018.03.04-02.46.47:413][401]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.47:413][401]LogEditorTransaction: Undo Delete Actors
+[2018.03.04-02.46.48:003][468]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.48:004][468]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.04-02.46.48:332][506]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.48:332][506]LogEditorTransaction: Undo Scale Actors
+[2018.03.04-02.46.48:710][550]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.48:710][550]LogEditorTransaction: Undo Scale Actors
+[2018.03.04-02.46.49:027][587]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.49:027][587]LogEditorTransaction: Undo Scale Actors
+[2018.03.04-02.46.49:590][654]Cmd: TRANSACTION UNDO
+[2018.03.04-02.46.49:591][654]LogEditorTransaction: Undo Scale Actors
+[2018.03.04-02.46.51:122][836]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.04-02.46.51:319][859]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.04-02.46.57:609][607]Cmd: DELETE
+[2018.03.04-02.46.57:609][607]Cmd: ACTOR DELETE
+[2018.03.04-02.46.57:610][607]LogEditorActor: Deleted Actor: Actor
+[2018.03.04-02.46.57:620][607]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2018.03.04-02.47.08:646][859]LogActorFactory: Actor Factory created Cube
+[2018.03.04-02.47.09:795][993]LogActorFactory: Actor Factory created Cube
+[2018.03.04-02.47.17:273][844]LogActorFactory: Actor Factory created Sphere
+[2018.03.04-02.47.19:395][ 80]LogActorFactory: Actor Factory created Sphere
+[2018.03.04-02.47.20:434][198]Cmd: DELETE
+[2018.03.04-02.47.20:434][198]Cmd: ACTOR DELETE
+[2018.03.04-02.47.20:435][198]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.04-02.47.20:446][198]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.03.04-02.47.29:083][228]LogActorFactory: Actor Factory created Cylinder
+[2018.03.04-02.47.30:444][388]LogActorFactory: Actor Factory created Cylinder
+[2018.03.04-02.47.38:187][284]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.04-02.47.38:828][290]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2018.03.04-02.48.01:077][883]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2018.03.04-02.48.30:065][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.04-02.48.30:113][883]LogSavePackage: Save=34.96ms
+[2018.03.04-02.48.30:114][883]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1DB9576A245A413FDA68298B79A4E0792.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.04-02.48.30:123][883]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.04-02.48.31:138][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1_BuiltData" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.03.04-02.48.31:152][883]LogSavePackage: Save=12.12ms
+[2018.03.04-02.48.31:152][883]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1_BuiltData7D784E444F0E423D8E1D14AE06F1F74E.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1_BuiltData.uasset'
+[2018.03.04-02.48.31:156][883]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1_BuiltData.uasset
+[2018.03.04-02.48.31:361][883]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2018.03.04-02.48.31:361][883]SourceControl: Error: TwistedFateGame/Content/Maps/Level_1_BuiltData.uasset
+[2018.03.04-02.48.31:361][883]SourceControl: Error: Use -f if you really want to add them.
+[2018.03.04-02.48.31:368][883]LogFileHelpers: Saving map 'Level_1' took 1.398
+[2018.03.04-02.48.31:626][911]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2018.03.04-02.48.34:333][215]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.04-02.48.41:828][215]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.04-02.48.41:933][215]SourceControl: [master 2e8fe40] level
+[2018.03.04-02.48.41:933][215]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.04-02.48.41:933][215]SourceControl:  create mode 100644 TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.04-02.48.41:944][215]SourceControl: Commited [master 2e8fe40] level.
+[2018.03.04-02.48.47:401][651]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.04-02.48.47:505][651]EditorErrors: Warning: No assets to check in!
