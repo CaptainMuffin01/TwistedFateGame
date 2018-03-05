@@ -809,3 +809,4 @@ LogInit: Object subsystem initialized
 [2018.03.05-01.41.04:172][180]LogEditorTransaction: Undo Clicking on Actors
 [2018.03.05-01.41.06:121][399]Cmd: TRANSACTION UNDO
 [2018.03.05-01.41.06:121][399]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.05-01.41.35:313][920]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_1' took 0.011
