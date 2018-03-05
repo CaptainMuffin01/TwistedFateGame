@@ -777,3 +777,35 @@ LogInit: Object subsystem initialized
 [2018.03.04-02.48.41:944][215]SourceControl: Commited [master 2e8fe40] level.
 [2018.03.04-02.48.47:401][651]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
 [2018.03.04-02.48.47:505][651]EditorErrors: Warning: No assets to check in!
+[2018.03.05-01.29.47:277][793]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.05-01.40.23:834][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.03.05-01.40.24:812][684]Cmd: DELETE
+[2018.03.05-01.40.24:812][684]Cmd: ACTOR DELETE
+[2018.03.05-01.40.24:837][684]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.05-01.40.24:866][684]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.03.05-01.40.25:467][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.03.05-01.40.25:663][773]Cmd: DELETE
+[2018.03.05-01.40.25:663][773]Cmd: ACTOR DELETE
+[2018.03.05-01.40.25:664][773]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.05-01.40.25:673][773]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2018.03.05-01.40.26:747][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.05-01.40.30:760][353]Cmd: DELETE
+[2018.03.05-01.40.30:760][353]Cmd: ACTOR DELETE
+[2018.03.05-01.40.30:761][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.05-01.40.30:771][353]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2018.03.05-01.40.32:920][513]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.03.05-01.40.50:447][580]Cmd: TRANSACTION UNDO
+[2018.03.05-01.40.50:447][580]LogEditorTransaction: Undo Delete Actors
+[2018.03.05-01.40.51:734][720]Cmd: TRANSACTION UNDO
+[2018.03.05-01.40.51:734][720]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.05-01.40.53:534][931]Cmd: TRANSACTION UNDO
+[2018.03.05-01.40.53:534][931]LogEditorTransaction: Undo Delete Actors
+[2018.03.05-01.40.55:163][118]Cmd: TRANSACTION UNDO
+[2018.03.05-01.40.55:163][118]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.05-01.40.56:879][319]Cmd: TRANSACTION UNDO
+[2018.03.05-01.40.56:879][319]LogEditorTransaction: Undo Delete Actors
+[2018.03.05-01.40.58:305][483]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.05-01.41.04:172][180]Cmd: TRANSACTION UNDO
+[2018.03.05-01.41.04:172][180]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.05-01.41.06:121][399]Cmd: TRANSACTION UNDO
+[2018.03.05-01.41.06:121][399]LogEditorTransaction: Undo Clicking on Actors
