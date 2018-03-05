@@ -1,4 +1,4 @@
-﻿Log file open, 03/03/18 21:42:29
+﻿Log file open, 03/04/18 19:26:01
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: TwistedFateGame
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-206993139) SRandInit(-206993139).
+LogInit: Display: RandInit(478449664) SRandInit(478449664).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.178009
+LogStats: Stats thread started at 0.400032
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -191,589 +191,224 @@ LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.18
-LogInit: Command line: -EpicPortal 
-LogInit: Base directory: E:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.03.04-02.42.31:403][  0]LogInit: Selected Device Profile: [Windows]
-[2018.03.04-02.42.31:403][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.03.04-02.42.31:413][  0]LogInit: Computer: DESKTOP-26BKDR7
-[2018.03.04-02.42.31:413][  0]LogInit: User: Cameron
-[2018.03.04-02.42.31:413][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.03.04-02.42.31:413][  0]LogInit: High frequency timer resolution =2.648438 MHz
-[2018.03.04-02.42.31:413][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.03.04-02.42.31:413][  0]LogMemory: Platform Memory Stats for Windows
-[2018.03.04-02.42.31:413][  0]LogMemory: Process Physical Memory: 280.89 MB used, 280.89 MB peak
-[2018.03.04-02.42.31:413][  0]LogMemory: Process Virtual Memory: 270.26 MB used, 270.26 MB peak
-[2018.03.04-02.42.31:413][  0]LogMemory: Physical Memory: 7918.37 MB used,  8391.47 MB free, 16309.84 MB total
-[2018.03.04-02.42.31:413][  0]LogMemory: Virtual Memory: 715.41 MB used,  8391.47 MB free, 134217728.00 MB total
-[2018.03.04-02.42.31:545][  0]LogInit: Using OS detected language (en-US).
-[2018.03.04-02.42.31:545][  0]LogInit: Using OS detected locale (en-US).
-[2018.03.04-02.42.31:548][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.03.04-02.42.31:985][  0]LogInit: Setting process to per monitor DPI aware
-[2018.03.04-02.42.32:268][  0]LogD3D11RHI: D3D11 adapters:
-[2018.03.04-02.42.32:305][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
-[2018.03.04-02.42.32:305][  0]LogD3D11RHI:       4058/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2018.03.04-02.42.32:308][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.03.04-02.42.32:308][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.03.04-02.42.32:308][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.03.04-02.42.32:315][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.03.04-02.42.32:316][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
-[2018.03.04-02.42.32:316][  0]LogWindows: EnumDisplayDevices:
-[2018.03.04-02.42.32:316][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
-[2018.03.04-02.42.32:316][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
-[2018.03.04-02.42.32:316][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
-[2018.03.04-02.42.32:316][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
-[2018.03.04-02.42.32:316][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.03.04-02.42.32:316][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
-[2018.03.04-02.42.32:316][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.03.04-02.42.32:316][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.03.04-02.42.32:316][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
-[2018.03.04-02.42.32:341][  0]LogD3D11RHI: Async texture creation enabled
-[2018.03.04-02.42.32:380][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.03.04-02.42.32:424][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Intermediate/Shaders/WorkingDirectory/12264/).
-[2018.03.04-02.42.32:424][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cameron/AppData/Local/Temp/UnrealShaderWorkingDir/17EF54C241401353B94FA484F91350F7/'.
-[2018.03.04-02.42.32:424][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.03.04-02.42.33:354][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.03.04-02.42.33:405][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.03.04-02.42.33:450][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.03.04-02.42.33:495][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.03.04-02.42.33:543][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.03.04-02.42.33:588][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.03.04-02.42.33:633][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.03.04-02.42.33:678][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.03.04-02.42.33:716][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.03.04-02.42.33:761][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.03.04-02.42.33:808][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.03.04-02.42.33:853][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.03.04-02.42.33:897][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.03.04-02.42.33:943][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.03.04-02.42.34:033][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.03.04-02.42.34:033][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.03.04-02.42.34:078][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.03.04-02.42.34:111][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.03.04-02.42.34:192][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.03.04-02.42.34:216][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.03.04-02.42.34:261][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.03.04-02.42.34:304][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.03.04-02.42.34:349][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.03.04-02.42.34:395][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.03.04-02.42.34:395][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.03.04-02.42.34:793][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.03.04-02.42.34:862][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.03.04-02.42.34:863][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.03.04-02.42.34:863][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.03.04-02.42.34:863][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.03.04-02.42.34:863][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.03.04-02.42.34:863][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.03.04-02.42.34:880][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.03.04-02.42.34:892][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cameron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.03.04-02.42.34:903][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.03.04-02.42.34:903][  0]LogSlate: Using Freetype 2.6.0
-[2018.03.04-02.42.34:904][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.03.04-02.42.34:904][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.03.04-02.42.35:309][  0]LogInit: Selected Device Profile: [Windows]
-[2018.03.04-02.42.35:620][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.03.04-02.42.35:655][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.03.04-02.42.35:655][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.03.04-02.42.35:655][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.03.04-02.42.35:655][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.03.04-02.42.35:655][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.03.04-02.42.35:692][  0]LogNetVersion: TwistedFateGame , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1574445964)
-[2018.03.04-02.42.35:857][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
-[2018.03.04-02.42.36:350][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.071887 seconds
-[2018.03.04-02.42.36:355][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
-[2018.03.04-02.42.36:355][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
-[2018.03.04-02.42.36:355][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.03.04-02.42.36:394][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.03.04-02.42.38:957][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.03.04-02.42.39:005][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.03.04-02.42.39:646][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.03.04-02.42.40:053][  0]SourceControl: Source control is disabled
-[2018.03.04-02.42.40:053][  0]SourceControl: Source control is disabled
-[2018.03.04-02.42.40:103][  0]SourceControl: Source control is disabled
-[2018.03.04-02.42.40:155][  0]SourceControl: Source control is disabled
-[2018.03.04-02.42.40:932][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.03.04-02.42.41:192][  0]LogOcInput: OculusInput pre-init called
-[2018.03.04-02.42.41:460][  0]LogEngine: Initializing Engine...
-[2018.03.04-02.42.41:462][  0]LogHMD: Oculus plugin initialized. Version: 4.18.3-3832480+++UE4+Release-4.18, OVRPlugin: 1.19.0
-[2018.03.04-02.42.41:673][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.03.04-02.42.41:674][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.03.04-02.42.41:782][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.03.04-02.42.41:806][  0]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
-[2018.03.04-02.42.41:827][  0]LogInit: FAudioDevice initialized.
-[2018.03.04-02.42.41:915][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.03.04-02.42.41:927][  0]LogInit: Texture streaming: Enabled
-[2018.03.04-02.42.42:005][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.03.04-02.42.42:119][  0]LogInit: Transaction tracking system initialized
-[2018.03.04-02.42.42:385][  0]BlueprintLog: New page: Editor Load
-[2018.03.04-02.42.43:177][  0]LocalizationService: Localization service is disabled
-[2018.03.04-02.42.43:818][  0]LogConsoleResponse: Display: 
-[2018.03.04-02.42.43:986][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.03.04-02.42.43:986][  0]LogCook: Display: Mobile HDR setting 1
-[2018.03.04-02.42.43:986][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.03.04-02.42.44:242][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/' took 0.01s
-[2018.03.04-02.42.45:084][  0]SourceControl: Source control is disabled
-[2018.03.04-02.42.45:085][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/UE_4.18/FeaturePacks/StarterContent.upack)
-[2018.03.04-02.42.45:090][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
-[2018.03.04-02.42.45:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
-[2018.03.04-02.42.45:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Architecture/Pillar_50x500.uasset"
-[2018.03.04-02.42.45:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
-[2018.03.04-02.42.45:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Architecture/Wall_400x200.uasset"
-[2018.03.04-02.42.45:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Architecture/Wall_400x300.uasset"
-[2018.03.04-02.42.45:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Architecture/Wall_400x400.uasset"
-[2018.03.04-02.42.45:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Architecture/Wall_500x500.uasset"
-[2018.03.04-02.42.45:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
-[2018.03.04-02.42.45:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
-[2018.03.04-02.42.45:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
-[2018.03.04-02.42.45:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
-[2018.03.04-02.42.45:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Collapse01.uasset"
-[2018.03.04-02.42.45:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Collapse02.uasset"
-[2018.03.04-02.42.45:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Collapse_Cue.uasset"
-[2018.03.04-02.42.45:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Explosion01.uasset"
-[2018.03.04-02.42.45:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Explosion02.uasset"
-[2018.03.04-02.42.45:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Explosion_Cue.uasset"
-[2018.03.04-02.42.45:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Fire01.uasset"
-[2018.03.04-02.42.45:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Fire01_Cue.uasset"
-[2018.03.04-02.42.45:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Fire_Sparks01.uasset"
-[2018.03.04-02.42.45:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
-[2018.03.04-02.42.45:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Light01.uasset"
-[2018.03.04-02.42.45:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Light01_Cue.uasset"
-[2018.03.04-02.42.45:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Light02.uasset"
-[2018.03.04-02.42.45:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Light02_Cue.uasset"
-[2018.03.04-02.42.45:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Smoke01.uasset"
-[2018.03.04-02.42.45:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Smoke01_Cue.uasset"
-[2018.03.04-02.42.45:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
-[2018.03.04-02.42.45:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Starter_Birds01.uasset"
-[2018.03.04-02.42.45:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Starter_Music01.uasset"
-[2018.03.04-02.42.45:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
-[2018.03.04-02.42.45:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Starter_Wind05.uasset"
-[2018.03.04-02.42.45:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Starter_Wind06.uasset"
-[2018.03.04-02.42.45:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Steam01.uasset"
-[2018.03.04-02.42.45:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Audio/Steam01_Cue.uasset"
-[2018.03.04-02.42.45:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
-[2018.03.04-02.42.45:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
-[2018.03.04-02.42.45:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
-[2018.03.04-02.42.45:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
-[2018.03.04-02.42.45:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
-[2018.03.04-02.42.45:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
-[2018.03.04-02.42.45:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
-[2018.03.04-02.42.45:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
-[2018.03.04-02.42.45:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
-[2018.03.04-02.42.45:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
-[2018.03.04-02.42.45:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
-[2018.03.04-02.42.45:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
-[2018.03.04-02.42.45:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
-[2018.03.04-02.42.45:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
-[2018.03.04-02.42.45:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
-[2018.03.04-02.42.45:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
-[2018.03.04-02.42.45:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
-[2018.03.04-02.42.45:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Maps/Advanced_Lighting.umap"
-[2018.03.04-02.42.45:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
-[2018.03.04-02.42.45:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Maps/Minimal_Default.umap"
-[2018.03.04-02.42.45:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
-[2018.03.04-02.42.45:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Maps/StarterMap.umap"
-[2018.03.04-02.42.45:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
-[2018.03.04-02.42.45:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_AssetPlatform.uasset"
-[2018.03.04-02.42.45:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Basic_Floor.uasset"
-[2018.03.04-02.42.45:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Basic_Wall.uasset"
-[2018.03.04-02.42.45:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
-[2018.03.04-02.42.45:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
-[2018.03.04-02.42.45:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
-[2018.03.04-02.42.45:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
-[2018.03.04-02.42.45:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
-[2018.03.04-02.42.45:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
-[2018.03.04-02.42.45:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
-[2018.03.04-02.42.45:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
-[2018.03.04-02.42.45:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
-[2018.03.04-02.42.45:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
-[2018.03.04-02.42.45:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
-[2018.03.04-02.42.45:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
-[2018.03.04-02.42.45:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
-[2018.03.04-02.42.45:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
-[2018.03.04-02.42.45:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Glass.uasset"
-[2018.03.04-02.42.45:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Ground_Grass.uasset"
-[2018.03.04-02.42.45:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
-[2018.03.04-02.42.45:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Ground_Moss.uasset"
-[2018.03.04-02.42.45:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
-[2018.03.04-02.42.45:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
-[2018.03.04-02.42.45:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
-[2018.03.04-02.42.45:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Metal_Copper.uasset"
-[2018.03.04-02.42.45:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Metal_Gold.uasset"
-[2018.03.04-02.42.45:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Metal_Rust.uasset"
-[2018.03.04-02.42.45:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Metal_Steel.uasset"
-[2018.03.04-02.42.45:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
-[2018.03.04-02.42.45:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
-[2018.03.04-02.42.45:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
-[2018.03.04-02.42.45:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Rock_Slate.uasset"
-[2018.03.04-02.42.45:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
-[2018.03.04-02.42.45:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
-[2018.03.04-02.42.45:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
-[2018.03.04-02.42.45:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Tech_Panel.uasset"
-[2018.03.04-02.42.45:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Water_Lake.uasset"
-[2018.03.04-02.42.45:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Water_Ocean.uasset"
-[2018.03.04-02.42.45:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
-[2018.03.04-02.42.45:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
-[2018.03.04-02.42.45:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Wood_Oak.uasset"
-[2018.03.04-02.42.45:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Wood_Pine.uasset"
-[2018.03.04-02.42.45:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
-[2018.03.04-02.42.45:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
-[2018.03.04-02.42.45:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/P_Explosion.uasset"
-[2018.03.04-02.42.45:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/P_Fire.uasset"
-[2018.03.04-02.42.45:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/P_Smoke.uasset"
-[2018.03.04-02.42.45:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/P_Sparks.uasset"
-[2018.03.04-02.42.45:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/P_Steam_Lit.uasset"
-[2018.03.04-02.42.45:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/Materials/M_Burst.uasset"
-[2018.03.04-02.42.45:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
-[2018.03.04-02.42.45:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
-[2018.03.04-02.42.45:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
-[2018.03.04-02.42.45:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
-[2018.03.04-02.42.45:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
-[2018.03.04-02.42.45:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
-[2018.03.04-02.42.45:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
-[2018.03.04-02.42.45:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
-[2018.03.04-02.42.45:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Particles/Materials/M_Spark.uasset"
-[2018.03.04-02.42.45:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/MaterialSphere.uasset"
-[2018.03.04-02.42.45:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_Bush.uasset"
-[2018.03.04-02.42.45:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_Chair.uasset"
-[2018.03.04-02.42.45:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_CornerFrame.uasset"
-[2018.03.04-02.42.45:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_Couch.uasset"
-[2018.03.04-02.42.45:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_Door.uasset"
-[2018.03.04-02.42.45:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_DoorFrame.uasset"
-[2018.03.04-02.42.45:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_GlassWindow.uasset"
-[2018.03.04-02.42.45:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
-[2018.03.04-02.42.45:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
-[2018.03.04-02.42.45:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
-[2018.03.04-02.42.45:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_PillarFrame.uasset"
-[2018.03.04-02.42.45:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_PillarFrame300.uasset"
-[2018.03.04-02.42.45:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_Rock.uasset"
-[2018.03.04-02.42.45:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_Shelf.uasset"
-[2018.03.04-02.42.45:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_Stairs.uasset"
-[2018.03.04-02.42.45:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_Statue.uasset"
-[2018.03.04-02.42.45:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_TableRound.uasset"
-[2018.03.04-02.42.45:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/SM_WindowFrame.uasset"
-[2018.03.04-02.42.45:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/Materials/M_Bush.uasset"
-[2018.03.04-02.42.45:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/Materials/M_Chair.uasset"
-[2018.03.04-02.42.45:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/Materials/M_Door.uasset"
-[2018.03.04-02.42.45:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/Materials/M_Frame.uasset"
-[2018.03.04-02.42.45:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/Materials/M_Lamp.uasset"
-[2018.03.04-02.42.45:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
-[2018.03.04-02.42.45:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
-[2018.03.04-02.42.45:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/Materials/M_Rock.uasset"
-[2018.03.04-02.42.45:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/Materials/M_Shelf.uasset"
-[2018.03.04-02.42.45:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/Materials/M_Statue.uasset"
-[2018.03.04-02.42.45:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
-[2018.03.04-02.42.45:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Props/Materials/M_TableRound.uasset"
-[2018.03.04-02.42.45:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Cone.uasset"
-[2018.03.04-02.42.45:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Cube.uasset"
-[2018.03.04-02.42.45:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
-[2018.03.04-02.42.45:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
-[2018.03.04-02.42.45:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Pipe.uasset"
-[2018.03.04-02.42.45:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
-[2018.03.04-02.42.45:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
-[2018.03.04-02.42.45:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Plane.uasset"
-[2018.03.04-02.42.45:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
-[2018.03.04-02.42.45:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Sphere.uasset"
-[2018.03.04-02.42.45:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Torus.uasset"
-[2018.03.04-02.42.45:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Trim.uasset"
-[2018.03.04-02.42.45:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
-[2018.03.04-02.42.45:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
-[2018.03.04-02.42.45:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
-[2018.03.04-02.42.45:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Tube.uasset"
-[2018.03.04-02.42.45:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
-[2018.03.04-02.42.45:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
-[2018.03.04-02.42.45:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
-[2018.03.04-02.42.45:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
-[2018.03.04-02.42.45:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
-[2018.03.04-02.42.45:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
-[2018.03.04-02.42.45:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
-[2018.03.04-02.42.45:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
-[2018.03.04-02.42.45:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
-[2018.03.04-02.42.45:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
-[2018.03.04-02.42.45:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
-[2018.03.04-02.42.45:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
-[2018.03.04-02.42.45:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
-[2018.03.04-02.42.45:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
-[2018.03.04-02.42.45:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
-[2018.03.04-02.42.45:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
-[2018.03.04-02.42.45:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Burst_M.uasset"
-[2018.03.04-02.42.45:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Bush_D.uasset"
-[2018.03.04-02.42.45:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Bush_N.uasset"
-[2018.03.04-02.42.45:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
-[2018.03.04-02.42.45:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
-[2018.03.04-02.42.45:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Chair_M.uasset"
-[2018.03.04-02.42.45:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Chair_N.uasset"
-[2018.03.04-02.42.45:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
-[2018.03.04-02.42.45:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
-[2018.03.04-02.42.45:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
-[2018.03.04-02.42.45:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
-[2018.03.04-02.42.45:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
-[2018.03.04-02.42.45:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
-[2018.03.04-02.42.45:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
-[2018.03.04-02.42.45:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
-[2018.03.04-02.42.45:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
-[2018.03.04-02.42.45:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
-[2018.03.04-02.42.45:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
-[2018.03.04-02.42.45:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
-[2018.03.04-02.42.45:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
-[2018.03.04-02.42.45:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
-[2018.03.04-02.42.45:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
-[2018.03.04-02.42.45:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
-[2018.03.04-02.42.45:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
-[2018.03.04-02.42.45:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
-[2018.03.04-02.42.45:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
-[2018.03.04-02.42.45:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Door_M.uasset"
-[2018.03.04-02.42.45:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Door_N.uasset"
-[2018.03.04-02.42.45:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
-[2018.03.04-02.42.45:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
-[2018.03.04-02.42.45:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
-[2018.03.04-02.42.45:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
-[2018.03.04-02.42.45:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Frame_M.uasset"
-[2018.03.04-02.42.45:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Frame_N.uasset"
-[2018.03.04-02.42.45:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Gradinet_01.uasset"
-[2018.03.04-02.42.45:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
-[2018.03.04-02.42.45:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
-[2018.03.04-02.42.45:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
-[2018.03.04-02.42.45:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
-[2018.03.04-02.42.45:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
-[2018.03.04-02.42.46:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
-[2018.03.04-02.42.46:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Lamp_M.uasset"
-[2018.03.04-02.42.46:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Lamp_N.uasset"
-[2018.03.04-02.42.46:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_MacroVariation.uasset"
-[2018.03.04-02.42.46:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
-[2018.03.04-02.42.46:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
-[2018.03.04-02.42.46:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
-[2018.03.04-02.42.46:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
-[2018.03.04-02.42.46:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
-[2018.03.04-02.42.46:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
-[2018.03.04-02.42.46:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
-[2018.03.04-02.42.46:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
-[2018.03.04-02.42.46:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
-[2018.03.04-02.42.46:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_RockMesh_M.uasset"
-[2018.03.04-02.42.46:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_RockMesh_N.uasset"
-[2018.03.04-02.42.46:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
-[2018.03.04-02.42.46:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
-[2018.03.04-02.42.46:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
-[2018.03.04-02.42.46:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
-[2018.03.04-02.42.46:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
-[2018.03.04-02.42.46:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
-[2018.03.04-02.42.46:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
-[2018.03.04-02.42.46:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
-[2018.03.04-02.42.46:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Shelf_M.uasset"
-[2018.03.04-02.42.46:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Shelf_N.uasset"
-[2018.03.04-02.42.46:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
-[2018.03.04-02.42.46:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
-[2018.03.04-02.42.46:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
-[2018.03.04-02.42.46:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Spark_Core.uasset"
-[2018.03.04-02.42.46:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Statue_M.uasset"
-[2018.03.04-02.42.46:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Statue_N.uasset"
-[2018.03.04-02.42.46:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_TableRound_M.uasset"
-[2018.03.04-02.42.46:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_TableRound_N.uasset"
-[2018.03.04-02.42.46:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
-[2018.03.04-02.42.46:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
-[2018.03.04-02.42.46:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
-[2018.03.04-02.42.46:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
-[2018.03.04-02.42.46:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
-[2018.03.04-02.42.46:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
-[2018.03.04-02.42.46:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Water_M.uasset"
-[2018.03.04-02.42.46:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Water_N.uasset"
-[2018.03.04-02.42.46:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
-[2018.03.04-02.42.46:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
-[2018.03.04-02.42.46:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
-[2018.03.04-02.42.46:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
-[2018.03.04-02.42.46:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
-[2018.03.04-02.42.46:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
-[2018.03.04-02.42.46:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
-[2018.03.04-02.42.46:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
-[2018.03.04-02.42.46:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
-[2018.03.04-02.42.46:801][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
-[2018.03.04-02.42.46:868][  0]LogSavePackage: Save=10.99ms
-[2018.03.04-02.42.46:868][  0]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Floor_400x4002EDE6140404D6C50027208BF6C6BD8BC.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Architecture/Floor_400x400.uasset'
-[2018.03.04-02.42.46:872][  0]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/StarterContent/Architecture/Floor_400x400.uasset
-[2018.03.04-02.42.46:872][  0]LogFeaturePack: Warning: Inserted 1 feature packs
-[2018.03.04-02.42.46:874][  0]Cmd: MAP LOAD FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.03.04-02.42.46:875][  0]LightingResults: New page: Lighting Build
-[2018.03.04-02.42.46:908][  0]MapCheck: New page: Map Check
-[2018.03.04-02.42.46:908][  0]LightingResults: New page: Lighting Build
-[2018.03.04-02.42.47:343][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2018.03.04-02.42.47:353][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.03.04-02.42.47:366][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.03.04-02.42.47:430][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.475ms to complete.
-[2018.03.04-02.42.47:430][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.556
-[2018.03.04-02.42.47:604][  0]LogCollectionManager: Loaded 0 collections in 0.001327 seconds
-[2018.03.04-02.42.47:698][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Collections/' took 0.01s
-[2018.03.04-02.42.47:698][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Developers/Cameron/Collections/' took 0.01s
-[2018.03.04-02.42.47:698][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Collections/' took 0.01s
-[2018.03.04-02.42.47:698][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.03.04-02.42.47:708][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2363 classes and 519 folders.
-[2018.03.04-02.42.47:765][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.03.04-02.42.47:816][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.03.04-02.42.47:855][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.03.04-02.42.47:928][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.03.04-02.42.47:931][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.03.04-02.42.47:936][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.03.04-02.42.47:977][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
-[2018.03.04-02.42.48:023][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.03.04-02.42.48:143][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.03.04-02.42.48:143][  0]LogLoad: (Engine Initialization) Total time: 19.33 seconds
-[2018.03.04-02.42.48:143][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.03.04-02.42.48:143][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
-[2018.03.04-02.42.48:153][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.03.04-02.42.48:158][  0]LogOcInput: OculusInput is initialized
-[2018.03.04-02.42.48:182][  0]LogAssetRegistry: Asset discovery search completed in 12.3468 seconds
-[2018.03.04-02.42.48:185][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.03.04-02.42.48:185][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
-[2018.03.04-02.42.48:325][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.03.04-02.43.28:542][726]SourceControl: On branch master
-[2018.03.04-02.43.28:542][726]SourceControl: Your branch is up to date with 'origin/master'.
-[2018.03.04-02.43.28:542][726]SourceControl: Untracked files:
-[2018.03.04-02.43.28:542][726]SourceControl:   (use "git add <file>..." to include in what will be committed)
-[2018.03.04-02.43.28:542][726]SourceControl: 	TwistedFateGame/
-[2018.03.04-02.43.28:542][726]SourceControl: nothing added to commit but untracked files present (use "git add" to track)
-[2018.03.04-02.43.32:829][233]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
-[2018.03.04-02.43.32:940][233]LogPackageName: Error: Illegal call to DoesPackageExist: 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/TwistedFateGame.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
-[2018.03.04-02.43.33:062][233]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.122 s
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: === Handled ensure: ===
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: 
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 810]
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: Illegal call to DoesPackageExist: 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/TwistedFateGame.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: Stack: 
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x0000000087812786 UE4Editor-Core.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x00000000875B123A UE4Editor-Core.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x00000000875CB906 UE4Editor-Core.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x0000000086608B45 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x00000000776576B2 UE4Editor-SourceControl.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x0000000077657847 UE4Editor-SourceControl.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x00000000741385AE UE4Editor-SourceControlWindows.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x00000000740F4475 UE4Editor-SourceControlWindows.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x00000000740F3A4D UE4Editor-SourceControlWindows.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x0000000074108AA4 UE4Editor-SourceControlWindows.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x0000000069A039D9 UE4Editor-GitSourceControl.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x000000007765C5BC UE4Editor-SourceControl.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x000000007AE572EB UE4Editor-UnrealEd.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x000000007B704AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x00000000AEEE5A26 UE4Editor.exe!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x00000000AEEF5430 UE4Editor.exe!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x00000000AEEF54AA UE4Editor.exe!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x00000000AEF02379 UE4Editor.exe!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x00000000AEF03D57 UE4Editor.exe!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x00000000CB241FE4 KERNEL32.DLL!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: [Callstack] 0x00000000CD83EFC1 ntdll.dll!UnknownFunction []
-[2018.03.04-02.43.33:062][233]LogOutputDevice: Error: 
-[2018.03.04-02.43.33:066][233]LogStats:                SubmitErrorReport -  0.000 s
-[2018.03.04-02.43.33:414][233]LogStats:                    SendNewReport -  0.348 s
-[2018.03.04-02.43.33:414][233]LogStats:             FDebug::EnsureFailed -  0.474 s
-[2018.03.04-02.43.38:356][233]LogSourceControl: FGitCheckInWorker: commit successful
-[2018.03.04-02.43.38:547][233]SourceControl: [master 993bd2f] test
-[2018.03.04-02.43.38:547][233]SourceControl:  2 files changed, 6 insertions(+)
-[2018.03.04-02.43.38:547][233]SourceControl:  create mode 100644 TwistedFateGame/Content/ThirdPersonBP/ThirdPersonOverview.uasset
-[2018.03.04-02.43.38:547][233]SourceControl:  create mode 100644 TwistedFateGame/TwistedFateGame.uproject
-[2018.03.04-02.43.38:558][233]SourceControl: Commited [master 993bd2f] test.
-[2018.03.04-02.44.58:045][211]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.03.04-02.44.58:058][211]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.03.04-02.44.58:071][211]LightingResults: New page: Lighting Build
-[2018.03.04-02.44.58:072][211]LoadErrors: New page: Loading map: Template_Default.umap
-[2018.03.04-02.44.58:075][211]MapCheck: New page: Map Check
-[2018.03.04-02.44.58:075][211]LightingResults: New page: Lighting Build
-[2018.03.04-02.44.58:170][211]LogAIModule: Creating AISystem for world Untitled_1
-[2018.03.04-02.44.58:263][211]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.03.04-02.44.58:290][211]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.03.04-02.44.58:381][211]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.697ms to complete.
-[2018.03.04-02.44.58:381][211]LogFileHelpers: Loading map 'Template_Default' took 0.337
-[2018.03.04-02.45.07:707][207]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
-[2018.03.04-02.45.40:434][957]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
-[2018.03.04-02.45.41:239][ 46]Cmd: DELETE
-[2018.03.04-02.45.41:239][ 46]Cmd: ACTOR DELETE
-[2018.03.04-02.45.41:393][ 46]LogEditorActor: Deleted Actor: Actor
-[2018.03.04-02.45.41:416][ 46]LogEditorActor: Deleted 1 Actors (0.043 secs)
-[2018.03.04-02.45.43:334][271]LogActorFactory: Actor Factory created Cube
-[2018.03.04-02.45.44:079][358]LogActorFactory: Actor Factory created Cube
-[2018.03.04-02.45.59:645][100]LogActorFactory: Actor Factory created Cylinder
-[2018.03.04-02.46.02:592][436]LogActorFactory: Actor Factory created Cylinder
-[2018.03.04-02.46.17:691][153]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2018.03.04-02.46.22:218][602]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2018.03.04-02.46.32:262][753]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.03.04-02.46.32:761][753]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.03.04-02.46.36:162][153]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.03.04-02.46.36:423][184]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.03.04-02.46.36:832][233]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.03.04-02.46.37:021][255]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.03.04-02.46.38:152][389]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.03.04-02.46.39:135][506]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.03.04-02.46.39:328][529]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.03.04-02.46.41:309][762]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.41:309][762]LogEditorTransaction: Undo Clicking on Actors
-[2018.03.04-02.46.41:829][762]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.03.04-02.46.41:863][764]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.41:863][764]LogEditorTransaction: Undo Clicking on Actors
-[2018.03.04-02.46.42:926][885]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.42:926][885]LogEditorTransaction: Undo Scale Actors
-[2018.03.04-02.46.43:644][967]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.43:644][967]LogEditorTransaction: Undo Scale Actors
-[2018.03.04-02.46.44:109][ 21]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.44:109][ 21]LogEditorTransaction: Undo Move Actors
-[2018.03.04-02.46.44:535][ 69]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.44:535][ 69]LogEditorTransaction: Undo Create Actors
-[2018.03.04-02.46.44:973][116]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.44:973][116]LogEditorTransaction: Undo Snap Actors To Floor
-[2018.03.04-02.46.45:479][174]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.45:479][174]LogEditorTransaction: Undo Move Actors
-[2018.03.04-02.46.45:942][228]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.45:942][228]LogEditorTransaction: Undo Move Actors
-[2018.03.04-02.46.46:287][268]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.46:287][268]LogEditorTransaction: Undo Scale Actors
-[2018.03.04-02.46.46:597][304]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.46:597][304]LogEditorTransaction: Undo Create Actors
-[2018.03.04-02.46.47:413][401]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.47:413][401]LogEditorTransaction: Undo Delete Actors
-[2018.03.04-02.46.48:003][468]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.48:004][468]LogEditorTransaction: Undo Clicking on Actors
-[2018.03.04-02.46.48:332][506]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.48:332][506]LogEditorTransaction: Undo Scale Actors
-[2018.03.04-02.46.48:710][550]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.48:710][550]LogEditorTransaction: Undo Scale Actors
-[2018.03.04-02.46.49:027][587]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.49:027][587]LogEditorTransaction: Undo Scale Actors
-[2018.03.04-02.46.49:590][654]Cmd: TRANSACTION UNDO
-[2018.03.04-02.46.49:591][654]LogEditorTransaction: Undo Scale Actors
-[2018.03.04-02.46.51:122][836]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.03.04-02.46.51:319][859]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.03.04-02.46.57:609][607]Cmd: DELETE
-[2018.03.04-02.46.57:609][607]Cmd: ACTOR DELETE
-[2018.03.04-02.46.57:610][607]LogEditorActor: Deleted Actor: Actor
-[2018.03.04-02.46.57:620][607]LogEditorActor: Deleted 1 Actors (0.011 secs)
-[2018.03.04-02.47.08:646][859]LogActorFactory: Actor Factory created Cube
-[2018.03.04-02.47.09:795][993]LogActorFactory: Actor Factory created Cube
-[2018.03.04-02.47.17:273][844]LogActorFactory: Actor Factory created Sphere
-[2018.03.04-02.47.19:395][ 80]LogActorFactory: Actor Factory created Sphere
-[2018.03.04-02.47.20:434][198]Cmd: DELETE
-[2018.03.04-02.47.20:434][198]Cmd: ACTOR DELETE
-[2018.03.04-02.47.20:435][198]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.03.04-02.47.20:446][198]LogEditorActor: Deleted 1 Actors (0.012 secs)
-[2018.03.04-02.47.29:083][228]LogActorFactory: Actor Factory created Cylinder
-[2018.03.04-02.47.30:444][388]LogActorFactory: Actor Factory created Cylinder
-[2018.03.04-02.47.38:187][284]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2018.03.04-02.47.38:828][290]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
-[2018.03.04-02.48.01:077][883]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
-[2018.03.04-02.48.30:065][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.03.04-02.48.30:113][883]LogSavePackage: Save=34.96ms
-[2018.03.04-02.48.30:114][883]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1DB9576A245A413FDA68298B79A4E0792.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
-[2018.03.04-02.48.30:123][883]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
-[2018.03.04-02.48.31:138][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1_BuiltData" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1_BuiltData.uasset" SILENT=true
-[2018.03.04-02.48.31:152][883]LogSavePackage: Save=12.12ms
-[2018.03.04-02.48.31:152][883]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1_BuiltData7D784E444F0E423D8E1D14AE06F1F74E.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1_BuiltData.uasset'
-[2018.03.04-02.48.31:156][883]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1_BuiltData.uasset
-[2018.03.04-02.48.31:361][883]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
-[2018.03.04-02.48.31:361][883]SourceControl: Error: TwistedFateGame/Content/Maps/Level_1_BuiltData.uasset
-[2018.03.04-02.48.31:361][883]SourceControl: Error: Use -f if you really want to add them.
-[2018.03.04-02.48.31:368][883]LogFileHelpers: Saving map 'Level_1' took 1.398
-[2018.03.04-02.48.31:626][911]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
-[2018.03.04-02.48.34:333][215]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
-[2018.03.04-02.48.41:828][215]LogSourceControl: FGitCheckInWorker: commit successful
-[2018.03.04-02.48.41:933][215]SourceControl: [master 2e8fe40] level
-[2018.03.04-02.48.41:933][215]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
-[2018.03.04-02.48.41:933][215]SourceControl:  create mode 100644 TwistedFateGame/Content/Maps/Level_1.umap
-[2018.03.04-02.48.41:944][215]SourceControl: Commited [master 2e8fe40] level.
-[2018.03.04-02.48.47:401][651]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
-[2018.03.04-02.48.47:505][651]EditorErrors: Warning: No assets to check in!
+[2018.03.05-00.26.04:014][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.05-00.26.04:014][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.05-00.26.04:079][  0]LogInit: Computer: RYAN
+[2018.03.05-00.26.04:079][  0]LogInit: User: Ryan
+[2018.03.05-00.26.04:079][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.05-00.26.04:079][  0]LogInit: High frequency timer resolution =2.648439 MHz
+[2018.03.05-00.26.04:079][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.05-00.26.04:079][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.05-00.26.04:079][  0]LogMemory: Process Physical Memory: 279.61 MB used, 279.61 MB peak
+[2018.03.05-00.26.04:079][  0]LogMemory: Process Virtual Memory: 278.27 MB used, 278.27 MB peak
+[2018.03.05-00.26.04:079][  0]LogMemory: Physical Memory: 4006.12 MB used,  12303.74 MB free, 16309.86 MB total
+[2018.03.05-00.26.04:079][  0]LogMemory: Virtual Memory: 736.78 MB used,  12303.74 MB free, 134217728.00 MB total
+[2018.03.05-00.26.04:995][  0]LogInit: Using OS detected language (en-US).
+[2018.03.05-00.26.04:995][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.05-00.26.05:305][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.05-00.26.06:912][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.05-00.26.13:206][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.05-00.26.13:265][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.03.05-00.26.13:265][  0]LogD3D11RHI:       4058/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.05-00.26.13:267][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.05-00.26.13:267][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.05-00.26.13:267][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.05-00.26.13:274][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.05-00.26.13:274][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.05-00.26.13:274][  0]LogWindows: EnumDisplayDevices:
+[2018.03.05-00.26.13:274][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.03.05-00.26.13:274][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.03.05-00.26.13:274][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.03.05-00.26.13:274][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.03.05-00.26.13:274][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.05-00.26.13:274][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.03.05-00.26.13:274][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.05-00.26.13:274][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.05-00.26.13:274][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2018.03.05-00.26.13:297][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.05-00.26.13:312][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.05-00.26.13:355][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Intermediate/Shaders/WorkingDirectory/19344/).
+[2018.03.05-00.26.13:355][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ryan/AppData/Local/Temp/UnrealShaderWorkingDir/76128F9A468E8DD334FA4A97175BCCDC/'.
+[2018.03.05-00.26.13:355][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.05-00.26.18:280][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.05-00.26.18:337][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.05-00.26.18:392][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.05-00.26.18:448][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.05-00.26.18:543][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.05-00.26.18:600][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.05-00.26.18:656][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.05-00.26.18:708][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.05-00.26.18:755][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.05-00.26.18:824][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.05-00.26.18:892][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.05-00.26.18:943][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.05-00.26.19:025][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.05-00.26.19:082][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.05-00.26.19:211][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.05-00.26.19:211][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.05-00.26.19:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.05-00.26.19:358][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.05-00.26.19:586][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.05-00.26.19:614][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.05-00.26.19:701][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.05-00.26.19:765][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.05-00.26.19:834][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.05-00.26.19:929][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.05-00.26.19:929][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.05-00.26.20:608][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.05-00.26.21:553][  0]LogDerivedDataCache: Loaded boot cache 0.94s 78MB C:/Users/Ryan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.05-00.26.21:553][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ryan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.05-00.26.21:553][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.05-00.26.21:553][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.05-00.26.21:554][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.05-00.26.21:554][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.05-00.26.21:617][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.05-00.26.21:658][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.05-00.26.21:668][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.05-00.26.21:668][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.05-00.26.21:756][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.05-00.26.21:756][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.05-00.26.25:883][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.05-00.26.27:194][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.05-00.26.27:244][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.05-00.26.27:244][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.05-00.26.27:244][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.05-00.26.27:244][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.05-00.26.27:244][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.05-00.26.27:469][  0]LogNetVersion: TwistedFateGame , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1574445964)
+[2018.03.05-00.26.28:736][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.03.05-00.26.37:722][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.088620 seconds
+[2018.03.05-00.26.37:726][  0]LogUObjectArray: 35871 objects as part of root set at end of initial load.
+[2018.03.05-00.26.37:726][  0]LogUObjectAllocator: 7363928 out of 0 bytes used by permanent object pool.
+[2018.03.05-00.26.37:726][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.05-00.26.37:808][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.05-00.27.23:322][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.05-00.27.23:391][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.05-00.27.24:545][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.05-00.27.25:191][  0]SourceControl: Source control is disabled
+[2018.03.05-00.27.25:191][  0]SourceControl: Source control is disabled
+[2018.03.05-00.27.25:276][  0]SourceControl: Source control is disabled
+[2018.03.05-00.27.25:367][  0]SourceControl: Source control is disabled
+[2018.03.05-00.27.26:615][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.05-00.27.26:906][  0]LogOcInput: OculusInput pre-init called
+[2018.03.05-00.27.27:311][  0]LogEngine: Initializing Engine...
+[2018.03.05-00.27.27:313][  0]LogHMD: Oculus plugin initialized. Version: 4.18.3-3832480+++UE4+Release-4.18, OVRPlugin: 1.19.0
+[2018.03.05-00.27.27:865][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.05-00.27.27:865][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.05-00.27.28:017][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.05-00.27.28:061][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.05-00.27.28:090][  0]LogInit: FAudioDevice initialized.
+[2018.03.05-00.27.28:239][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/Ryan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.05-00.27.28:251][  0]LogInit: Texture streaming: Enabled
+[2018.03.05-00.27.28:414][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.05-00.27.28:561][  0]LogInit: Transaction tracking system initialized
+[2018.03.05-00.27.28:971][  0]BlueprintLog: New page: Editor Load
+[2018.03.05-00.27.30:245][  0]LocalizationService: Localization service is disabled
+[2018.03.05-00.27.31:330][  0]LogConsoleResponse: Display: 
+[2018.03.05-00.27.33:729][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.05-00.27.33:729][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.05-00.27.33:729][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.05-00.27.33:958][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/' took 0.02s
+[2018.03.05-00.27.36:402][  0]SourceControl: Source control is disabled
+[2018.03.05-00.27.36:402][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.05-00.27.36:403][  0]LightingResults: New page: Lighting Build
+[2018.03.05-00.27.36:447][  0]MapCheck: New page: Map Check
+[2018.03.05-00.27.36:447][  0]LightingResults: New page: Lighting Build
+[2018.03.05-00.27.37:131][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.27.37:131][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.03.05-00.27.37:131][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2018.03.05-00.27.37:150][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.27.37:151][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.03.05-00.27.37:151][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2018.03.05-00.27.37:154][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.27.37:154][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.03.05-00.27.37:154][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.27.37:154][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.03.05-00.27.37:163][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.27.37:163][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.03.05-00.27.37:163][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.03.05-00.27.37:163][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.03.05-00.27.38:106][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.05-00.27.38:161][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.05-00.27.38:175][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.05-00.27.38:231][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.261ms to complete.
+[2018.03.05-00.27.38:231][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.828
+[2018.03.05-00.27.38:686][  0]LogCollectionManager: Loaded 0 collections in 0.001586 seconds
+[2018.03.05-00.27.38:774][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Collections/' took 0.01s
+[2018.03.05-00.27.38:774][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Developers/Ryan/Collections/' took 0.01s
+[2018.03.05-00.27.38:774][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Collections/' took 0.01s
+[2018.03.05-00.27.38:774][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.05-00.27.38:783][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2363 classes and 519 folders.
+[2018.03.05-00.27.38:850][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.05-00.27.40:461][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.05-00.27.40:542][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.05-00.27.40:684][  0]LogSlate: Took 0.019238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.05-00.27.40:702][  0]LogSlate: Took 0.016373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.05-00.27.40:723][  0]LogSlate: Took 0.017359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.05-00.27.41:026][  0]LogRenderer: Reallocating scene render targets to support 1208x532 Format 10 NumSamples 1 (Frame:1).
+[2018.03.05-00.27.41:273][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.05-00.27.41:273][  0]LogLoad: (Engine Initialization) Total time: 112.73 seconds
+[2018.03.05-00.27.41:273][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.05-00.27.41:273][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.05-00.27.41:621][  0]LogOcInput: OculusInput is initialized
+[2018.03.05-00.27.41:638][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.03.05-00.27.41:784][  0]LogSlate: Took 0.041741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.05-00.27.41:951][  1]LogAssetRegistry: Asset discovery search completed in 73.2376 seconds
+[2018.03.05-00.27.42:025][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.05-00.27.42:025][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2018.03.05-00.29.29:864][124]SourceControl: On branch master
+[2018.03.05-00.29.29:864][124]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.03.05-00.29.29:864][124]SourceControl: Changes not staged for commit:
+[2018.03.05-00.29.29:864][124]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.03.05-00.29.29:864][124]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.03.05-00.29.29:864][124]SourceControl: 	modified:   TwistedFateGame/Intermediate/CachedAssetRegistry.bin
+[2018.03.05-00.29.29:864][124]SourceControl: 	modified:   TwistedFateGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.03.05-00.29.29:864][124]SourceControl: 	modified:   TwistedFateGame/Saved/Config/Windows/Engine.ini
+[2018.03.05-00.29.29:864][124]SourceControl: 	modified:   TwistedFateGame/Saved/Logs/TwistedFateGame.log
+[2018.03.05-00.29.29:864][124]SourceControl: Untracked files:
+[2018.03.05-00.29.29:864][124]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.03.05-00.29.29:864][124]SourceControl: 	TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-ACD696EE4416B9CA4F68348853784102/
+[2018.03.05-00.29.29:864][124]SourceControl: 	TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.04-19.26.00.log
+[2018.03.05-00.29.29:864][124]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.03.05-00.29.42:863][672]SourceControl: On branch master
+[2018.03.05-00.29.42:863][672]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.03.05-00.29.42:863][672]SourceControl: Changes not staged for commit:
+[2018.03.05-00.29.42:863][672]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.03.05-00.29.42:863][672]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.03.05-00.29.42:863][672]SourceControl: 	modified:   TwistedFateGame/Intermediate/CachedAssetRegistry.bin
+[2018.03.05-00.29.42:864][672]SourceControl: 	modified:   TwistedFateGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.03.05-00.29.42:864][672]SourceControl: 	modified:   TwistedFateGame/Saved/Config/Windows/Engine.ini
+[2018.03.05-00.29.42:864][672]SourceControl: 	modified:   TwistedFateGame/Saved/Logs/TwistedFateGame.log
+[2018.03.05-00.29.42:864][672]SourceControl: Untracked files:
+[2018.03.05-00.29.42:864][672]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.03.05-00.29.42:864][672]SourceControl: 	TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-ACD696EE4416B9CA4F68348853784102/
+[2018.03.05-00.29.42:864][672]SourceControl: 	TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.04-19.26.00.log
+[2018.03.05-00.29.42:864][672]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.03.05-00.29.50:926][632]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.05-00.29.50:944][632]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.05-00.29.50:945][632]LightingResults: New page: Lighting Build
+[2018.03.05-00.29.50:945][632]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2018.03.05-00.29.50:946][632]MapCheck: New page: Map Check
+[2018.03.05-00.29.50:946][632]LightingResults: New page: Lighting Build
+[2018.03.05-00.29.50:962][632]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.29.50:962][632]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.03.05-00.29.50:962][632]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2018.03.05-00.29.50:966][632]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.29.50:966][632]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.03.05-00.29.50:969][632]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.29.50:970][632]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.03.05-00.29.50:970][632]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.29.50:970][632]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.03.05-00.29.50:976][632]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.29.50:976][632]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.03.05-00.29.50:976][632]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.03.05-00.29.50:991][632]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.05-00.29.51:057][632]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.05-00.29.51:122][632]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.05-00.29.51:182][632]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.824ms to complete.
+[2018.03.05-00.29.51:183][632]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.240
