@@ -381,6 +381,8 @@ LogInit: Object subsystem initialized
 [2018.03.05-03.11.38:086][565]SourceControl: 	TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-910F9CE14CE746DCF2955AA2E86D4EA3/
 [2018.03.05-03.11.38:086][565]SourceControl: 	TwistedFateGame/Saved/Logs/TwistedFateGame_2.log
 [2018.03.05-03.11.38:086][565]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+<<<<<<< HEAD
+=======
 [2018.03.05-03.12.40:091][292]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
 [2018.03.05-03.12.40:091][292]LightingResults: New page: Lighting Build
 [2018.03.05-03.12.40:092][292]LoadErrors: New page: Loading map: Level_1.umap
@@ -688,3 +690,4 @@ LogInit: Object subsystem initialized
 [2018.03.05-03.13.13:879][110]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.03.05-03.13.13:884][110]LogExit: Exiting.
 [2018.03.05-03.13.13:896][110]Log file closed, 03/04/18 22:13:13
+>>>>>>> 3867266198b967c4f6fe48401b9b8679749bf99d
