@@ -370,3 +370,23 @@ LogInit: Object subsystem initialized
 [2018.03.05-04.07.03:486][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
 [2018.03.05-04.07.04:383][  6]LogSlate: Took 0.014555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
 [2018.03.05-04.07.05:334][  7]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.05-04.07.07:343][ 13]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/' took 6.22s
+[2018.03.05-04.07.14:782][137]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.05-04.07.14:804][137]LogLinker: Warning: Can't find file '/Game/Maps/Level_1_BuiltData'
+[2018.03.05-04.07.14:804][137]LogLinker: Warning: Can't find file for asset '/Game/Maps/Level_1_BuiltData' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap.
+[2018.03.05-04.07.14:804][137]LoadErrors: Error: /Game/Maps/Level_1 : Can't find file for asset. /Game/Maps/Level_1_BuiltData
+[2018.03.05-04.07.14:806][137]LogLinker: Warning: Can't find file '/Game/Maps/Level_1_BuiltData'
+[2018.03.05-04.07.14:806][137]LogLinker: Warning: Can't find file for asset '/Game/Maps/Level_1_BuiltData' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap.
+[2018.03.05-04.07.14:844][137]LogLinker: Warning: Can't find file '/Game/Maps/Level_1_BuiltData'
+[2018.03.05-04.07.14:845][137]LoadErrors: Failed to load /Game/Maps/Level_1_BuiltData.Level_1_BuiltData Referenced by PersistentLevel
+[2018.03.05-04.07.14:845][137]LogLinker: Warning: Can't find file for asset '/Game/Maps/Level_1_BuiltData' while loading NULL.
+[2018.03.05-04.07.14:863][137]LogAIModule: Creating AISystem for world Level_1
+[2018.03.05-04.07.14:913][137]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.05-04.07.14:913][137]LightingResults: New page: Lighting Build
+[2018.03.05-04.07.14:913][137]LoadErrors: New page: Loading map: Level_1.umap
+[2018.03.05-04.07.14:914][137]MapCheck: New page: Map Check
+[2018.03.05-04.07.14:914][137]LightingResults: New page: Lighting Build
+[2018.03.05-04.07.15:112][137]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.05-04.07.15:158][137]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.05-04.07.15:218][137]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.245ms to complete.
+[2018.03.05-04.07.15:218][137]LogFileHelpers: Loading map 'Level_1' took 0.307
