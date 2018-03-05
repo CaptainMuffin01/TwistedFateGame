@@ -3743,3 +3743,59 @@ LogInit: Object subsystem initialized
 [2018.03.05-05.05.57:186][703]BlueprintLog: New page: Compile ThirdPerson_AnimBP
 [2018.03.05-05.05.57:215][703]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] The property associated with  Primary Weapon Pressed?  could not be found
 [2018.03.05-05.05.57:340][703]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [3581.12] Compile of ThirdPerson_AnimBP failed. 1 Fatal Issue(s) 0 Warning(s) [in 153 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2018.03.05-05.08.23:157][756]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.05-05.08.23:188][756]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] The property associated with  Primary Weapon Pressed?  could not be found
+[2018.03.05-05.08.23:317][756]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [3727.09] Compile of ThirdPerson_AnimBP failed. 1 Fatal Issue(s) 0 Warning(s) [in 160 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2018.03.05-05.08.48:877][753]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_1' took 0.024
+[2018.03.05-05.08.48:879][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Survivor] ([1] browsable assets)...
+[2018.03.05-05.08.48:894][753]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Survivor.Survivor]
+[2018.03.05-05.08.48:895][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Survivor]
+[2018.03.05-05.08.49:009][753]LogSavePackage: Save=83.23ms
+[2018.03.05-05.08.49:009][753]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Survivor_Auto366FE707F46F9EF74BC4DB4A2CD6FE8C7.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Survivor_Auto3.uasset'
+[2018.03.05-05.08.49:011][753]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Survivor_Auto3.uasset
+[2018.03.05-05.08.49:012][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2018.03.05-05.08.49:025][753]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2018.03.05-05.08.49:025][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2018.03.05-05.08.49:211][753]LogSavePackage: Save=154.77ms
+[2018.03.05-05.08.49:211][753]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/ThirdPerson_AnimBP_Auto3F2C19CA840B4396A8C86B384CF3C974D.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto3.uasset'
+[2018.03.05-05.08.49:213][753]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto3.uasset
+[2018.03.05-05.08.49:213][753]LogFileHelpers: Auto-saving content packages took 0.335
+[2018.03.05-05.10.43:550][314]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.05-05.10.43:582][314]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] The property associated with  Primary Weapon Pressed?  could not be found
+[2018.03.05-05.10.43:713][314]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [3867.49] Compile of ThirdPerson_AnimBP failed. 1 Fatal Issue(s) 0 Warning(s) [in 162 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2018.03.05-05.11.01:642][331]LogSavePackage: Save=132.62ms
+[2018.03.05-05.11.01:642][331]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/ThirdPerson_AnimBPF437AD0A4BA83478213220BA40C8232C.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2018.03.05-05.11.01:658][331]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2018.03.05-05.11.23:549][811]LogRenderer: Reallocating scene render targets to support 1252x712 Format 10 NumSamples 1 (Frame:1).
+[2018.03.05-05.11.38:178][462]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.05-05.12.32:462][586]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2018.03.05-05.12.38:940][293]BlueprintLog: New page: Compile Survivor
+[2018.03.05-05.12.41:739][562]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.05-05.14.08:585][ 37]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2018.03.05-05.14.10:660][285]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.05-05.15.12:025][304]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.05-05.15.12:056][304]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] Equip_Rifle_Standing to Rifle_Idle_Walk_Jog  will never be taken, please connect something to  Can Enter Transition
+[2018.03.05-05.15.12:209][304]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [4135.98] Compile of ThirdPerson_AnimBP successful, but with 1 Warning(s) [in 183 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2018.03.05-05.17.59:358][785]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.05-05.18.22:671][521]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.05-05.18.48:058][493]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.05-05.18.57:849][628]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-05.18.59:570][628]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.03.05-05.18.59:570][628]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.03.05-05.18.59:696][628]LogPackageName: SearchForPackageOnDisk took   0.126s, but failed to resolve S_ClothTarps_03.
+[2018.03.05-05.18.59:696][628]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2018.03.05-05.19.12:851][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-05.19.12:851][628]LogHMD: Initializing OVRPlugin session
+[2018.03.05-05.19.12:953][628]PIE: New page: PIE session: Level_1 (Mar 4, 2018, 7:19:12 PM)
+[2018.03.05-05.19.12:953][628]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.05-05.19.13:039][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086212s)
+[2018.03.05-05.19.13:040][628]LogAIModule: Creating AISystem for world Level_1
+[2018.03.05-05.19.13:040][628]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2018.03.05-05.19.13:041][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.087854s)
+[2018.03.05-05.19.13:081][628]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.05-05.19.13:098][628]LogInit: FAudioDevice initialized.
+[2018.03.05-05.19.13:177][628]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.05-05.19.13:181][628]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 3) at 2018.03.05-00.19.13
+[2018.03.05-05.19.13:181][628]LogWorld: Bringing up level for play took: 0.002932
+[2018.03.05-05.19.13:234][628]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.03.05-05.19.13:238][628]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.244
