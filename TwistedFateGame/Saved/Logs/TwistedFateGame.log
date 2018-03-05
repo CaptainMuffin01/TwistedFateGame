@@ -1066,3 +1066,27 @@ LogInit: Object subsystem initialized
 [2018.03.05-02.20.13:851][298]SourceControl: [master 0fb2bce] l
 [2018.03.05-02.20.13:851][298]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.03.05-02.20.13:863][298]SourceControl: Commited [master 0fb2bce] l.
+[2018.03.05-03.11.25:215][626]SourceControl: Source control is disabled
+[2018.03.05-03.11.40:331][  2]SourceControl: Source control is disabled
+[2018.03.05-03.11.53:941][293]SourceControl: On branch master
+[2018.03.05-03.11.53:941][293]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.03.05-03.11.53:941][293]SourceControl: nothing to commit, working tree clean
+[2018.03.05-03.11.59:991][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.05-03.12.00:592][954]LogSavePackage: Save=523.03ms
+[2018.03.05-03.12.00:592][954]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1CC3BE62248309E45B5D179AB7159AE86.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.05-03.12.00:597][954]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.05-03.12.00:741][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1_BuiltData" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.03.05-03.12.00:756][954]LogSavePackage: Save=9.21ms
+[2018.03.05-03.12.00:756][954]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1_BuiltDataBC71B81D499A269CE855558CF34DA643.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1_BuiltData.uasset'
+[2018.03.05-03.12.00:759][954]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1_BuiltData.uasset
+[2018.03.05-03.12.47:249][611]SourceControl: On branch master
+[2018.03.05-03.12.47:249][611]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.03.05-03.12.47:249][611]SourceControl: Changes not staged for commit:
+[2018.03.05-03.12.47:249][611]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.03.05-03.12.47:249][611]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.03.05-03.12.47:249][611]SourceControl: 	modified:   TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.05-03.12.47:249][611]SourceControl: Untracked files:
+[2018.03.05-03.12.47:249][611]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.03.05-03.12.47:249][611]SourceControl: 	TwistedFateGame/Saved/Backup/Level_1_2018-03-04-22-12-00.umap
+[2018.03.05-03.12.47:249][611]SourceControl: 	TwistedFateGame/Saved/Backup/Level_1_BuiltData_2018-03-04-22-12-00.uasset
+[2018.03.05-03.12.47:249][611]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
