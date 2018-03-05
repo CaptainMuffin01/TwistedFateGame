@@ -1090,3 +1090,15 @@ LogInit: Object subsystem initialized
 [2018.03.05-03.12.47:249][611]SourceControl: 	TwistedFateGame/Saved/Backup/Level_1_2018-03-04-22-12-00.umap
 [2018.03.05-03.12.47:249][611]SourceControl: 	TwistedFateGame/Saved/Backup/Level_1_BuiltData_2018-03-04-22-12-00.uasset
 [2018.03.05-03.12.47:249][611]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.03.05-03.13.46:657][203]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.05-03.13.50:888][203]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.05-03.13.50:987][203]SourceControl: On branch master
+[2018.03.05-03.13.50:987][203]SourceControl: Your branch and 'origin/master' have diverged,
+[2018.03.05-03.13.50:987][203]SourceControl: and have 2 and 5 different commits each, respectively.
+[2018.03.05-03.13.50:987][203]SourceControl:   (use "git pull" to merge the remote branch into yours)
+[2018.03.05-03.13.50:987][203]SourceControl: Changes not staged for commit:
+[2018.03.05-03.13.50:987][203]SourceControl: 	modified:   TwistedFateGame/Saved/Logs/TwistedFateGame.log
+[2018.03.05-03.13.50:987][203]SourceControl: Untracked files:
+[2018.03.05-03.13.50:987][203]SourceControl: 	TwistedFateGame/Saved/Logs/Git-TempD6D5B3EC46D28BF193FBFD9CDCF1A530.txt
+[2018.03.05-03.13.50:987][203]SourceControl: no changes added to commit
+[2018.03.05-03.13.50:999][203]SourceControl: Commited On branch master.
