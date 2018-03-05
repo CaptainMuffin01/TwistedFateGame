@@ -976,3 +976,25 @@ LogInit: Object subsystem initialized
 [2018.03.05-01.36.40:175][516]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
 [2018.03.05-01.36.40:178][516]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.277
 [2018.03.05-01.36.40:178][516]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.277
+[2018.03.05-01.38.07:243][167]LogLinker: Warning: Can't find file '/Game/Maps/Level_1_BuiltData'
+[2018.03.05-01.38.07:243][167]LogLinker: Warning: Can't find file for asset '/Game/Maps/Level_1_BuiltData' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap.
+[2018.03.05-01.38.07:243][167]LoadErrors: Error: /Game/Maps/Level_1 : Can't find file for asset. /Game/Maps/Level_1_BuiltData
+[2018.03.05-01.38.07:248][167]LogLinker: Warning: Can't find file '/Game/Maps/Level_1_BuiltData'
+[2018.03.05-01.38.07:248][167]LogLinker: Warning: Can't find file for asset '/Game/Maps/Level_1_BuiltData' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap.
+[2018.03.05-01.38.07:253][167]LogLinker: Warning: Can't find file '/Game/Maps/Level_1_BuiltData'
+[2018.03.05-01.38.07:254][167]LoadErrors: Failed to load /Game/Maps/Level_1_BuiltData.Level_1_BuiltData Referenced by PersistentLevel
+[2018.03.05-01.38.07:254][167]LogLinker: Warning: Can't find file for asset '/Game/Maps/Level_1_BuiltData' while loading NULL.
+[2018.03.05-01.38.07:298][167]LogAIModule: Creating AISystem for world Level_1
+[2018.03.05-01.38.12:452][167]LogSavePackage: Save=155.98ms
+[2018.03.05-01.38.12:452][167]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/ThirdPersonExampleMap07AAD5DB420E38392447E0BF936CD2C8.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.03.05-01.38.12:457][167]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.03.05-01.38.12:472][167]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.261
+[2018.03.05-01.38.12:474][167]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.05-01.38.12:474][167]LightingResults: New page: Lighting Build
+[2018.03.05-01.38.12:474][167]LoadErrors: New page: Loading map: Level_1.umap
+[2018.03.05-01.38.12:476][167]MapCheck: New page: Map Check
+[2018.03.05-01.38.12:476][167]LightingResults: New page: Lighting Build
+[2018.03.05-01.38.12:557][167]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.05-01.38.12:589][167]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.05-01.38.12:653][167]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.237ms to complete.
+[2018.03.05-01.38.12:659][167]LogFileHelpers: Loading map 'Level_1' took 0.187
