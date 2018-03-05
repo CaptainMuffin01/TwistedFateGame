@@ -412,3 +412,194 @@ LogInit: Object subsystem initialized
 [2018.03.05-00.29.51:122][632]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.03.05-00.29.51:182][632]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.824ms to complete.
 [2018.03.05-00.29.51:183][632]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.240
+[2018.03.05-00.30.24:973][890]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.05-00.30.24:973][890]LightingResults: New page: Lighting Build
+[2018.03.05-00.30.24:974][890]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2018.03.05-00.30.24:975][890]MapCheck: New page: Map Check
+[2018.03.05-00.30.24:975][890]LightingResults: New page: Lighting Build
+[2018.03.05-00.30.24:992][890]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.30.24:992][890]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.03.05-00.30.24:992][890]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2018.03.05-00.30.24:996][890]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.30.24:997][890]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.03.05-00.30.25:000][890]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.30.25:000][890]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.03.05-00.30.25:000][890]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.30.25:000][890]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.03.05-00.30.25:007][890]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.03.05-00.30.25:007][890]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.03.05-00.30.25:007][890]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.03.05-00.30.25:021][890]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.05-00.30.25:089][890]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.05-00.30.25:123][890]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.05-00.30.25:182][890]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.986ms to complete.
+[2018.03.05-00.30.25:184][890]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.211
+[2018.03.05-00.30.29:457][385]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.03.05-00.30.29:592][385]EditorErrors: Warning: No assets to check in!
+[2018.03.05-00.30.50:179][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.05-00.31.26:940][228]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.03.05-00.31.27:700][228]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.05-00.31.28:160][228]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2018.03.05-00.31.29:470][337]LogSlate: Took 0.014034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.05-00.31.32:797][625]LogSlate: Took 0.024128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.05-00.33.31:285][920]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-00.33.31:401][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.05-00.33.31:401][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-00.33.31:401][920]LogHMD: Initializing OVRPlugin session
+[2018.03.05-00.33.35:130][920]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 4, 2018, 2:33:35 PM)
+[2018.03.05-00.33.35:130][920]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.05-00.33.35:158][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027865s)
+[2018.03.05-00.33.35:160][920]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.05-00.33.35:160][920]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2018.03.05-00.33.35:160][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029733s)
+[2018.03.05-00.33.35:215][920]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.05-00.33.35:226][920]LogInit: FAudioDevice initialized.
+[2018.03.05-00.33.35:276][920]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.05-00.33.35:280][920]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.04-19.33.35
+[2018.03.05-00.33.35:280][920]LogWorld: Bringing up level for play took: 0.002116
+[2018.03.05-00.33.35:332][920]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.05-00.33.35:332][920]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 3.85
+[2018.03.05-00.33.35:333][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.05-00.34.00:900][828]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.05-00.34.00:937][828]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.05-00.45.54:356][201]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.05-01.00.05:258][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.03.05-01.00.28:084][116]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.05-01.00.29:008][116]SourceControl: [master 9833f26] animations
+[2018.03.05-01.00.29:008][116]SourceControl:  50 files changed, 0 insertions(+), 0 deletions(-)
+[2018.03.05-01.00.29:008][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Aim_Space_Hip.uasset
+[2018.03.05-01.00.29:008][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Aim_Space_Ironsights.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/BS_CrouchWalk.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/BS_Jog.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Death_1.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Death_2.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Death_3.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Death_Ironsights_1.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Death_Ironsights_2.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Equip_Pistol_Standing.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Equip_Rifle_Standing.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Fire_Rifle_Hip.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Hit_React_1.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Hit_React_2.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Hit_React_3.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Hit_React_4.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Idle_Pistol.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Idle_Rifle_Hip.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Jog_Lt_Rifle.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Jog_Rt_Rifle.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Jump_From_Jog.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Jump_From_Stand.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_Death_1.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_Death_2.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_Fire_1.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_Fire_2.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_Idle.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_Reload_Rifle.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset
+[2018.03.05-01.00.29:009][116]SourceControl: [master 17f7f81] animations
+[2018.03.05-01.00.29:009][116]SourceControl:  Date: Sun Mar 4 20:00:23 2018 -0500
+[2018.03.05-01.00.29:009][116]SourceControl:  82 files changed, 0 insertions(+), 0 deletions(-)
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Aim_Space_Hip.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Aim_Space_Ironsights.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/BS_CrouchWalk.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/BS_Jog.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset
+[2018.03.05-01.00.29:009][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Death_1.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Death_2.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Death_3.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Death_Ironsights_1.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Death_Ironsights_2.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Equip_Pistol_Standing.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Equip_Rifle_Standing.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Fire_Rifle_Hip.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Hit_React_1.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Hit_React_2.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Hit_React_3.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Hit_React_4.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Idle_Pistol.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Idle_Rifle_Hip.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Jog_Lt_Rifle.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Jog_Rt_Rifle.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Jump_From_Jog.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Jump_From_Stand.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_Death_1.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_Death_2.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_Fire_1.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_Fire_2.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_Idle.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_Reload_Rifle.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Prone_To_Stand.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Reload_Pistol.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Reload_Rifle_Hip.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Showcase.umap
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Stand_To_Prone.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:010][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Ue4ASP_Character.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:011][116]SourceControl:  create mode 100644 TwistedFateGame/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset
+[2018.03.05-01.00.29:018][116]SourceControl: Commited [master 9833f26] animations.
