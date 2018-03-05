@@ -810,3 +810,259 @@ LogInit: Object subsystem initialized
 [2018.03.05-01.41.06:121][399]Cmd: TRANSACTION UNDO
 [2018.03.05-01.41.06:121][399]LogEditorTransaction: Undo Clicking on Actors
 [2018.03.05-01.41.35:313][920]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_1' took 0.011
+[2018.03.05-01.42.34:812][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.03.05-01.42.37:718][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.03.05-01.42.38:294][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.03.05-01.42.38:601][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.03.05-01.42.39:821][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.03.05-01.42.40:264][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.05-01.42.43:132][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.03.05-01.42.44:294][371]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cylinder)
+[2018.03.05-01.42.46:487][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.03.05-01.42.46:912][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.03.05-01.42.48:938][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.03.05-01.42.49:493][939]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2018.03.05-01.43.00:491][167]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2018.03.05-01.43.00:509][167]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.05-01.43.00:516][167]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.05-01.43.00:524][167]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.05-01.43.00:532][167]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2018.03.05-01.43.00:539][167]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.05-01.43.00:546][167]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.05-01.43.00:554][167]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.05-01.43.00:561][167]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.05-01.43.00:568][167]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.05-01.43.00:576][167]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.05-01.43.07:521][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.03.05-01.43.08:003][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.03.05-01.43.08:805][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.03.05-01.43.14:288][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.03.05-01.43.15:353][792]Cmd: DELETE
+[2018.03.05-01.43.15:353][792]Cmd: ACTOR DELETE
+[2018.03.05-01.43.15:355][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.05-01.43.15:365][792]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2018.03.05-01.43.16:079][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.03.05-01.43.16:222][888]Cmd: DELETE
+[2018.03.05-01.43.16:222][888]Cmd: ACTOR DELETE
+[2018.03.05-01.43.16:223][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.05-01.43.16:233][888]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2018.03.05-01.43.16:730][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.05-01.43.16:933][965]Cmd: DELETE
+[2018.03.05-01.43.16:933][965]Cmd: ACTOR DELETE
+[2018.03.05-01.43.16:934][965]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.05-01.43.16:944][965]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.03.05-01.43.31:415][680]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2018.03.05-01.43.36:552][211]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.03.05-01.43.54:328][175]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.03.05-01.43.55:169][266]Cmd: DELETE
+[2018.03.05-01.43.55:169][266]Cmd: ACTOR DELETE
+[2018.03.05-01.43.55:172][266]LogEditorActor: Deleted Actor: Landscape
+[2018.03.05-01.43.55:192][266]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.03.05-01.44.02:983][184]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.05-01.44.03:611][258]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.05-01.44.07:717][706]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.03.05-01.44.07:732][706]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.03.05-01.44.07:749][706]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.03.05-01.44.07:762][706]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.03.05-01.44.20:717][192]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-01.44.21:414][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-01.44.21:414][192]LogHMD: Initializing OVRPlugin session
+[2018.03.05-01.44.21:470][192]PIE: New page: PIE session: Level_1 (Mar 4, 2018, 3:44:21 PM)
+[2018.03.05-01.44.21:471][192]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.05-01.44.21:501][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030220s)
+[2018.03.05-01.44.21:502][192]LogAIModule: Creating AISystem for world Level_1
+[2018.03.05-01.44.21:503][192]LogPlayLevel: PIE: World Init took: (0.001642s)
+[2018.03.05-01.44.21:503][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.032374s)
+[2018.03.05-01.44.21:530][192]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.05-01.44.21:546][192]LogInit: FAudioDevice initialized.
+[2018.03.05-01.44.21:618][192]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.05-01.44.21:622][192]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.04-20.44.21
+[2018.03.05-01.44.21:622][192]LogWorld: Bringing up level for play took: 0.002187
+[2018.03.05-01.44.21:639][192]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.05-01.44.21:689][192]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.03.05-01.44.21:723][192]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.752
+[2018.03.05-01.44.25:468][606]Cmd: SELECT NONE
+[2018.03.05-01.44.36:612][885]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.05-01.44.40:272][291]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-01.44.40:286][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-01.44.40:286][291]LogHMD: Initializing OVRPlugin session
+[2018.03.05-01.44.40:309][291]PIE: New page: PIE session: Level_1 (Mar 4, 2018, 3:44:40 PM)
+[2018.03.05-01.44.40:309][291]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.05-01.44.40:332][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023159s)
+[2018.03.05-01.44.40:333][291]LogAIModule: Creating AISystem for world Level_1
+[2018.03.05-01.44.40:333][291]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.03.05-01.44.40:333][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.024201s)
+[2018.03.05-01.44.40:358][291]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.05-01.44.40:369][291]LogInit: FAudioDevice initialized.
+[2018.03.05-01.44.40:401][291]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.05-01.44.40:404][291]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.04-20.44.40
+[2018.03.05-01.44.40:404][291]LogWorld: Bringing up level for play took: 0.001911
+[2018.03.05-01.44.40:406][291]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.565
+[2018.03.05-01.45.52:125][717]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.03.05-01.45.55:842][115]Cmd: DELETE
+[2018.03.05-01.45.55:843][115]Cmd: ACTOR DELETE
+[2018.03.05-01.45.55:846][115]LogEditorActor: Deleted Actor: Landscape
+[2018.03.05-01.45.55:874][115]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.03.05-01.46.52:480][795]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-01.46.52:489][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-01.46.52:489][795]LogHMD: Initializing OVRPlugin session
+[2018.03.05-01.46.52:513][795]PIE: New page: PIE session: Level_1 (Mar 4, 2018, 3:46:52 PM)
+[2018.03.05-01.46.52:513][795]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.05-01.46.52:520][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007170s)
+[2018.03.05-01.46.52:521][795]LogAIModule: Creating AISystem for world Level_1
+[2018.03.05-01.46.52:521][795]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2018.03.05-01.46.52:521][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.008238s)
+[2018.03.05-01.46.52:553][795]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.05-01.46.52:568][795]LogInit: FAudioDevice initialized.
+[2018.03.05-01.46.52:600][795]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.05-01.46.52:601][795]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.04-20.46.52
+[2018.03.05-01.46.52:602][795]LogWorld: Bringing up level for play took: 0.000615
+[2018.03.05-01.46.52:604][795]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.368
+[2018.03.05-01.48.11:575][ 21]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.03.05-01.48.11:589][ 21]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.03.05-01.48.11:603][ 21]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.03.05-01.48.11:616][ 21]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.03.05-01.48.11:628][ 21]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.03.05-01.48.11:642][ 21]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.03.05-01.48.11:656][ 21]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.03.05-01.48.11:668][ 21]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.03.05-01.48.11:682][ 21]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.03.05-01.48.11:694][ 21]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.03.05-01.48.11:707][ 21]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.03.05-01.48.11:720][ 21]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X512)
+[2018.03.05-01.48.11:736][ 21]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 512X512)
+[2018.03.05-01.48.11:748][ 21]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 512X512)
+[2018.03.05-01.48.11:760][ 21]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.05-01.48.11:772][ 21]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X512)
+[2018.03.05-01.49.39:495][848]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.03.05-01.49.51:530][176]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.05-01.49.52:443][274]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-01.49.52:452][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-01.49.52:452][274]LogHMD: Initializing OVRPlugin session
+[2018.03.05-01.49.52:477][274]PIE: New page: PIE session: Level_1 (Mar 4, 2018, 3:49:52 PM)
+[2018.03.05-01.49.52:477][274]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.05-01.49.52:540][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062117s)
+[2018.03.05-01.49.52:541][274]LogAIModule: Creating AISystem for world Level_1
+[2018.03.05-01.49.52:541][274]LogPlayLevel: PIE: World Init took: (0.001588s)
+[2018.03.05-01.49.52:542][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.064103s)
+[2018.03.05-01.49.52:569][274]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.05-01.49.52:584][274]LogInit: FAudioDevice initialized.
+[2018.03.05-01.49.52:614][274]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.05-01.49.52:616][274]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.04-20.49.52
+[2018.03.05-01.49.52:617][274]LogWorld: Bringing up level for play took: 0.002180
+[2018.03.05-01.49.52:619][274]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.352
+[2018.03.05-01.52.11:885][407]LogSavePackage: Save=416.82ms
+[2018.03.05-01.52.11:885][407]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1_Auto1AC24F8BA44875D1E5B471CB03632FF5D.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto1.umap'
+[2018.03.05-01.52.11:888][407]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto1.umap
+[2018.03.05-01.52.11:892][407]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_1' took 0.444
+[2018.03.05-01.52.11:893][407]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.444
+[2018.03.05-01.59.09:451][628]Cmd: TRANSACTION UNDO
+[2018.03.05-01.59.09:451][628]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.03.05-01.59.10:085][628]Cmd: TRANSACTION UNDO
+[2018.03.05-01.59.10:085][628]LogEditorTransaction: Undo Edit Brush Size
+[2018.03.05-02.00.54:954][745]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-02.00.54:962][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-02.00.54:963][745]LogHMD: Initializing OVRPlugin session
+[2018.03.05-02.00.54:987][745]PIE: New page: PIE session: Level_1 (Mar 4, 2018, 4:00:54 PM)
+[2018.03.05-02.00.54:987][745]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.05-02.00.55:045][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058116s)
+[2018.03.05-02.00.55:046][745]LogAIModule: Creating AISystem for world Level_1
+[2018.03.05-02.00.55:046][745]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2018.03.05-02.00.55:047][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.059520s)
+[2018.03.05-02.00.55:081][745]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.05-02.00.55:095][745]LogInit: FAudioDevice initialized.
+[2018.03.05-02.00.55:125][745]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.05-02.00.55:127][745]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.04-21.00.55
+[2018.03.05-02.00.55:128][745]LogWorld: Bringing up level for play took: 0.002038
+[2018.03.05-02.00.55:130][745]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.159
+[2018.03.05-02.03.09:002][104]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.03.05-02.03.09:014][104]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.03.05-02.03.09:037][104]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.03.05-02.03.09:046][104]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.03.05-02.03.09:056][104]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X512)
+[2018.03.05-02.03.09:071][104]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X512)
+[2018.03.05-02.03.09:307][104]LogSavePackage: Save=347.19ms
+[2018.03.05-02.03.09:307][104]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1_Auto2554BA18C402E320C6C15A581A4C88FAC.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto2.umap'
+[2018.03.05-02.03.09:311][104]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto2.umap
+[2018.03.05-02.03.09:313][104]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_1' took 0.371
+[2018.03.05-02.03.09:313][104]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.371
+[2018.03.05-02.09.49:875][248]Cmd: TRANSACTION UNDO
+[2018.03.05-02.09.49:875][248]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.03.05-02.09.49:892][248]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 512X512)
+[2018.03.05-02.09.49:928][248]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 512X512)
+[2018.03.05-02.13.52:936][889]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-02.13.52:945][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-02.13.52:946][889]LogHMD: Initializing OVRPlugin session
+[2018.03.05-02.13.52:970][889]PIE: New page: PIE session: Level_1 (Mar 4, 2018, 4:13:52 PM)
+[2018.03.05-02.13.52:970][889]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.05-02.13.53:029][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058622s)
+[2018.03.05-02.13.53:030][889]LogAIModule: Creating AISystem for world Level_1
+[2018.03.05-02.13.53:030][889]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2018.03.05-02.13.53:030][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.060261s)
+[2018.03.05-02.13.53:056][889]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.05-02.13.53:073][889]LogInit: FAudioDevice initialized.
+[2018.03.05-02.13.53:108][889]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.05-02.13.53:111][889]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.04-21.13.53
+[2018.03.05-02.13.53:111][889]LogWorld: Bringing up level for play took: 0.002259
+[2018.03.05-02.13.53:113][889]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.142
+[2018.03.05-02.19.12:572][287]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-02.19.12:580][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-02.19.12:580][287]LogHMD: Initializing OVRPlugin session
+[2018.03.05-02.19.12:606][287]PIE: New page: PIE session: Level_1 (Mar 4, 2018, 4:19:12 PM)
+[2018.03.05-02.19.12:606][287]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.05-02.19.12:663][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057082s)
+[2018.03.05-02.19.12:664][287]LogAIModule: Creating AISystem for world Level_1
+[2018.03.05-02.19.12:664][287]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2018.03.05-02.19.12:664][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.058652s)
+[2018.03.05-02.19.12:693][287]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.05-02.19.12:710][287]LogInit: FAudioDevice initialized.
+[2018.03.05-02.19.12:744][287]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.05-02.19.12:746][287]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.04-21.19.12
+[2018.03.05-02.19.12:747][287]LogWorld: Bringing up level for play took: 0.001966
+[2018.03.05-02.19.12:749][287]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.223
+[2018.03.05-02.19.37:645][164]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-02.19.37:653][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-02.19.37:653][164]LogHMD: Initializing OVRPlugin session
+[2018.03.05-02.19.37:677][164]PIE: New page: PIE session: Level_1 (Mar 4, 2018, 4:19:37 PM)
+[2018.03.05-02.19.37:677][164]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.05-02.19.37:736][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058733s)
+[2018.03.05-02.19.37:737][164]LogAIModule: Creating AISystem for world Level_1
+[2018.03.05-02.19.37:737][164]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2018.03.05-02.19.37:737][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.060212s)
+[2018.03.05-02.19.37:763][164]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.05-02.19.37:775][164]LogInit: FAudioDevice initialized.
+[2018.03.05-02.19.37:811][164]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.05-02.19.37:814][164]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.04-21.19.37
+[2018.03.05-02.19.37:814][164]LogWorld: Bringing up level for play took: 0.002291
+[2018.03.05-02.19.37:816][164]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.845
+[2018.03.05-02.20.00:976][796]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.05-02.20.01:095][796]EditorErrors: Warning: No assets to check in!
+[2018.03.05-02.20.04:364][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.05-02.20.04:429][125]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.03.05-02.20.04:439][125]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.03.05-02.20.04:448][125]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.03.05-02.20.04:458][125]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.03.05-02.20.04:482][125]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.03.05-02.20.04:491][125]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.03.05-02.20.04:501][125]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.03.05-02.20.04:512][125]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.03.05-02.20.04:521][125]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.03.05-02.20.04:530][125]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.03.05-02.20.04:539][125]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.03.05-02.20.04:549][125]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X512)
+[2018.03.05-02.20.04:576][125]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 512X512)
+[2018.03.05-02.20.04:589][125]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 512X512)
+[2018.03.05-02.20.04:598][125]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.05-02.20.04:608][125]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X512)
+[2018.03.05-02.20.05:156][125]LogSavePackage: Save=774.75ms
+[2018.03.05-02.20.05:156][125]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1D5828D6D491383A53F76D2B130607073.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.05-02.20.05:162][125]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.05-02.20.05:295][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1_BuiltData" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.03.05-02.20.05:316][125]LogSavePackage: Save=10.88ms
+[2018.03.05-02.20.05:316][125]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1_BuiltData2BD85DCB458C626FE5FA09A6819B6ECA.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1_BuiltData.uasset'
+[2018.03.05-02.20.05:318][125]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1_BuiltData.uasset
+[2018.03.05-02.20.07:308][298]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.05-02.20.13:752][298]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.05-02.20.13:851][298]SourceControl: [master 0fb2bce] l
+[2018.03.05-02.20.13:851][298]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.05-02.20.13:863][298]SourceControl: Commited [master 0fb2bce] l.
