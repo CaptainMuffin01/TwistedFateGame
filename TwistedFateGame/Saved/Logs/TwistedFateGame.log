@@ -435,3 +435,25 @@ LogInit: Object subsystem initialized
 [2018.03.08-17.32.48:767][353]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.453ms to complete.
 [2018.03.08-17.32.48:767][353]LogFileHelpers: Loading map 'Level_1' took 0.264
 [2018.03.08-17.33.22:933][392]Cmd: SELECT NONE
+[2018.03.08-17.35.14:823][277]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.08-17.35.14:839][277]LightingResults: New page: Lighting Build
+[2018.03.08-17.35.14:840][277]LoadErrors: New page: Loading map: Level_1.umap
+[2018.03.08-17.35.14:842][277]MapCheck: New page: Map Check
+[2018.03.08-17.35.14:842][277]LightingResults: New page: Lighting Build
+[2018.03.08-17.35.14:927][277]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-17.35.15:056][277]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.08-17.35.15:110][277]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.08-17.35.15:186][277]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.259ms to complete.
+[2018.03.08-17.35.15:186][277]LogFileHelpers: Loading map 'Level_1' took 0.365
+[2018.03.08-17.35.40:160][235]Cmd: SELECT NONE
+[2018.03.08-17.35.54:534][569]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.03.08-17.37.16:655][446]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.08-17.37.16:669][446]LightingResults: New page: Lighting Build
+[2018.03.08-17.37.16:669][446]LoadErrors: New page: Loading map: Level_1.umap
+[2018.03.08-17.37.16:672][446]MapCheck: New page: Map Check
+[2018.03.08-17.37.16:672][446]LightingResults: New page: Lighting Build
+[2018.03.08-17.37.16:774][446]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-17.37.16:908][446]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.08-17.37.16:960][446]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.08-17.37.17:033][446]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.582ms to complete.
+[2018.03.08-17.37.17:033][446]LogFileHelpers: Loading map 'Level_1' took 0.379
