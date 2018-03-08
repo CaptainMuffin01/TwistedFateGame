@@ -449,3 +449,12 @@ LogInit: Object subsystem initialized
 [2018.03.08-18.55.04:579][838]SourceControl: [Cameron 12a2552] v
 [2018.03.08-18.55.04:579][838]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.03.08-18.55.04:591][838]SourceControl: Commited [Cameron 12a2552] v.
+[2018.03.08-19.00.35:336][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.08-19.00.37:083][899]LogSavePackage: Save=1694.64ms
+[2018.03.08-19.00.37:083][899]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_19F2B289E435B873D524C1793A07C8D35.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.08-19.00.37:090][899]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.08-19.00.46:758][402]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-19.00.57:870][402]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.08-19.00.58:182][402]SourceControl: [master 548288c] .
+[2018.03.08-19.00.58:182][402]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.08-19.00.58:196][402]SourceControl: Commited [master 548288c] ..
