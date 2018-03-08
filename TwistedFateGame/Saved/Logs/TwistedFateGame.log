@@ -458,3 +458,18 @@ LogInit: Object subsystem initialized
 [2018.03.08-17.26.34:626][548]SourceControl: [Cameron 48dcb90] .
 [2018.03.08-17.26.34:626][548]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.03.08-17.26.34:637][548]SourceControl: Commited [Cameron 48dcb90] ..
+[2018.03.08-17.48.49:606][348]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.03.08-17.48.54:610][673]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.03.08-17.49.17:043][100]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.03.08-17.49.22:859][465]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.03.08-17.49.34:420][172]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-17.49.34:647][172]EditorErrors: Warning: No assets to check in!
+[2018.03.08-17.49.38:667][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.08-17.49.39:907][422]LogSavePackage: Save=1220.82ms
+[2018.03.08-17.49.39:907][422]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_13BF432044A917EDF82516980D43C379D.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.08-17.49.39:912][422]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.08-17.49.47:108][859]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-17.49.55:848][859]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.08-17.49.56:083][859]SourceControl: [master 8bbea56] .
+[2018.03.08-17.49.56:083][859]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.08-17.49.56:097][859]SourceControl: Commited [master 8bbea56] ..
