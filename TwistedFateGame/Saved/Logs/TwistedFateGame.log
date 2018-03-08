@@ -1241,3 +1241,16 @@ LogInit: Object subsystem initialized
 [2018.03.08-04.18.46:079][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) Already registered. Aborting.
 [2018.03.08-04.18.46:111][188]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) - call TermArticulated first.
 [2018.03.08-04.18.46:463][188]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-04.20.19:765][720]LogSavePackage: Save=1058.73ms
+[2018.03.08-04.20.19:765][720]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Level_1E6DC789A4B0CDB4FFE16509162A80C29.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.08-04.20.19:775][720]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.08-04.20.19:819][720]LogFileHelpers: Saving map 'Level_1' took 1.262
+[2018.03.08-04.20.20:640][720]LogSavePackage: Save=812.93ms
+[2018.03.08-04.20.20:640][720]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/ThirdPerson_AnimBPA7E7571140E1931198D69B930E7D546D.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2018.03.08-04.20.20:646][720]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2018.03.08-04.20.27:912][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-04.20.35:951][534]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.08-04.20.36:245][534]SourceControl: [master a3bf2a5] vcv
+[2018.03.08-04.20.36:245][534]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.03.08-04.20.36:245][534]SourceControl:  rewrite TwistedFateGame/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset (76%)
+[2018.03.08-04.20.36:252][534]SourceControl: Commited [master a3bf2a5] vcv.
