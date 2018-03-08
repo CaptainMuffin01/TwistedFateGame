@@ -738,3 +738,506 @@ LogInit: Object subsystem initialized
 [2018.03.08-03.39.35:748][402]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
 [2018.03.08-03.39.36:095][402]LogRenderer: Reallocating scene render targets to support 1252x656 Format 10 NumSamples 1 (Frame:1).
 [2018.03.08-03.39.36:095][402]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-03.43.03:333][983]LogSlate: Took 0.013042 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.08-03.44.01:345][771]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.44.27:920][784]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.44.28:731][840]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.44.28:754][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.44.28:754][840]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:44:28 PM)
+[2018.03.08-03.44.28:754][840]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.44.28:822][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067718s)
+[2018.03.08-03.44.28:823][840]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.44.28:823][840]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2018.03.08-03.44.28:823][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.068880s)
+[2018.03.08-03.44.28:857][840]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-03.44.28:865][840]LogInit: FAudioDevice initialized.
+[2018.03.08-03.44.28:908][840]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.44.28:911][840]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.44.28
+[2018.03.08-03.44.28:912][840]LogWorld: Bringing up level for play took: 0.002603
+[2018.03.08-03.44.28:917][840]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.415
+[2018.03.08-03.45.36:785][186]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.45.38:348][327]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.45.38:371][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.45.38:371][327]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:45:38 PM)
+[2018.03.08-03.45.38:372][327]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.45.38:440][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067789s)
+[2018.03.08-03.45.38:440][327]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.45.38:441][327]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2018.03.08-03.45.38:441][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.068920s)
+[2018.03.08-03.45.38:476][327]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-03.45.38:484][327]LogInit: FAudioDevice initialized.
+[2018.03.08-03.45.38:532][327]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.45.38:535][327]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.45.38
+[2018.03.08-03.45.38:536][327]LogWorld: Bringing up level for play took: 0.002745
+[2018.03.08-03.45.38:541][327]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.791
+[2018.03.08-03.46.35:879][643]LogContentBrowser: Verbose: The majority of assets in the view are of type: BlendSpace1D
+[2018.03.08-03.46.43:029][498]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.08-03.46.43:065][498]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.03.08-03.46.43:389][498]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-03.46.47:219][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Animations/Military_Pistol_01/Animation/Aim_Offsets/MIL2_M3_W1_Stand_Aim_Point_L90.MIL2_M3_W1_Stand_Aim_Point_L90
+[2018.03.08-03.46.47:219][936]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Animations/Military_Pistol_01/Animation/Aim_Offsets/MIL2_M3_W1_Stand_Aim_Point_L90.MIL2_M3_W1_Stand_Aim_Point_L90) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-03.47.36:700][648]LogSavePackage: Save=1154.59ms
+[2018.03.08-03.47.36:700][648]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Level_1_Auto12DF249CE4BD9B43A942170AED0FA53DD.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto1.umap'
+[2018.03.08-03.47.36:701][648]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto1.umap
+[2018.03.08-03.47.36:705][648]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_1' took 1.231
+[2018.03.08-03.47.36:705][648]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.231
+[2018.03.08-03.47.36:709][648]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2018.03.08-03.47.36:722][648]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2018.03.08-03.47.36:723][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2018.03.08-03.47.37:466][648]LogSavePackage: Save=734.99ms
+[2018.03.08-03.47.37:466][648]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/ThirdPerson_AnimBP_Auto1435CF4A744C22D2E65FF58AFFB407491.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto1.uasset'
+[2018.03.08-03.47.37:468][648]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto1.uasset
+[2018.03.08-03.47.37:468][648]LogFileHelpers: Auto-saving content packages took 0.760
+[2018.03.08-03.47.41:645][146]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-03.48.17:169][218]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2018.03.08-03.48.18:168][337]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-03.48.36:708][441]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.49.21:700][603]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.49.21:833][603]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] Crouch_Walk to Equip_Pistol_Standing  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-03.49.21:833][603]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] Equip_Pistol_Standing to Crouch_Pistol_Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-03.49.21:833][603]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] Crouch_Walk to Equip_Pistol_Standing  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-03.49.22:061][603]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [1205.47] Compile of ThirdPerson_AnimBP successful, but with 3 Warning(s) [in 360 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2018.03.08-03.50.28:131][148]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.51.48:246][366]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.51.49:425][460]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.51.49:447][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.51.49:447][460]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:51:49 PM)
+[2018.03.08-03.51.49:447][460]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.51.49:515][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067394s)
+[2018.03.08-03.51.49:516][460]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.51.49:516][460]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2018.03.08-03.51.49:516][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.068851s)
+[2018.03.08-03.51.49:551][460]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-03.51.49:560][460]LogInit: FAudioDevice initialized.
+[2018.03.08-03.51.49:605][460]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.51.49:608][460]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.51.49
+[2018.03.08-03.51.49:608][460]LogWorld: Bringing up level for play took: 0.002480
+[2018.03.08-03.51.49:614][460]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.282
+[2018.03.08-03.52.38:289][  9]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.53.15:074][314]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.53.22:942][212]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.53.22:965][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.53.22:965][212]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:53:22 PM)
+[2018.03.08-03.53.22:965][212]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.53.23:032][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067257s)
+[2018.03.08-03.53.23:033][212]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.53.23:033][212]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2018.03.08-03.53.23:033][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.068606s)
+[2018.03.08-03.53.23:069][212]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-03.53.23:077][212]LogInit: FAudioDevice initialized.
+[2018.03.08-03.53.23:123][212]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.53.23:126][212]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.53.23
+[2018.03.08-03.53.23:126][212]LogWorld: Bringing up level for play took: 0.002825
+[2018.03.08-03.53.23:131][212]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.201
+[2018.03.08-03.54.29:133][626]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.54.30:141][704]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.54.30:162][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.54.30:162][704]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:54:30 PM)
+[2018.03.08-03.54.30:163][704]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.54.30:229][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066800s)
+[2018.03.08-03.54.30:230][704]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.54.30:230][704]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2018.03.08-03.54.30:231][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.068213s)
+[2018.03.08-03.54.30:266][704]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-03.54.30:272][704]LogInit: FAudioDevice initialized.
+[2018.03.08-03.54.30:320][704]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.54.30:323][704]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.54.30
+[2018.03.08-03.54.30:324][704]LogWorld: Bringing up level for play took: 0.002865
+[2018.03.08-03.54.30:329][704]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.997
+[2018.03.08-03.57.06:238][920]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.57.07:738][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.57.07:761][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.57.07:761][ 45]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:57:07 PM)
+[2018.03.08-03.57.07:761][ 45]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.57.07:831][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069768s)
+[2018.03.08-03.57.07:832][ 45]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.57.07:832][ 45]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2018.03.08-03.57.07:833][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.071205s)
+[2018.03.08-03.57.07:869][ 45]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-03.57.07:877][ 45]LogInit: FAudioDevice initialized.
+[2018.03.08-03.57.07:922][ 45]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.57.07:925][ 45]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.57.07
+[2018.03.08-03.57.07:926][ 45]LogWorld: Bringing up level for play took: 0.002466
+[2018.03.08-03.57.07:931][ 45]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.599
+[2018.03.08-03.57.27:019][842]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.57.28:126][924]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.57.28:148][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.57.28:148][924]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:57:28 PM)
+[2018.03.08-03.57.28:148][924]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.57.28:212][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064471s)
+[2018.03.08-03.57.28:213][924]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.57.28:213][924]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2018.03.08-03.57.28:214][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.065754s)
+[2018.03.08-03.57.28:247][924]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-03.57.28:254][924]LogInit: FAudioDevice initialized.
+[2018.03.08-03.57.28:297][924]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.57.28:300][924]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.57.28
+[2018.03.08-03.57.28:300][924]LogWorld: Bringing up level for play took: 0.002824
+[2018.03.08-03.57.28:306][924]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.973
+[2018.03.08-03.57.47:297][893]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.57.47:320][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.57.47:320][893]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:57:47 PM)
+[2018.03.08-03.57.47:320][893]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.57.47:384][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064026s)
+[2018.03.08-03.57.47:385][893]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.57.47:385][893]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2018.03.08-03.57.47:385][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.065043s)
+[2018.03.08-03.57.47:420][893]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-03.57.47:427][893]LogInit: FAudioDevice initialized.
+[2018.03.08-03.57.47:473][893]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.57.47:476][893]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.57.47
+[2018.03.08-03.57.47:476][893]LogWorld: Bringing up level for play took: 0.002629
+[2018.03.08-03.57.47:481][893]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.149
+[2018.03.08-03.58.13:982][548]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.58.14:687][584]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.58.14:709][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.58.14:709][584]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:58:14 PM)
+[2018.03.08-03.58.14:709][584]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.58.14:775][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064922s)
+[2018.03.08-03.58.14:775][584]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.58.14:776][584]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2018.03.08-03.58.14:776][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.066129s)
+[2018.03.08-03.58.14:809][584]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-03.58.14:816][584]LogInit: FAudioDevice initialized.
+[2018.03.08-03.58.14:859][584]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.58.14:862][584]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.58.14
+[2018.03.08-03.58.14:862][584]LogWorld: Bringing up level for play took: 0.002469
+[2018.03.08-03.58.14:867][584]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.465
+[2018.03.08-03.58.32:430][224]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.58.33:108][257]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.58.33:131][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.58.33:131][257]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:58:33 PM)
+[2018.03.08-03.58.33:131][257]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.58.33:197][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065672s)
+[2018.03.08-03.58.33:198][257]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.58.33:198][257]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2018.03.08-03.58.33:198][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.066782s)
+[2018.03.08-03.58.33:232][257]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-03.58.33:239][257]LogInit: FAudioDevice initialized.
+[2018.03.08-03.58.33:288][257]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.58.33:291][257]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.58.33
+[2018.03.08-03.58.33:291][257]LogWorld: Bringing up level for play took: 0.002791
+[2018.03.08-03.58.33:297][257]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.036
+[2018.03.08-03.58.47:362][541]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.58.48:297][603]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.58.48:320][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.58.48:320][603]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:58:48 PM)
+[2018.03.08-03.58.48:320][603]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.58.48:388][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066984s)
+[2018.03.08-03.58.48:388][603]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.58.48:389][603]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2018.03.08-03.58.48:389][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.068108s)
+[2018.03.08-03.58.48:426][603]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-03.58.48:433][603]LogInit: FAudioDevice initialized.
+[2018.03.08-03.58.48:483][603]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.58.48:486][603]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.58.48
+[2018.03.08-03.58.48:486][603]LogWorld: Bringing up level for play took: 0.002577
+[2018.03.08-03.58.48:493][603]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 1.16
+[2018.03.08-03.59.04:495][109]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-03.59.05:314][160]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.59.05:336][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.59.05:337][160]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:59:05 PM)
+[2018.03.08-03.59.05:337][160]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.59.05:405][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068984s)
+[2018.03.08-03.59.05:406][160]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.59.05:406][160]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2018.03.08-03.59.05:407][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.070095s)
+[2018.03.08-03.59.05:442][160]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-03.59.05:449][160]LogInit: FAudioDevice initialized.
+[2018.03.08-03.59.05:495][160]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.59.05:498][160]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.59.05
+[2018.03.08-03.59.05:498][160]LogWorld: Bringing up level for play took: 0.002574
+[2018.03.08-03.59.05:504][160]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.172
+[2018.03.08-03.59.40:254][883]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2018.03.08-03.59.41:480][ 29]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-03.59.51:040][169]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Animations/StarterPackAnimations/Prone_Reload_Rifle.Prone_Reload_Rifle
+[2018.03.08-03.59.51:040][169]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Animations/StarterPackAnimations/Prone_Reload_Rifle.Prone_Reload_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_46) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-03.59.51:060][170]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Animations/StarterPackAnimations/Prone_Reload_Shotgun.Prone_Reload_Shotgun
+[2018.03.08-03.59.51:060][170]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Animations/StarterPackAnimations/Prone_Reload_Shotgun.Prone_Reload_Shotgun) using current/default (AnimCompress_BitwiseCompressOnly_47) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-03.59.51:208][184]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Animations/StarterPackAnimations/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2018.03.08-03.59.51:208][184]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Animations/StarterPackAnimations/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_51) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-03.59.59:609][160]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.00.08:763][198]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.00.10:304][334]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.00.10:328][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.00.10:328][334]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:00:10 PM)
+[2018.03.08-04.00.10:328][334]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.00.10:397][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068378s)
+[2018.03.08-04.00.10:397][334]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.00.10:397][334]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2018.03.08-04.00.10:398][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.069492s)
+[2018.03.08-04.00.10:434][334]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.00.10:441][334]LogInit: FAudioDevice initialized.
+[2018.03.08-04.00.10:490][334]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.00.10:494][334]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.00.10
+[2018.03.08-04.00.10:494][334]LogWorld: Bringing up level for play took: 0.002774
+[2018.03.08-04.00.10:499][334]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 1.167
+[2018.03.08-04.01.05:041][456]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.01.05:064][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.01.05:064][456]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:01:05 PM)
+[2018.03.08-04.01.05:064][456]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.01.05:134][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069889s)
+[2018.03.08-04.01.05:135][456]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.01.05:135][456]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2018.03.08-04.01.05:136][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.071320s)
+[2018.03.08-04.01.05:168][456]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.01.05:175][456]LogInit: FAudioDevice initialized.
+[2018.03.08-04.01.05:224][456]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.01.05:227][456]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.01.05
+[2018.03.08-04.01.05:228][456]LogWorld: Bringing up level for play took: 0.002717
+[2018.03.08-04.01.05:233][456]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.099
+[2018.03.08-04.02.00:421][457]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.02.00:443][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.02.00:443][457]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:02:00 PM)
+[2018.03.08-04.02.00:444][457]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.02.00:508][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064422s)
+[2018.03.08-04.02.00:510][457]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.02.00:510][457]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2018.03.08-04.02.00:510][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.066076s)
+[2018.03.08-04.02.00:543][457]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.02.00:551][457]LogInit: FAudioDevice initialized.
+[2018.03.08-04.02.00:594][457]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.02.00:597][457]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.02.00
+[2018.03.08-04.02.00:597][457]LogWorld: Bringing up level for play took: 0.002695
+[2018.03.08-04.02.00:603][457]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.73
+[2018.03.08-04.04.02:065][817]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.04.03:084][894]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.04.03:107][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.04.03:107][894]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:04:03 PM)
+[2018.03.08-04.04.03:107][894]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.04.03:176][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068481s)
+[2018.03.08-04.04.03:177][894]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.04.03:177][894]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2018.03.08-04.04.03:177][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.069929s)
+[2018.03.08-04.04.03:212][894]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.04.03:219][894]LogInit: FAudioDevice initialized.
+[2018.03.08-04.04.03:268][894]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.04.03:271][894]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.04.03
+[2018.03.08-04.04.03:271][894]LogWorld: Bringing up level for play took: 0.002795
+[2018.03.08-04.04.03:277][894]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.056
+[2018.03.08-04.04.39:151][843]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.04.40:425][949]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.04.40:449][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.04.40:449][949]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:04:40 PM)
+[2018.03.08-04.04.40:449][949]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.04.40:515][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066023s)
+[2018.03.08-04.04.40:516][949]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.04.40:516][949]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2018.03.08-04.04.40:516][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.067375s)
+[2018.03.08-04.04.40:548][949]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.04.40:555][949]LogInit: FAudioDevice initialized.
+[2018.03.08-04.04.40:600][949]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.04.40:603][949]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.04.40
+[2018.03.08-04.04.40:604][949]LogWorld: Bringing up level for play took: 0.002926
+[2018.03.08-04.04.40:609][949]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.724
+[2018.03.08-04.05.59:222][607]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.06.00:726][740]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.06.00:748][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.06.00:749][740]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:06:00 PM)
+[2018.03.08-04.06.00:749][740]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.06.00:817][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067734s)
+[2018.03.08-04.06.00:818][740]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.06.00:818][740]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2018.03.08-04.06.00:818][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.069072s)
+[2018.03.08-04.06.00:855][740]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.06.00:863][740]LogInit: FAudioDevice initialized.
+[2018.03.08-04.06.00:912][740]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.06.00:915][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.06.00
+[2018.03.08-04.06.00:915][740]LogWorld: Bringing up level for play took: 0.002806
+[2018.03.08-04.06.00:920][740]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.412
+[2018.03.08-04.06.36:634][492]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.06.37:449][540]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.06.37:472][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.06.37:472][540]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:06:37 PM)
+[2018.03.08-04.06.37:472][540]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.06.37:537][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063983s)
+[2018.03.08-04.06.37:537][540]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.06.37:537][540]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2018.03.08-04.06.37:538][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.065187s)
+[2018.03.08-04.06.37:570][540]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.06.37:577][540]LogInit: FAudioDevice initialized.
+[2018.03.08-04.06.37:624][540]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.06.37:627][540]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.06.37
+[2018.03.08-04.06.37:627][540]LogWorld: Bringing up level for play took: 0.002593
+[2018.03.08-04.06.37:633][540]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.301
+[2018.03.08-04.07.41:134][639]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.07.42:020][697]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.07.42:044][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.07.42:044][697]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:07:42 PM)
+[2018.03.08-04.07.42:044][697]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.07.42:113][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069242s)
+[2018.03.08-04.07.42:114][697]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.07.42:114][697]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2018.03.08-04.07.42:115][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.070548s)
+[2018.03.08-04.07.42:149][697]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.07.42:157][697]LogInit: FAudioDevice initialized.
+[2018.03.08-04.07.42:205][697]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.07.42:208][697]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.07.42
+[2018.03.08-04.07.42:209][697]LogWorld: Bringing up level for play took: 0.002543
+[2018.03.08-04.07.42:214][697]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.882
+[2018.03.08-04.08.48:253][696]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.08.49:299][769]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.08.49:322][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.08.49:322][769]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:08:49 PM)
+[2018.03.08-04.08.49:322][769]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.08.49:387][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064899s)
+[2018.03.08-04.08.49:388][769]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.08.49:388][769]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2018.03.08-04.08.49:388][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.066083s)
+[2018.03.08-04.08.49:424][769]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.08.49:431][769]LogInit: FAudioDevice initialized.
+[2018.03.08-04.08.49:476][769]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.08.49:478][769]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.08.49
+[2018.03.08-04.08.49:479][769]LogWorld: Bringing up level for play took: 0.002389
+[2018.03.08-04.08.49:485][769]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.152
+[2018.03.08-04.09.05:622][215]LogEditorTransaction: Undo Edit Duration
+[2018.03.08-04.09.05:794][215]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.08-04.09.28:412][723]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.09.29:248][772]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.09.29:270][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.09.29:271][772]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:09:29 PM)
+[2018.03.08-04.09.29:271][772]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.09.29:338][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067214s)
+[2018.03.08-04.09.29:339][772]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.09.29:339][772]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2018.03.08-04.09.29:339][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.068313s)
+[2018.03.08-04.09.29:376][772]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.09.29:384][772]LogInit: FAudioDevice initialized.
+[2018.03.08-04.09.29:430][772]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.09.29:433][772]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.09.29
+[2018.03.08-04.09.29:433][772]LogWorld: Bringing up level for play took: 0.002511
+[2018.03.08-04.09.29:439][772]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.107
+[2018.03.08-04.10.00:876][100]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.10.01:643][142]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.10.01:665][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.10.01:666][142]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:10:01 PM)
+[2018.03.08-04.10.01:666][142]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.10.01:732][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066411s)
+[2018.03.08-04.10.01:733][142]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.10.01:733][142]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2018.03.08-04.10.01:733][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.067384s)
+[2018.03.08-04.10.01:768][142]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.10.01:776][142]LogInit: FAudioDevice initialized.
+[2018.03.08-04.10.01:824][142]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.10.01:826][142]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.10.01
+[2018.03.08-04.10.01:827][142]LogWorld: Bringing up level for play took: 0.002432
+[2018.03.08-04.10.01:832][142]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.499
+[2018.03.08-04.10.44:402][669]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.03.08-04.10.44:441][669]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.03.08-04.10.44:769][669]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-04.10.56:034][965]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.10.56:841][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.10.56:864][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.10.56:864][ 13]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:10:56 PM)
+[2018.03.08-04.10.56:864][ 13]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.10.56:930][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066270s)
+[2018.03.08-04.10.56:931][ 13]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.10.56:931][ 13]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2018.03.08-04.10.56:931][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.067568s)
+[2018.03.08-04.10.56:965][ 13]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.10.56:971][ 13]LogInit: FAudioDevice initialized.
+[2018.03.08-04.10.57:018][ 13]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.10.57:022][ 13]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.10.57
+[2018.03.08-04.10.57:022][ 13]LogWorld: Bringing up level for play took: 0.003677
+[2018.03.08-04.10.57:027][ 13]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.305
+[2018.03.08-04.11.47:856][212]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.11.48:748][271]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.11.48:770][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.11.48:770][271]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:11:48 PM)
+[2018.03.08-04.11.48:771][271]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.11.48:835][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064415s)
+[2018.03.08-04.11.48:837][271]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.11.48:837][271]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2018.03.08-04.11.48:837][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.066082s)
+[2018.03.08-04.11.48:869][271]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.11.48:876][271]LogInit: FAudioDevice initialized.
+[2018.03.08-04.11.48:921][271]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.11.48:925][271]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.11.48
+[2018.03.08-04.11.48:925][271]LogWorld: Bringing up level for play took: 0.003018
+[2018.03.08-04.11.48:930][271]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.402
+[2018.03.08-04.12.20:352][283]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.12.21:639][389]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.12.21:661][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.12.21:662][389]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:12:21 PM)
+[2018.03.08-04.12.21:662][389]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.12.21:727][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065114s)
+[2018.03.08-04.12.21:728][389]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.12.21:728][389]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2018.03.08-04.12.21:728][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.066366s)
+[2018.03.08-04.12.21:763][389]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.12.21:769][389]LogInit: FAudioDevice initialized.
+[2018.03.08-04.12.21:814][389]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.12.21:817][389]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.12.21
+[2018.03.08-04.12.21:818][389]LogWorld: Bringing up level for play took: 0.002788
+[2018.03.08-04.12.21:823][389]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.49
+[2018.03.08-04.12.42:616][355]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.12.43:294][391]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.12.43:316][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.12.43:316][391]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:12:43 PM)
+[2018.03.08-04.12.43:316][391]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.12.43:382][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065807s)
+[2018.03.08-04.12.43:383][391]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.12.43:383][391]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2018.03.08-04.12.43:383][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.067061s)
+[2018.03.08-04.12.43:420][391]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.12.43:427][391]LogInit: FAudioDevice initialized.
+[2018.03.08-04.12.43:470][391]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.12.43:473][391]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.12.43
+[2018.03.08-04.12.43:474][391]LogWorld: Bringing up level for play took: 0.002829
+[2018.03.08-04.12.43:479][391]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.147
+[2018.03.08-04.13.05:575][349]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.13.06:598][426]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.13.06:620][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.13.06:620][426]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:13:06 PM)
+[2018.03.08-04.13.06:620][426]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.13.06:685][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064515s)
+[2018.03.08-04.13.06:686][426]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.13.06:686][426]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2018.03.08-04.13.06:686][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.065613s)
+[2018.03.08-04.13.06:719][426]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.13.06:726][426]LogInit: FAudioDevice initialized.
+[2018.03.08-04.13.06:772][426]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.13.06:775][426]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.13.06
+[2018.03.08-04.13.06:775][426]LogWorld: Bringing up level for play took: 0.002781
+[2018.03.08-04.13.06:781][426]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.552
+[2018.03.08-04.13.26:488][241]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.13.27:960][373]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.13.27:982][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.13.27:982][373]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:13:27 PM)
+[2018.03.08-04.13.27:982][373]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.13.28:047][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064329s)
+[2018.03.08-04.13.28:048][373]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.13.28:048][373]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2018.03.08-04.13.28:048][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.065552s)
+[2018.03.08-04.13.28:083][373]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.13.28:089][373]LogInit: FAudioDevice initialized.
+[2018.03.08-04.13.28:136][373]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.13.28:138][373]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.13.28
+[2018.03.08-04.13.28:139][373]LogWorld: Bringing up level for play took: 0.002697
+[2018.03.08-04.13.28:144][373]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.812
+[2018.03.08-04.13.59:126][100]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.08-04.13.59:945][153]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-04.13.59:967][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-04.13.59:968][153]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 6:13:59 PM)
+[2018.03.08-04.13.59:968][153]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-04.14.00:035][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066576s)
+[2018.03.08-04.14.00:035][153]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-04.14.00:036][153]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2018.03.08-04.14.00:036][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.067746s)
+[2018.03.08-04.14.00:068][153]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-04.14.00:077][153]LogInit: FAudioDevice initialized.
+[2018.03.08-04.14.00:122][153]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-04.14.00:125][153]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-23.14.00
+[2018.03.08-04.14.00:125][153]LogWorld: Bringing up level for play took: 0.002577
+[2018.03.08-04.14.00:130][153]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.798
+[2018.03.08-04.16.03:651][777]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_1' took 0.020
+[2018.03.08-04.16.03:654][777]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2018.03.08-04.16.03:683][777]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2018.03.08-04.16.03:683][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2018.03.08-04.16.04:488][777]LogSavePackage: Save=796.46ms
+[2018.03.08-04.16.04:488][777]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/ThirdPerson_AnimBP_Auto2B0ABDFF5453E390036BFD4ADB6B53B24.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto2.uasset'
+[2018.03.08-04.16.04:491][777]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto2.uasset
+[2018.03.08-04.16.04:491][777]LogFileHelpers: Auto-saving content packages took 0.839
+[2018.03.08-04.18.46:079][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.03.08-04.18.46:111][188]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) - call TermArticulated first.
+[2018.03.08-04.18.46:463][188]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
