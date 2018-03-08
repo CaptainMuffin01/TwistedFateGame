@@ -25091,3 +25091,4 @@ LogInit: Object subsystem initialized
 [2018.03.08-03.20.51:628][390]SourceControl:  rewrite TwistedFateGame/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset (81%)
 [2018.03.08-03.20.51:628][390]SourceControl:  rewrite TwistedFateGame/Content/ThirdPersonBP/Blueprints/Survivor.uasset (88%)
 [2018.03.08-03.20.51:639][390]SourceControl: Commited [master 7cfb83c] czx.
+[2018.03.08-03.22.17:297][363]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
