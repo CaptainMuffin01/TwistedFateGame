@@ -458,3 +458,13 @@ LogInit: Object subsystem initialized
 [2018.03.08-19.00.58:182][402]SourceControl: [master 548288c] .
 [2018.03.08-19.00.58:182][402]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.03.08-19.00.58:196][402]SourceControl: Commited [master 548288c] ..
+[2018.03.08-19.04.43:294][ 68]Cmd: POLY SELECT ADJACENT WALLS
+[2018.03.08-19.05.05:140][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.08-19.05.07:038][207]LogSavePackage: Save=1880.36ms
+[2018.03.08-19.05.07:038][207]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_13C681D6D4CA1964F5675A9826B23ECFE.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.08-19.05.07:047][207]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.08-19.05.12:715][503]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-19.05.24:012][503]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.08-19.05.24:283][503]SourceControl: [master d8a89f8] .
+[2018.03.08-19.05.24:283][503]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.08-19.05.24:295][503]SourceControl: Commited [master d8a89f8] ..
