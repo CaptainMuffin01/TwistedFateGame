@@ -622,3 +622,14 @@ LogInit: Object subsystem initialized
 [2018.03.08-18.23.11:567][626]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/ThirdPerson_AnimBPDB8E4F64421DC02D4FEB5ABAA01120E8.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
 [2018.03.08-18.23.11:571][626]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
 [2018.03.08-18.23.21:572][258]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-18.24.33:860][666]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.08-18.24.41:741][223]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-18.24.51:042][223]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.08-18.24.51:458][223]SourceControl: On branch master
+[2018.03.08-18.24.51:458][223]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.03.08-18.24.51:458][223]SourceControl: Changes not staged for commit:
+[2018.03.08-18.24.51:458][223]SourceControl: 	modified:   TwistedFateGame/Saved/Logs/TwistedFateGame.log
+[2018.03.08-18.24.51:458][223]SourceControl: Untracked files:
+[2018.03.08-18.24.51:458][223]SourceControl: 	TwistedFateGame/Saved/Logs/Git-Temp30DBD36E40B305DA8EA297A7DB438EE4.txt
+[2018.03.08-18.24.51:458][223]SourceControl: no changes added to commit
+[2018.03.08-18.24.51:466][223]SourceControl: Commited On branch master.
