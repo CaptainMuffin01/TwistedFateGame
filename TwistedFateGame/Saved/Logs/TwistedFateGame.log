@@ -740,3 +740,31 @@ LogInit: Object subsystem initialized
 [2018.03.08-16.36.18:048][438]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.08-11.36.18
 [2018.03.08-16.36.18:048][438]LogWorld: Bringing up level for play took: 0.007505
 [2018.03.08-16.36.18:052][438]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.415
+[2018.03.08-16.39.04:624][336]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-16.39.04:644][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-16.39.04:644][336]PIE: New page: PIE session: Level_1 (Mar 8, 2018, 6:39:04 AM)
+[2018.03.08-16.39.04:644][336]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-16.39.04:799][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154584s)
+[2018.03.08-16.39.04:799][336]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-16.39.04:800][336]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2018.03.08-16.39.04:800][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.155730s)
+[2018.03.08-16.39.04:826][336]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-16.39.04:837][336]LogInit: FAudioDevice initialized.
+[2018.03.08-16.39.04:871][336]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-16.39.04:881][336]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.08-11.39.04
+[2018.03.08-16.39.04:881][336]LogWorld: Bringing up level for play took: 0.009190
+[2018.03.08-16.39.04:885][336]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.753
+[2018.03.08-16.39.42:774][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.08-16.39.44:966][780]LogSavePackage: Save=2126.50ms
+[2018.03.08-16.39.44:966][780]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1113241C748132BC1DB41B5A61819C68A.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.08-16.39.44:978][780]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.08-16.39.45:004][780]LogFileHelpers: Saving map 'Level_1' took 2.331
+[2018.03.08-16.39.46:311][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.08-16.39.48:430][857]LogSavePackage: Save=2104.74ms
+[2018.03.08-16.39.48:430][857]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_172F48B5641406DEB051EEE80D16915E9.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.08-16.39.48:438][857]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.08-16.39.50:799][989]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-16.40.01:695][989]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.08-16.40.01:791][989]SourceControl: [master 498e641] .
+[2018.03.08-16.40.01:791][989]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.08-16.40.01:802][989]SourceControl: Commited [master 498e641] ..
