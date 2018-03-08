@@ -619,3 +619,71 @@ LogInit: Object subsystem initialized
 [2018.03.08-03.09.08:225][353]SourceControl:  create mode 100644 TwistedFateGame/Content/LowPolyRainforest/Trees/Palm_Tree_03.uasset
 [2018.03.08-03.09.08:225][353]SourceControl:  create mode 100644 TwistedFateGame/Content/LowPolyRainforest/Trees/Palm_Tree_04.uasset
 [2018.03.08-03.09.08:238][353]SourceControl: Commited [master 74a825e] ..
+[2018.03.08-03.15.21:902][686]LogStaticMesh: Building static mesh Shack_Floor_01...
+[2018.03.08-03.15.21:951][686]LogStaticMesh: Built static mesh [0.05s] /Game/LowPolyRainforest/Shack/Shack_Floor_01.Shack_Floor_01
+[2018.03.08-03.15.22:193][706]LogActorFactory: Actor Factory created Shack_Floor_01
+[2018.03.08-03.15.23:490][838]LogActorFactory: Actor Factory created Shack_Floor_01
+[2018.03.08-03.15.33:785][787]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.08-03.15.49:101][184]LogStaticMesh: Building static mesh Platform_01...
+[2018.03.08-03.15.49:123][184]LogStaticMesh: Built static mesh [0.02s] /Game/LowPolyRainforest/Shack/Platform_01.Platform_01
+[2018.03.08-03.15.49:342][199]LogActorFactory: Actor Factory created Platform_01
+[2018.03.08-03.15.50:792][316]LogActorFactory: Actor Factory created Platform_01
+[2018.03.08-03.16.07:344][993]Cmd: DELETE
+[2018.03.08-03.16.07:344][993]Cmd: ACTOR DELETE
+[2018.03.08-03.16.07:957][993]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.08-03.16.07:969][993]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2018.03.08-03.16.41:503][ 72]LogStaticMesh: Building static mesh Shack_Floor_Tree_Support_01...
+[2018.03.08-03.16.41:641][ 72]LogStaticMesh: Built static mesh [0.14s] /Game/LowPolyRainforest/Shack/Shack_Floor_Tree_Support_01.Shack_Floor_Tree_Support_01
+[2018.03.08-03.16.41:675][ 72]LogActorFactory: Actor Factory created Shack_Floor_Tree_Support_01
+[2018.03.08-03.16.42:831][180]LogActorFactory: Actor Factory created Shack_Floor_Tree_Support_01
+[2018.03.08-03.16.58:983][924]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.16.59:001][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.16.59:001][924]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:16:59 PM)
+[2018.03.08-03.16.59:001][924]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.16.59:069][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068001s)
+[2018.03.08-03.16.59:070][924]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.16.59:070][924]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2018.03.08-03.16.59:071][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.069663s)
+[2018.03.08-03.16.59:100][924]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.08-03.16.59:116][924]LogInit: FAudioDevice initialized.
+[2018.03.08-03.16.59:146][924]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.16.59:150][924]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.16.59
+[2018.03.08-03.16.59:150][924]LogWorld: Bringing up level for play took: 0.003004
+[2018.03.08-03.16.59:153][924]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.519
+[2018.03.08-03.17.35:597][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shack_Floor_Tree_Support_01)
+[2018.03.08-03.17.36:569][130]Cmd: DELETE
+[2018.03.08-03.17.36:569][130]Cmd: ACTOR DELETE
+[2018.03.08-03.17.36:589][130]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.08-03.17.36:599][130]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.03.08-03.17.45:087][815]LogActorFactory: Actor Factory created Platform_01
+[2018.03.08-03.17.45:949][898]LogActorFactory: Actor Factory created Platform_01
+[2018.03.08-03.17.56:496][935]LogActorFactory: Actor Factory created Platform_01
+[2018.03.08-03.17.58:383][102]LogActorFactory: Actor Factory created Platform_01
+[2018.03.08-03.18.42:490][986]LogStaticMesh: Building static mesh Rope_Bridge_01...
+[2018.03.08-03.18.42:671][986]LogStaticMesh: Built static mesh [0.18s] /Game/LowPolyRainforest/Shack/Rope_Bridge_01.Rope_Bridge_01
+[2018.03.08-03.18.42:710][986]LogActorFactory: Actor Factory created Rope_Bridge_01
+[2018.03.08-03.18.43:452][ 62]LogActorFactory: Actor Factory created Rope_Bridge_01
+[2018.03.08-03.18.50:124][723]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.03.08-03.18.56:671][430]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.18.56:687][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.18.56:687][430]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:18:56 PM)
+[2018.03.08-03.18.56:687][430]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.18.56:751][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064016s)
+[2018.03.08-03.18.56:751][430]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.18.56:751][430]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2018.03.08-03.18.56:752][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.064977s)
+[2018.03.08-03.18.56:777][430]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.08-03.18.56:788][430]LogInit: FAudioDevice initialized.
+[2018.03.08-03.18.56:821][430]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.18.56:824][430]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.18.56
+[2018.03.08-03.18.56:825][430]LogWorld: Bringing up level for play took: 0.002750
+[2018.03.08-03.18.57:436][430]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.235
+[2018.03.08-03.19.22:876][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rope_Bridge_01)
+[2018.03.08-03.19.24:036][324]Cmd: DELETE
+[2018.03.08-03.19.24:036][324]Cmd: ACTOR DELETE
+[2018.03.08-03.19.24:056][324]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.08-03.19.24:066][324]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.03.08-03.19.30:300][923]LogStaticMesh: Building static mesh Shack_Support_01...
+[2018.03.08-03.19.30:331][923]LogStaticMesh: Built static mesh [0.03s] /Game/LowPolyRainforest/Shack/Shack_Support_01.Shack_Support_01
+[2018.03.08-03.19.30:472][936]LogActorFactory: Actor Factory created Shack_Support_01
+[2018.03.08-03.19.31:013][996]LogActorFactory: Actor Factory created Shack_Support_01
