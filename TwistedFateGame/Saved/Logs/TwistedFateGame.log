@@ -430,3 +430,31 @@ LogInit: Object subsystem initialized
 [2018.03.08-17.03.41:565][759]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.03.08-17.03.41:650][759]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.43ms to complete.
 [2018.03.08-17.03.41:651][759]LogFileHelpers: Loading map 'Level_1' took 0.608
+[2018.03.08-17.25.05:744][465]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.03.08-17.25.05:799][465]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.03.08-17.25.05:841][465]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.03.08-17.25.05:883][465]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.03.08-17.25.06:078][465]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.03.08-17.25.12:299][ 96]LogActorFactory: Actor Factory created Large_Tree_01
+[2018.03.08-17.25.14:891][ 99]LogActorFactory: Actor Factory created Large_Tree_01
+[2018.03.08-17.25.16:268][207]LogActorFactory: Actor Factory created Large_Tree_02
+[2018.03.08-17.25.17:829][345]LogActorFactory: Actor Factory created Palm_Tree_01
+[2018.03.08-17.25.22:169][695]LogActorFactory: Actor Factory created Palm_Tree_02
+[2018.03.08-17.25.23:562][820]LogActorFactory: Actor Factory created Palm_Tree_03
+[2018.03.08-17.25.25:043][951]LogActorFactory: Actor Factory created Palm_Tree_04
+[2018.03.08-17.26.05:155][405]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.08-17.26.15:059][407]LogSavePackage: Save=829.10ms
+[2018.03.08-17.26.15:059][407]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1_Auto10FD4042D480B0212250909B4CF0FBF6A.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto1.umap'
+[2018.03.08-17.26.15:070][407]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto1.umap
+[2018.03.08-17.26.15:073][407]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.08-17.26.15:076][407]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_1' took 0.906
+[2018.03.08-17.26.15:076][407]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.906
+[2018.03.08-17.26.22:248][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.08-17.26.23:100][214]LogSavePackage: Save=836.36ms
+[2018.03.08-17.26.23:100][214]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_196D2AAF94516D317700D27A18B10E19B.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.08-17.26.23:109][214]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.08-17.26.26:167][548]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-17.26.34:520][548]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.08-17.26.34:626][548]SourceControl: [Cameron 48dcb90] .
+[2018.03.08-17.26.34:626][548]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.08-17.26.34:637][548]SourceControl: Commited [Cameron 48dcb90] ..
