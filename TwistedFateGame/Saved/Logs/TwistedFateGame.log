@@ -633,3 +633,28 @@ LogInit: Object subsystem initialized
 [2018.03.08-18.24.51:458][223]SourceControl: 	TwistedFateGame/Saved/Logs/Git-Temp30DBD36E40B305DA8EA297A7DB438EE4.txt
 [2018.03.08-18.24.51:458][223]SourceControl: no changes added to commit
 [2018.03.08-18.24.51:466][223]SourceControl: Commited On branch master.
+[2018.03.08-18.27.42:729][828]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.03.08-18.27.42:792][828]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.03.08-18.27.42:834][828]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.03.08-18.27.42:875][828]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.03.08-18.27.42:985][828]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.03.08-18.27.52:653][347]LogActorFactory: Actor Factory created Large_Tree_01
+[2018.03.08-18.27.53:842][385]LogActorFactory: Actor Factory created Large_Tree_01
+[2018.03.08-18.27.55:417][463]LogActorFactory: Actor Factory created Large_Tree_01
+[2018.03.08-18.27.55:961][490]LogActorFactory: Actor Factory created Large_Tree_01
+[2018.03.08-18.27.56:999][529]LogActorFactory: Actor Factory created Large_Tree_01
+[2018.03.08-18.27.57:333][553]LogActorFactory: Actor Factory created Large_Tree_01
+[2018.03.08-18.27.58:714][639]LogActorFactory: Actor Factory created Large_Tree_01
+[2018.03.08-18.27.59:114][660]LogActorFactory: Actor Factory created Large_Tree_01
+[2018.03.08-18.28.00:247][715]LogActorFactory: Actor Factory created Large_Tree_01
+[2018.03.08-18.28.00:711][746]LogActorFactory: Actor Factory created Large_Tree_01
+[2018.03.08-18.28.01:329][795]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.03.08-18.28.21:648][146]LogSavePackage: Save=1296.79ms
+[2018.03.08-18.28.21:648][146]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Level_11C711252470060E46A48E9876C18E897.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.08-18.28.21:660][146]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.08-18.28.21:722][146]LogFileHelpers: Saving map 'Level_1' took 1.605
+[2018.03.08-18.28.32:248][648]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-18.28.48:548][648]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.08-18.28.49:064][648]SourceControl: [master 1140519] ssda
+[2018.03.08-18.28.49:064][648]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.08-18.28.49:071][648]SourceControl: Commited [master 1140519] ssda.
