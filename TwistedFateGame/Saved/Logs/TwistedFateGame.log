@@ -687,3 +687,144 @@ LogInit: Object subsystem initialized
 [2018.03.08-03.19.30:331][923]LogStaticMesh: Built static mesh [0.03s] /Game/LowPolyRainforest/Shack/Shack_Support_01.Shack_Support_01
 [2018.03.08-03.19.30:472][936]LogActorFactory: Actor Factory created Shack_Support_01
 [2018.03.08-03.19.31:013][996]LogActorFactory: Actor Factory created Shack_Support_01
+[2018.03.08-03.20.38:579][182]LogSavePackage: Save=938.66ms
+[2018.03.08-03.20.38:579][182]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1_Auto1F51795C54667B6A77A4A51B3BF700111.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto1.umap'
+[2018.03.08-03.20.38:585][182]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto1.umap
+[2018.03.08-03.20.38:589][182]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_1' took 0.997
+[2018.03.08-03.20.38:589][182]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.997
+[2018.03.08-03.21.11:934][912]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.03.08-03.21.12:584][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shack_Support_2)
+[2018.03.08-03.21.21:412][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shack_Support_3)
+[2018.03.08-03.21.42:312][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shack_Support_3)
+[2018.03.08-03.21.47:535][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shack_Floor_01)
+[2018.03.08-03.22.07:440][239]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.03.08-03.23.06:340][814]LogTexture: Display: Building textures: Thatch_01_NRM (BC5, 4096X4096)
+[2018.03.08-03.23.06:340][814]LogTexture: Display: Building textures: Thatch_01 (AutoDXT, 4096X4096)
+[2018.03.08-03.23.06:340][814]LogTexture: Display: Building textures: Thatch_01_SPEC (AutoDXT, 4096X4096)
+[2018.03.08-03.23.06:340][814]LogStaticMesh: Building static mesh Shack_Wall_01...
+[2018.03.08-03.23.06:399][814]LogStaticMesh: Built static mesh [0.06s] /Game/LowPolyRainforest/Shack/Shack_Wall_01.Shack_Wall_01
+[2018.03.08-03.23.06:441][814]LogActorFactory: Actor Factory created Shack_Wall_01
+[2018.03.08-03.23.08:340][979]LogActorFactory: Actor Factory created Shack_Wall_01
+[2018.03.08-03.23.09:766][108]LogActorFactory: Actor Factory created Shack_Wall_01
+[2018.03.08-03.24.13:668][794]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.24.13:685][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.24.13:686][794]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:24:13 PM)
+[2018.03.08-03.24.13:686][794]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.24.13:754][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068272s)
+[2018.03.08-03.24.13:755][794]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.24.13:755][794]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2018.03.08-03.24.13:756][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.070253s)
+[2018.03.08-03.24.13:786][794]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.08-03.24.13:803][794]LogInit: FAudioDevice initialized.
+[2018.03.08-03.24.13:833][794]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.24.13:836][794]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.24.13
+[2018.03.08-03.24.13:836][794]LogWorld: Bringing up level for play took: 0.002411
+[2018.03.08-03.24.13:839][794]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.167
+[2018.03.08-03.25.18:607][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shack_Wall_2)
+[2018.03.08-03.25.31:187][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shack_Wall_01)
+[2018.03.08-03.25.45:782][508]Cmd: DELETE
+[2018.03.08-03.25.45:782][508]Cmd: ACTOR DELETE
+[2018.03.08-03.25.45:802][508]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.08-03.25.45:813][508]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.03.08-03.25.49:958][855]LogStaticMesh: Building static mesh Shack_Wall_Door_01...
+[2018.03.08-03.25.50:016][855]LogStaticMesh: Built static mesh [0.06s] /Game/LowPolyRainforest/Shack/Shack_Wall_Door_01.Shack_Wall_Door_01
+[2018.03.08-03.25.50:083][858]LogActorFactory: Actor Factory created Shack_Wall_Door_01
+[2018.03.08-03.25.51:215][978]LogActorFactory: Actor Factory created Shack_Wall_Door_01
+[2018.03.08-03.26.14:510][589]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shack_Wall_Door_01)
+[2018.03.08-03.26.35:405][986]LogStaticMesh: Building static mesh Shack_Wall_Win_01...
+[2018.03.08-03.26.35:449][986]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyRainforest/Shack/Shack_Wall_Win_01.Shack_Wall_Win_01
+[2018.03.08-03.26.35:510][989]LogActorFactory: Actor Factory created Shack_Wall_Win_01
+[2018.03.08-03.26.37:988][249]LogActorFactory: Actor Factory created Shack_Wall_Win_01
+[2018.03.08-03.27.28:797][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shack_Wall_Door_01)
+[2018.03.08-03.27.41:945][512]LogStaticMesh: Building static mesh Shack_Roof_Side_01...
+[2018.03.08-03.27.41:978][512]LogStaticMesh: Built static mesh [0.03s] /Game/LowPolyRainforest/Shack/Shack_Roof_Side_01.Shack_Roof_Side_01
+[2018.03.08-03.27.42:688][512]LogActorFactory: Actor Factory created Shack_Roof_Side_01
+[2018.03.08-03.27.47:682][ 72]LogActorFactory: Actor Factory created Shack_Roof_Side_01
+[2018.03.08-03.28.07:575][365]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.03.08-03.28.16:608][355]LogStaticMesh: Building static mesh Shack_Roof_01...
+[2018.03.08-03.28.16:646][355]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyRainforest/Shack/Shack_Roof_01.Shack_Roof_01
+[2018.03.08-03.28.16:744][361]LogActorFactory: Actor Factory created Shack_Roof_01
+[2018.03.08-03.28.19:763][699]LogActorFactory: Actor Factory created Shack_Roof_01
+[2018.03.08-03.29.41:485][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shack_Wall_Win_01)
+[2018.03.08-03.29.42:559][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shack_Roof_01)
+[2018.03.08-03.30.14:359][961]Cmd: TRANSACTION UNDO
+[2018.03.08-03.30.14:359][961]LogEditorTransaction: Undo Move Actors
+[2018.03.08-03.30.21:407][787]Cmd: TRANSACTION UNDO
+[2018.03.08-03.30.21:407][787]LogEditorTransaction: Undo Move Actors
+[2018.03.08-03.30.38:602][688]LogActorFactory: Actor Factory created Shack_Roof_01
+[2018.03.08-03.30.39:801][805]LogActorFactory: Actor Factory created Shack_Roof_01
+[2018.03.08-03.31.05:341][778]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.08-03.31.39:982][580]LogStaticMesh: Building static mesh Ladder_01...
+[2018.03.08-03.31.40:016][580]LogStaticMesh: Built static mesh [0.03s] /Game/LowPolyRainforest/Shack/Ladder_01.Ladder_01
+[2018.03.08-03.31.40:201][597]LogActorFactory: Actor Factory created Ladder_01
+[2018.03.08-03.31.41:887][767]LogActorFactory: Actor Factory created Ladder_01
+[2018.03.08-03.32.20:737][209]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.08-03.32.23:568][505]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.32.23:585][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.32.23:585][505]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:32:23 PM)
+[2018.03.08-03.32.23:585][505]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.32.23:655][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069694s)
+[2018.03.08-03.32.23:656][505]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.32.23:656][505]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2018.03.08-03.32.23:657][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.072085s)
+[2018.03.08-03.32.23:685][505]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.08-03.32.23:702][505]LogInit: FAudioDevice initialized.
+[2018.03.08-03.32.23:733][505]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.32.23:735][505]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.32.23
+[2018.03.08-03.32.23:736][505]LogWorld: Bringing up level for play took: 0.002576
+[2018.03.08-03.32.23:738][505]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.067
+[2018.03.08-03.33.08:053][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Platform_2)
+[2018.03.08-03.33.09:487][903]Cmd: DELETE
+[2018.03.08-03.33.09:487][903]Cmd: ACTOR DELETE
+[2018.03.08-03.33.09:508][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.08-03.33.09:518][903]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.03.08-03.33.49:741][560]LogAudioDerivedData: Display: Building compressed audio format OGG wave Nature_Birds_01...
+[2018.03.08-03.33.50:489][560]LogAudioDerivedData: Display: Building compressed audio format OGG wave Nature_Birds_02...
+[2018.03.08-03.34.44:164][538]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.34.44:183][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.34.44:183][538]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:34:44 PM)
+[2018.03.08-03.34.44:183][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.34.44:253][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068768s)
+[2018.03.08-03.34.44:253][538]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.34.44:254][538]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.03.08-03.34.44:254][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.069889s)
+[2018.03.08-03.34.44:280][538]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.08-03.34.44:294][538]LogInit: FAudioDevice initialized.
+[2018.03.08-03.34.44:324][538]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.34.44:327][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.34.44
+[2018.03.08-03.34.44:328][538]LogWorld: Bringing up level for play took: 0.002638
+[2018.03.08-03.34.44:330][538]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.658
+[2018.03.08-03.36.28:893][  3]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.03.08-03.36.30:786][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ladder_01)
+[2018.03.08-03.36.48:675][259]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.03.08-03.36.49:574][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ladder_01)
+[2018.03.08-03.36.58:125][332]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.08-03.37.25:236][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shack_Support_2)
+[2018.03.08-03.38.02:684][404]LogSavePackage: Save=957.44ms
+[2018.03.08-03.38.02:684][404]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1_Auto242C760C545378C24DF70B4A61690910F.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto2.umap'
+[2018.03.08-03.38.02:690][404]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto2.umap
+[2018.03.08-03.38.02:693][404]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_1' took 1.020
+[2018.03.08-03.38.02:693][404]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.020
+[2018.03.08-03.38.08:703][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-03.38.08:721][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-03.38.08:721][ 94]PIE: New page: PIE session: Level_1 (Mar 7, 2018, 5:38:08 PM)
+[2018.03.08-03.38.08:721][ 94]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.08-03.38.08:788][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067209s)
+[2018.03.08-03.38.08:789][ 94]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-03.38.08:790][ 94]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2018.03.08-03.38.08:790][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.068554s)
+[2018.03.08-03.38.08:814][ 94]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.08-03.38.08:829][ 94]LogInit: FAudioDevice initialized.
+[2018.03.08-03.38.08:863][ 94]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.08-03.38.08:866][ 94]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.07-22.38.08
+[2018.03.08-03.38.08:866][ 94]LogWorld: Bringing up level for play took: 0.002502
+[2018.03.08-03.38.08:869][ 94]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.802
+[2018.03.08-03.38.23:283][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.08-03.38.24:247][709]LogSavePackage: Save=950.54ms
+[2018.03.08-03.38.24:247][709]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1A94EC74E43E46A0FA04FBAA20F33205A.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.08-03.38.24:256][709]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.08-03.38.27:752][116]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-03.38.36:751][116]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.08-03.38.36:846][116]SourceControl: [master 46b04b3] .
+[2018.03.08-03.38.36:846][116]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.08-03.38.36:860][116]SourceControl: Commited [master 46b04b3] ..
