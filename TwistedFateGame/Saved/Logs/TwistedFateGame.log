@@ -389,3 +389,23 @@ LogInit: Object subsystem initialized
 [2018.03.08-19.18.14:236][ 69]SourceControl: Commited [master 49da566] dsf.
 [2018.03.08-19.19.10:839][162]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
 [2018.03.08-19.19.11:038][162]EditorErrors: Warning: No assets to check in!
+[2018.03.08-19.26.00:489][326]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.03.08-19.26.00:489][326]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.08-19.26.00:529][326]LightingResults: New page: Lighting Build
+[2018.03.08-19.26.00:534][326]LoadErrors: New page: Loading map: Level_1.umap
+[2018.03.08-19.26.00:540][326]MapCheck: New page: Map Check
+[2018.03.08-19.26.00:540][326]LightingResults: New page: Lighting Build
+[2018.03.08-19.26.00:832][326]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-19.26.01:006][326]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.08-19.26.01:082][326]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.08-19.26.01:157][326]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.844ms to complete.
+[2018.03.08-19.26.01:157][326]LogFileHelpers: Loading map 'Level_1' took 0.675
+[2018.03.08-19.27.34:321][975]LogSavePackage: Save=2047.25ms
+[2018.03.08-19.27.34:321][975]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Level_1AA71FF4A48E26BB19FC6ED89ABF08122.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.08-19.27.34:328][975]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.08-19.27.34:378][975]LogFileHelpers: Saving map 'Level_1' took 2.202
+[2018.03.08-19.27.41:117][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-19.27.58:060][291]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.08-19.27.58:333][291]SourceControl: [master a7d7517] dsf
+[2018.03.08-19.27.58:333][291]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.08-19.27.58:342][291]SourceControl: Commited [master a7d7517] dsf.
