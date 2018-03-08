@@ -365,3 +365,5 @@ LogInit: Object subsystem initialized
 [2018.03.08-19.05.29:897][805]LogSavePackage: Save=1813.09ms
 [2018.03.08-19.05.29:897][805]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Level_13BE595064B947BD164BCAF8EF003E892.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
 [2018.03.08-19.05.29:901][805]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.08-19.08.21:273][ 64]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.03.08-19.09.52:335][630]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
