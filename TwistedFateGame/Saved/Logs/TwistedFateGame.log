@@ -1,4 +1,4 @@
-﻿Log file open, 03/08/18 12:32:00
+﻿Log file open, 03/08/18 12:03:15
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: TwistedFateGame
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-384355991) SRandInit(-384355991).
+LogInit: Display: RandInit(-399825186) SRandInit(-399825186).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.184935
+LogStats: Stats thread started at 0.180884
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -166,7 +166,6 @@ LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
 LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
 LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
 LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
-LogHMD: Failed initializing OVRPlugin 1.19.0
 LogInit: Build: ++UE4+Release-4.18-CL-3832480
 LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
 LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
@@ -192,246 +191,294 @@ LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.18
-LogInit: Command line:  
-LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: E:/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.03.08-17.32.01:669][  0]LogInit: Selected Device Profile: [Windows]
-[2018.03.08-17.32.01:669][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.03.08-17.32.01:683][  0]LogInit: Computer: RYAN
-[2018.03.08-17.32.01:683][  0]LogInit: User: Ryan
-[2018.03.08-17.32.01:683][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.03.08-17.32.01:683][  0]LogInit: High frequency timer resolution =2.648439 MHz
-[2018.03.08-17.32.01:683][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.03.08-17.32.01:683][  0]LogMemory: Platform Memory Stats for Windows
-[2018.03.08-17.32.01:683][  0]LogMemory: Process Physical Memory: 278.29 MB used, 278.29 MB peak
-[2018.03.08-17.32.01:683][  0]LogMemory: Process Virtual Memory: 279.84 MB used, 279.84 MB peak
-[2018.03.08-17.32.01:683][  0]LogMemory: Physical Memory: 8218.15 MB used,  8091.71 MB free, 16309.86 MB total
-[2018.03.08-17.32.01:683][  0]LogMemory: Virtual Memory: 725.42 MB used,  8091.71 MB free, 134217728.00 MB total
-[2018.03.08-17.32.01:848][  0]LogInit: Using OS detected language (en-US).
-[2018.03.08-17.32.01:848][  0]LogInit: Using OS detected locale (en-US).
-[2018.03.08-17.32.01:851][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.03.08-17.32.02:305][  0]LogInit: Setting process to per monitor DPI aware
-[2018.03.08-17.32.02:574][  0]LogD3D11RHI: D3D11 adapters:
-[2018.03.08-17.32.02:612][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
-[2018.03.08-17.32.02:612][  0]LogD3D11RHI:       4058/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2018.03.08-17.32.02:614][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.03.08-17.32.02:614][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.03.08-17.32.02:614][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.03.08-17.32.02:642][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.03.08-17.32.02:642][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
-[2018.03.08-17.32.02:642][  0]LogWindows: EnumDisplayDevices:
-[2018.03.08-17.32.02:643][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
-[2018.03.08-17.32.02:643][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
-[2018.03.08-17.32.02:643][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
-[2018.03.08-17.32.02:643][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
-[2018.03.08-17.32.02:643][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.03.08-17.32.02:643][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
-[2018.03.08-17.32.02:643][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.03.08-17.32.02:643][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.03.08-17.32.02:643][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
-[2018.03.08-17.32.02:665][  0]LogD3D11RHI: Async texture creation enabled
-[2018.03.08-17.32.02:678][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.03.08-17.32.02:723][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Intermediate/Shaders/WorkingDirectory/204252/).
-[2018.03.08-17.32.02:723][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ryan/AppData/Local/Temp/UnrealShaderWorkingDir/103964F44AE7F18D9B2721A856323AEC/'.
-[2018.03.08-17.32.02:723][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.03.08-17.32.10:555][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.03.08-17.32.10:621][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.03.08-17.32.10:682][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.03.08-17.32.10:744][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.03.08-17.32.10:814][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.03.08-17.32.10:881][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.03.08-17.32.10:944][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.03.08-17.32.11:006][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.03.08-17.32.11:064][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.03.08-17.32.11:126][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.03.08-17.32.11:181][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.03.08-17.32.11:241][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.03.08-17.32.11:295][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.03.08-17.32.11:352][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.03.08-17.32.11:465][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.03.08-17.32.11:465][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.03.08-17.32.11:520][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.03.08-17.32.11:566][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.03.08-17.32.11:665][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.03.08-17.32.11:696][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.03.08-17.32.11:755][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.03.08-17.32.11:813][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.03.08-17.32.11:869][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.03.08-17.32.11:938][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.03.08-17.32.11:938][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.03.08-17.32.12:459][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.03.08-17.32.12:533][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Ryan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.03.08-17.32.12:533][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ryan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.03.08-17.32.12:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.03.08-17.32.12:533][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.03.08-17.32.12:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.03.08-17.32.12:533][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.03.08-17.32.12:551][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.03.08-17.32.12:563][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.03.08-17.32.12:574][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.03.08-17.32.12:574][  0]LogSlate: Using Freetype 2.6.0
-[2018.03.08-17.32.12:575][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.03.08-17.32.12:575][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.03.08-17.32.12:979][  0]LogInit: Selected Device Profile: [Windows]
-[2018.03.08-17.32.13:350][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.03.08-17.32.13:396][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.03.08-17.32.13:396][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.03.08-17.32.13:396][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.03.08-17.32.13:396][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.03.08-17.32.13:396][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.03.08-17.32.13:430][  0]LogNetVersion: TwistedFateGame , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1574445964)
-[2018.03.08-17.32.13:613][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
-[2018.03.08-17.32.14:165][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.066248 seconds
-[2018.03.08-17.32.14:171][  0]LogUObjectArray: 35871 objects as part of root set at end of initial load.
-[2018.03.08-17.32.14:171][  0]LogUObjectAllocator: 7363920 out of 0 bytes used by permanent object pool.
-[2018.03.08-17.32.14:171][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.03.08-17.32.14:228][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.03.08-17.32.17:257][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.03.08-17.32.17:304][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.03.08-17.32.18:075][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.03.08-17.32.18:545][  0]SourceControl: Source control is disabled
-[2018.03.08-17.32.20:663][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.03.08-17.32.20:977][  0]LogOcInput: OculusInput pre-init called
-[2018.03.08-17.32.21:305][  0]LogEngine: Initializing Engine...
-[2018.03.08-17.32.21:425][  0]LogHMD: Failed to initialize OpenVR with code 108
-[2018.03.08-17.32.21:640][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.03.08-17.32.21:640][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.03.08-17.32.21:789][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.03.08-17.32.21:811][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.03.08-17.32.21:836][  0]LogInit: FAudioDevice initialized.
-[2018.03.08-17.32.21:983][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/Ryan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.03.08-17.32.21:998][  0]LogInit: Texture streaming: Enabled
-[2018.03.08-17.32.22:111][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.03.08-17.32.22:292][  0]LogInit: Transaction tracking system initialized
-[2018.03.08-17.32.22:656][  0]BlueprintLog: New page: Editor Load
-[2018.03.08-17.32.23:667][  0]LocalizationService: Localization service is disabled
-[2018.03.08-17.32.24:489][  0]LogConsoleResponse: Display: 
-[2018.03.08-17.32.24:672][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ as it will conflict with another watching ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/.
-[2018.03.08-17.32.24:683][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.03.08-17.32.24:683][  0]LogCook: Display: Mobile HDR setting 1
-[2018.03.08-17.32.24:684][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.03.08-17.32.25:429][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/' took 0.04s
-[2018.03.08-17.32.26:032][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.03.08-17.32.26:032][  0]LightingResults: New page: Lighting Build
-[2018.03.08-17.32.26:080][  0]MapCheck: New page: Map Check
-[2018.03.08-17.32.26:080][  0]LightingResults: New page: Lighting Build
-[2018.03.08-17.32.26:186][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/Colt'
-[2018.03.08-17.32.26:187][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/Colt' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01.uasset.
-[2018.03.08-17.32.26:187][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01 : Can't find file for asset. /Game/Rifle_01/Character/Materials/Colt
-[2018.03.08-17.32.26:187][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/Colt'
-[2018.03.08-17.32.26:187][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/Colt' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01.uasset.
-[2018.03.08-17.32.26:187][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01 : Can't find file for asset. /Game/Rifle_01/Character/Materials/Colt
-[2018.03.08-17.32.26:187][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset'
-[2018.03.08-17.32.26:187][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01.uasset.
-[2018.03.08-17.32.26:187][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset
-[2018.03.08-17.32.26:187][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton'
-[2018.03.08-17.32.26:187][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01.uasset.
-[2018.03.08-17.32.26:188][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton
-[2018.03.08-17.32.26:188][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset'
-[2018.03.08-17.32.26:188][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01.uasset.
-[2018.03.08-17.32.26:188][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset
-[2018.03.08-17.32.26:188][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton'
-[2018.03.08-17.32.26:188][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01.uasset.
-[2018.03.08-17.32.26:188][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton
-[2018.03.08-17.32.26:203][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
-[2018.03.08-17.32.26:203][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
-[2018.03.08-17.32.26:203][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Materials/M4_Mat
-[2018.03.08-17.32.26:203][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
-[2018.03.08-17.32.26:203][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
-[2018.03.08-17.32.26:203][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Materials/M4_Mat
-[2018.03.08-17.32.26:203][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
-[2018.03.08-17.32.26:203][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
-[2018.03.08-17.32.26:203][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset
-[2018.03.08-17.32.26:204][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
-[2018.03.08-17.32.26:204][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
-[2018.03.08-17.32.26:204][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton
-[2018.03.08-17.32.26:204][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
-[2018.03.08-17.32.26:204][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
-[2018.03.08-17.32.26:204][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset
-[2018.03.08-17.32.26:204][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
-[2018.03.08-17.32.26:204][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
-[2018.03.08-17.32.26:204][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton
-[2018.03.08-17.32.26:579][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
-[2018.03.08-17.32.26:580][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton.M4_Rifle_01_Skeleton Referenced by M4_Rifle_01
-[2018.03.08-17.32.26:580][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading NULL.
-[2018.03.08-17.32.26:580][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton.M4_Rifle_01_Skeleton Referenced by M4_Rifle_01
-[2018.03.08-17.32.26:580][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
-[2018.03.08-17.32.26:580][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset.M4_Rifle_01_PhysicsAsset Referenced by M4_Rifle_01
-[2018.03.08-17.32.26:580][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading NULL.
-[2018.03.08-17.32.26:580][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset.M4_Rifle_01_PhysicsAsset Referenced by M4_Rifle_01
-[2018.03.08-17.32.26:580][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
-[2018.03.08-17.32.26:580][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Materials/M4_Mat.M4_Mat Referenced by M4_Rifle_01
-[2018.03.08-17.32.26:580][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading NULL.
-[2018.03.08-17.32.26:580][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Materials/M4_Mat.M4_Mat Referenced by M4_Rifle_01
-[2018.03.08-17.32.26:589][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton'
-[2018.03.08-17.32.26:589][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton.1911_Pistol_01_Skeleton Referenced by 1911_Pistol_01
-[2018.03.08-17.32.26:590][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton' while loading NULL.
-[2018.03.08-17.32.26:590][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton.1911_Pistol_01_Skeleton Referenced by 1911_Pistol_01
-[2018.03.08-17.32.26:590][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset'
-[2018.03.08-17.32.26:590][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset.1911_Pistol_01_PhysicsAsset Referenced by 1911_Pistol_01
-[2018.03.08-17.32.26:590][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset' while loading NULL.
-[2018.03.08-17.32.26:590][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset.1911_Pistol_01_PhysicsAsset Referenced by 1911_Pistol_01
-[2018.03.08-17.32.26:590][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/Colt'
-[2018.03.08-17.32.26:590][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Materials/Colt.Colt Referenced by 1911_Pistol_01
-[2018.03.08-17.32.26:590][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/Colt' while loading NULL.
-[2018.03.08-17.32.26:590][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Materials/Colt.Colt Referenced by 1911_Pistol_01
-[2018.03.08-17.32.26:842][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2018.03.08-17.32.26:855][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.03.08-17.32.26:871][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.03.08-17.32.26:939][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.666ms to complete.
-[2018.03.08-17.32.26:939][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.908
-[2018.03.08-17.32.27:102][  0]LogCollectionManager: Loaded 0 collections in 0.002106 seconds
-[2018.03.08-17.32.27:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Collections/' took 0.01s
-[2018.03.08-17.32.27:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Developers/Ryan/Collections/' took 0.01s
-[2018.03.08-17.32.27:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Collections/' took 0.01s
-[2018.03.08-17.32.27:193][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.03.08-17.32.27:202][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2363 classes and 519 folders.
-[2018.03.08-17.32.27:274][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.03.08-17.32.27:319][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.03.08-17.32.27:368][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.03.08-17.32.27:441][  0]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.03.08-17.32.27:445][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.03.08-17.32.27:450][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.03.08-17.32.27:553][  0]LogRenderer: Reallocating scene render targets to support 1140x532 Format 10 NumSamples 1 (Frame:1).
-[2018.03.08-17.32.27:724][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.03.08-17.32.27:725][  0]LogLoad: (Engine Initialization) Total time: 28.77 seconds
-[2018.03.08-17.32.27:725][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.03.08-17.32.27:725][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
-[2018.03.08-17.32.27:734][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.03.08-17.32.27:768][  0]SourceControl: On branch Ryan
-[2018.03.08-17.32.27:768][  0]SourceControl: Your branch is up to date with 'origin/Ryan'.
-[2018.03.08-17.32.27:768][  0]SourceControl: Changes not staged for commit:
-[2018.03.08-17.32.27:768][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
-[2018.03.08-17.32.27:768][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
-[2018.03.08-17.32.27:768][  0]SourceControl: 	modified:   TwistedFateGame/Intermediate/CachedAssetRegistry.bin
-[2018.03.08-17.32.27:768][  0]SourceControl: 	modified:   TwistedFateGame/Saved/AutoScreenshot.png
-[2018.03.08-17.32.27:768][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/PackageRestoreData.json
-[2018.03.08-17.32.27:768][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-[2018.03.08-17.32.27:768][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Config/Windows/Engine.ini
-[2018.03.08-17.32.27:768][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.05-19.45.42.log
-[2018.03.08-17.32.27:768][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Logs/TwistedFateGame.log
-[2018.03.08-17.32.27:768][  0]SourceControl: Untracked files:
-[2018.03.08-17.32.27:768][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
-[2018.03.08-17.32.27:768][  0]SourceControl: 	TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-6A5A77134331F051D72F5CAA9F477F57/
-[2018.03.08-17.32.27:768][  0]SourceControl: 	TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.08-12.31.59.log
-[2018.03.08-17.32.27:768][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
-[2018.03.08-17.32.27:768][  0]LogContentStreaming: Texture pool size now 800 MB
-[2018.03.08-17.32.27:828][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.03.08-17.32.27:876][  1]LogAssetRegistry: Asset discovery search completed in 14.2854 seconds
-[2018.03.08-17.32.27:879][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.03.08-17.32.27:879][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
-[2018.03.08-17.32.32:864][537]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/' took 5.12s
-[2018.03.08-17.32.48:175][353]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.03.08-17.32.48:465][353]LogAIModule: Creating AISystem for world Level_1
-[2018.03.08-17.32.48:504][353]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.03.08-17.32.48:504][353]LightingResults: New page: Lighting Build
-[2018.03.08-17.32.48:505][353]LoadErrors: New page: Loading map: Level_1.umap
-[2018.03.08-17.32.48:506][353]MapCheck: New page: Map Check
-[2018.03.08-17.32.48:506][353]LightingResults: New page: Lighting Build
-[2018.03.08-17.32.48:649][353]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.03.08-17.32.48:696][353]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.03.08-17.32.48:767][353]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.453ms to complete.
-[2018.03.08-17.32.48:767][353]LogFileHelpers: Loading map 'Level_1' took 0.264
-[2018.03.08-17.33.22:933][392]Cmd: SELECT NONE
+[2018.03.08-17.03.17:482][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.08-17.03.17:482][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.08-17.03.17:493][  0]LogInit: Computer: DESKTOP-26BKDR7
+[2018.03.08-17.03.17:493][  0]LogInit: User: Cameron
+[2018.03.08-17.03.17:493][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.08-17.03.17:493][  0]LogInit: High frequency timer resolution =2.648438 MHz
+[2018.03.08-17.03.17:493][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.08-17.03.17:493][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.08-17.03.17:493][  0]LogMemory: Process Physical Memory: 282.30 MB used, 282.30 MB peak
+[2018.03.08-17.03.17:493][  0]LogMemory: Process Virtual Memory: 282.35 MB used, 282.35 MB peak
+[2018.03.08-17.03.17:493][  0]LogMemory: Physical Memory: 7087.18 MB used,  9222.66 MB free, 16309.84 MB total
+[2018.03.08-17.03.17:493][  0]LogMemory: Virtual Memory: 727.42 MB used,  9222.66 MB free, 134217728.00 MB total
+[2018.03.08-17.03.17:611][  0]LogInit: Using OS detected language (en-US).
+[2018.03.08-17.03.17:611][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.08-17.03.17:614][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.08-17.03.18:055][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.08-17.03.18:333][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.08-17.03.18:369][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.03.08-17.03.18:369][  0]LogD3D11RHI:       4058/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.08-17.03.18:371][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.08-17.03.18:372][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.08-17.03.18:372][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.08-17.03.18:379][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.08-17.03.18:379][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.08-17.03.18:379][  0]LogWindows: EnumDisplayDevices:
+[2018.03.08-17.03.18:380][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.03.08-17.03.18:380][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.03.08-17.03.18:380][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.03.08-17.03.18:380][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.03.08-17.03.18:380][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.08-17.03.18:380][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.03.08-17.03.18:380][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.08-17.03.18:380][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.08-17.03.18:380][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2018.03.08-17.03.18:402][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.08-17.03.18:438][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.08-17.03.18:483][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Intermediate/Shaders/WorkingDirectory/19252/).
+[2018.03.08-17.03.18:483][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cameron/AppData/Local/Temp/UnrealShaderWorkingDir/5801BED943AA94FBECA8A39C537FC217/'.
+[2018.03.08-17.03.18:483][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.08-17.03.19:397][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.08-17.03.19:443][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.08-17.03.19:491][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.08-17.03.19:537][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.08-17.03.19:583][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.08-17.03.19:630][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.08-17.03.19:683][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.08-17.03.19:730][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.08-17.03.19:771][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.08-17.03.19:818][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.08-17.03.19:865][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.08-17.03.19:913][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.08-17.03.19:960][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.08-17.03.20:007][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.08-17.03.20:102][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.08-17.03.20:102][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.08-17.03.20:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.08-17.03.20:186][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.08-17.03.20:267][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.08-17.03.20:290][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.08-17.03.20:336][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.08-17.03.20:386][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.08-17.03.20:432][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.08-17.03.20:478][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.08-17.03.20:478][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.08-17.03.20:869][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.08-17.03.20:937][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.08-17.03.20:937][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.08-17.03.20:937][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.08-17.03.20:937][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.08-17.03.20:938][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.08-17.03.20:938][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.08-17.03.20:954][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.08-17.03.20:966][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cameron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.08-17.03.20:976][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.08-17.03.20:976][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.08-17.03.20:977][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.08-17.03.20:977][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.08-17.03.21:366][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.08-17.03.21:670][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.08-17.03.21:704][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.08-17.03.21:704][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.08-17.03.21:704][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.08-17.03.21:704][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.08-17.03.21:704][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.08-17.03.21:740][  0]LogNetVersion: TwistedFateGame , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1574445964)
+[2018.03.08-17.03.21:899][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.03.08-17.03.22:387][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.074018 seconds
+[2018.03.08-17.03.22:392][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.08-17.03.22:392][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.08-17.03.22:392][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.08-17.03.22:432][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.08-17.03.25:015][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.08-17.03.25:057][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.08-17.03.25:715][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.08-17.03.26:118][  0]SourceControl: Source control is disabled
+[2018.03.08-17.03.27:550][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.08-17.03.27:802][  0]LogOcInput: OculusInput pre-init called
+[2018.03.08-17.03.28:066][  0]LogEngine: Initializing Engine...
+[2018.03.08-17.03.28:068][  0]LogHMD: Oculus plugin initialized. Version: 4.18.3-3832480+++UE4+Release-4.18, OVRPlugin: 1.19.0
+[2018.03.08-17.03.28:273][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.08-17.03.28:273][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.08-17.03.28:379][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.08-17.03.28:402][  0]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.08-17.03.28:416][  0]LogInit: FAudioDevice initialized.
+[2018.03.08-17.03.28:494][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.08-17.03.28:505][  0]LogInit: Texture streaming: Enabled
+[2018.03.08-17.03.28:579][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.08-17.03.28:692][  0]LogInit: Transaction tracking system initialized
+[2018.03.08-17.03.28:950][  0]BlueprintLog: New page: Editor Load
+[2018.03.08-17.03.29:687][  0]LocalizationService: Localization service is disabled
+[2018.03.08-17.03.30:315][  0]LogConsoleResponse: Display: 
+[2018.03.08-17.03.30:466][  0]LogAutoReimportManager: Warning: Unable to watch directory C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ as it will conflict with another watching C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/.
+[2018.03.08-17.03.30:477][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.08-17.03.30:477][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.08-17.03.30:477][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.08-17.03.31:263][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/' took 0.05s
+[2018.03.08-17.03.31:579][  0]Cmd: MAP LOAD FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.08-17.03.31:580][  0]LightingResults: New page: Lighting Build
+[2018.03.08-17.03.31:616][  0]MapCheck: New page: Map Check
+[2018.03.08-17.03.31:616][  0]LightingResults: New page: Lighting Build
+[2018.03.08-17.03.31:763][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/Colt'
+[2018.03.08-17.03.31:763][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/Colt' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01.uasset.
+[2018.03.08-17.03.31:764][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01 : Can't find file for asset. /Game/Rifle_01/Character/Materials/Colt
+[2018.03.08-17.03.31:764][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/Colt'
+[2018.03.08-17.03.31:764][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/Colt' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01.uasset.
+[2018.03.08-17.03.31:764][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01 : Can't find file for asset. /Game/Rifle_01/Character/Materials/Colt
+[2018.03.08-17.03.31:764][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset'
+[2018.03.08-17.03.31:764][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01.uasset.
+[2018.03.08-17.03.31:764][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset
+[2018.03.08-17.03.31:764][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton'
+[2018.03.08-17.03.31:764][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01.uasset.
+[2018.03.08-17.03.31:765][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton
+[2018.03.08-17.03.31:765][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset'
+[2018.03.08-17.03.31:765][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01.uasset.
+[2018.03.08-17.03.31:765][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset
+[2018.03.08-17.03.31:765][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton'
+[2018.03.08-17.03.31:765][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01.uasset.
+[2018.03.08-17.03.31:765][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/1911_Pistol_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton
+[2018.03.08-17.03.31:784][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
+[2018.03.08-17.03.31:784][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.08-17.03.31:784][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Materials/M4_Mat
+[2018.03.08-17.03.31:784][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
+[2018.03.08-17.03.31:784][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.08-17.03.31:784][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Materials/M4_Mat
+[2018.03.08-17.03.31:784][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
+[2018.03.08-17.03.31:784][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.08-17.03.31:785][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset
+[2018.03.08-17.03.31:785][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
+[2018.03.08-17.03.31:785][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.08-17.03.31:785][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton
+[2018.03.08-17.03.31:785][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
+[2018.03.08-17.03.31:785][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.08-17.03.31:785][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset
+[2018.03.08-17.03.31:785][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
+[2018.03.08-17.03.31:785][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.08-17.03.31:785][  0]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton
+[2018.03.08-17.03.32:162][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton'
+[2018.03.08-17.03.32:162][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton.1911_Pistol_01_Skeleton Referenced by 1911_Pistol_01
+[2018.03.08-17.03.32:162][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton' while loading NULL.
+[2018.03.08-17.03.32:162][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/1911_Pistol_01_Skeleton.1911_Pistol_01_Skeleton Referenced by 1911_Pistol_01
+[2018.03.08-17.03.32:163][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset'
+[2018.03.08-17.03.32:163][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset.1911_Pistol_01_PhysicsAsset Referenced by 1911_Pistol_01
+[2018.03.08-17.03.32:163][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset' while loading NULL.
+[2018.03.08-17.03.32:163][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/1911_Pistol_01_PhysicsAsset.1911_Pistol_01_PhysicsAsset Referenced by 1911_Pistol_01
+[2018.03.08-17.03.32:163][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/Colt'
+[2018.03.08-17.03.32:163][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Materials/Colt.Colt Referenced by 1911_Pistol_01
+[2018.03.08-17.03.32:163][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/Colt' while loading NULL.
+[2018.03.08-17.03.32:163][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Materials/Colt.Colt Referenced by 1911_Pistol_01
+[2018.03.08-17.03.32:189][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
+[2018.03.08-17.03.32:189][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton.M4_Rifle_01_Skeleton Referenced by M4_Rifle_01
+[2018.03.08-17.03.32:189][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading NULL.
+[2018.03.08-17.03.32:189][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton.M4_Rifle_01_Skeleton Referenced by M4_Rifle_01
+[2018.03.08-17.03.32:189][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
+[2018.03.08-17.03.32:189][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset.M4_Rifle_01_PhysicsAsset Referenced by M4_Rifle_01
+[2018.03.08-17.03.32:189][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading NULL.
+[2018.03.08-17.03.32:189][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset.M4_Rifle_01_PhysicsAsset Referenced by M4_Rifle_01
+[2018.03.08-17.03.32:190][  0]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
+[2018.03.08-17.03.32:190][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Materials/M4_Mat.M4_Mat Referenced by M4_Rifle_01
+[2018.03.08-17.03.32:190][  0]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading NULL.
+[2018.03.08-17.03.32:190][  0]LoadErrors: Failed to load /Game/Rifle_01/Character/Materials/M4_Mat.M4_Mat Referenced by M4_Rifle_01
+[2018.03.08-17.03.32:441][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.08-17.03.32:451][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.08-17.03.32:467][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.08-17.03.32:537][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.991ms to complete.
+[2018.03.08-17.03.32:537][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.958
+[2018.03.08-17.03.32:706][  0]LogCollectionManager: Loaded 0 collections in 0.001584 seconds
+[2018.03.08-17.03.32:789][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Collections/' took 0.01s
+[2018.03.08-17.03.32:789][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Developers/Cameron/Collections/' took 0.01s
+[2018.03.08-17.03.32:789][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Collections/' took 0.01s
+[2018.03.08-17.03.32:789][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.08-17.03.32:798][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2363 classes and 519 folders.
+[2018.03.08-17.03.32:853][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.08-17.03.32:904][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.08-17.03.32:945][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.08-17.03.33:025][  0]LogSlate: Took 0.000476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.08-17.03.33:028][  0]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.08-17.03.33:034][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.08-17.03.33:146][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.03.08-17.03.33:310][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.08-17.03.33:310][  0]LogLoad: (Engine Initialization) Total time: 18.60 seconds
+[2018.03.08-17.03.33:310][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.08-17.03.33:310][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.08-17.03.33:320][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.08-17.03.33:325][  0]LogOcInput: OculusInput is initialized
+[2018.03.08-17.03.33:373][  0]SourceControl: On branch master
+[2018.03.08-17.03.33:373][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.03.08-17.03.33:373][  0]SourceControl: Changes not staged for commit:
+[2018.03.08-17.03.33:373][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.03.08-17.03.33:373][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.03.08-17.03.33:373][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Config/Windows/Engine.ini
+[2018.03.08-17.03.33:373][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.05-13.11.23.log
+[2018.03.08-17.03.33:373][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Logs/TwistedFateGame.log
+[2018.03.08-17.03.33:373][  0]SourceControl: Untracked files:
+[2018.03.08-17.03.33:373][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.03.08-17.03.33:373][  0]SourceControl: 	TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-C8CE6AB846E562D32371A7B23EFB11F6/
+[2018.03.08-17.03.33:373][  0]SourceControl: 	TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.08-12.03.15.log
+[2018.03.08-17.03.33:373][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.03.08-17.03.33:374][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.08-17.03.33:504][  1]LogAssetRegistry: Asset discovery search completed in 11.6270 seconds
+[2018.03.08-17.03.33:507][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.08-17.03.33:507][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2018.03.08-17.03.37:437][342]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.08-17.03.38:476][462]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/' took 5.14s
+[2018.03.08-17.03.41:044][759]Cmd: MAP LOAD FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.08-17.03.41:053][759]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.08-17.03.41:061][759]LightingResults: New page: Lighting Build
+[2018.03.08-17.03.41:062][759]LoadErrors: New page: Loading map: Level_1.umap
+[2018.03.08-17.03.41:064][759]MapCheck: New page: Map Check
+[2018.03.08-17.03.41:064][759]LightingResults: New page: Lighting Build
+[2018.03.08-17.03.41:359][759]LogAIModule: Creating AISystem for world Level_1
+[2018.03.08-17.03.41:522][759]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.08-17.03.41:565][759]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.08-17.03.41:650][759]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.43ms to complete.
+[2018.03.08-17.03.41:651][759]LogFileHelpers: Loading map 'Level_1' took 0.608
+[2018.03.08-17.25.05:744][465]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.03.08-17.25.05:799][465]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.03.08-17.25.05:841][465]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.03.08-17.25.05:883][465]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.03.08-17.25.06:078][465]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.03.08-17.25.12:299][ 96]LogActorFactory: Actor Factory created Large_Tree_01
+[2018.03.08-17.25.14:891][ 99]LogActorFactory: Actor Factory created Large_Tree_01
+[2018.03.08-17.25.16:268][207]LogActorFactory: Actor Factory created Large_Tree_02
+[2018.03.08-17.25.17:829][345]LogActorFactory: Actor Factory created Palm_Tree_01
+[2018.03.08-17.25.22:169][695]LogActorFactory: Actor Factory created Palm_Tree_02
+[2018.03.08-17.25.23:562][820]LogActorFactory: Actor Factory created Palm_Tree_03
+[2018.03.08-17.25.25:043][951]LogActorFactory: Actor Factory created Palm_Tree_04
+[2018.03.08-17.26.05:155][405]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.08-17.26.15:059][407]LogSavePackage: Save=829.10ms
+[2018.03.08-17.26.15:059][407]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1_Auto10FD4042D480B0212250909B4CF0FBF6A.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto1.umap'
+[2018.03.08-17.26.15:070][407]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto1.umap
+[2018.03.08-17.26.15:073][407]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.08-17.26.15:076][407]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_1' took 0.906
+[2018.03.08-17.26.15:076][407]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.906
+[2018.03.08-17.26.22:248][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.08-17.26.23:100][214]LogSavePackage: Save=836.36ms
+[2018.03.08-17.26.23:100][214]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_196D2AAF94516D317700D27A18B10E19B.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.08-17.26.23:109][214]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.08-17.26.26:167][548]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-17.26.34:520][548]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.08-17.26.34:626][548]SourceControl: [Cameron 48dcb90] .
+[2018.03.08-17.26.34:626][548]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.08-17.26.34:637][548]SourceControl: Commited [Cameron 48dcb90] ..
+[2018.03.08-17.48.49:606][348]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.03.08-17.48.54:610][673]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.03.08-17.49.17:043][100]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.03.08-17.49.22:859][465]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.03.08-17.49.34:420][172]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-17.49.34:647][172]EditorErrors: Warning: No assets to check in!
+[2018.03.08-17.49.38:667][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.08-17.49.39:907][422]LogSavePackage: Save=1220.82ms
+[2018.03.08-17.49.39:907][422]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_13BF432044A917EDF82516980D43C379D.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.08-17.49.39:912][422]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.08-17.49.47:108][859]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.08-17.49.55:848][859]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.08-17.49.56:083][859]SourceControl: [master 8bbea56] .
+[2018.03.08-17.49.56:083][859]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.08-17.49.56:097][859]SourceControl: Commited [master 8bbea56] ..
+[2018.03.08-18.08.06:186][239]LogSavePackage: Save=1288.80ms
+[2018.03.08-18.08.06:187][239]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1_Auto2E34CD3FB49F15424F2AB79A7AA7FE50E.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto2.umap'
+[2018.03.08-18.08.06:196][239]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto2.umap
+[2018.03.08-18.08.06:199][239]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_1' took 1.379
+[2018.03.08-18.08.06:199][239]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.379
+[2018.03.08-18.08.07:395][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.08-18.08.08:557][327]LogSavePackage: Save=1143.85ms
+[2018.03.08-18.08.08:557][327]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_11C741A2F4EAEC8AC14E9959399F9BF0F.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.08-18.08.08:565][327]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
