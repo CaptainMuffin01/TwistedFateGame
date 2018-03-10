@@ -502,3 +502,44 @@ LogInit: Object subsystem initialized
 [2018.03.10-03.44.28:628][138]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.09-22.44.28
 [2018.03.10-03.44.28:628][138]LogWorld: Bringing up level for play took: 0.007225
 [2018.03.10-03.44.28:633][138]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 1.095
+[2018.03.10-03.46.23:870][812]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-03.46.23:888][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-03.46.23:889][812]LogHMD: Initializing OVRPlugin session
+[2018.03.10-03.46.23:928][812]PIE: New page: PIE session: Level_1 (Mar 9, 2018, 5:46:23 PM)
+[2018.03.10-03.46.23:928][812]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.10-03.46.24:021][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092315s)
+[2018.03.10-03.46.24:021][812]LogAIModule: Creating AISystem for world Level_1
+[2018.03.10-03.46.24:022][812]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2018.03.10-03.46.24:022][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.093523s)
+[2018.03.10-03.46.24:068][812]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.10-03.46.24:095][812]LogInit: FAudioDevice initialized.
+[2018.03.10-03.46.24:134][812]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.10-03.46.24:141][812]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.09-22.46.24
+[2018.03.10-03.46.24:141][812]LogWorld: Bringing up level for play took: 0.006156
+[2018.03.10-03.46.24:145][812]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.608
+[2018.03.10-03.46.44:036][727]Cmd: MAP LOAD FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.10-03.46.44:048][727]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.10-03.46.44:057][727]LightingResults: New page: Lighting Build
+[2018.03.10-03.46.44:058][727]LoadErrors: New page: Loading map: Level_1.umap
+[2018.03.10-03.46.44:061][727]MapCheck: New page: Map Check
+[2018.03.10-03.46.44:061][727]LightingResults: New page: Lighting Build
+[2018.03.10-03.46.44:333][727]LogAIModule: Creating AISystem for world Level_1
+[2018.03.10-03.46.44:590][727]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.10-03.46.44:654][727]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.10-03.46.44:778][727]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 123.726ms to complete.
+[2018.03.10-03.46.44:778][727]LogFileHelpers: Loading map 'Level_1' took 0.743
+[2018.03.10-03.46.49:724][990]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-03.46.49:887][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-03.46.49:887][990]LogHMD: Initializing OVRPlugin session
+[2018.03.10-03.46.49:921][990]PIE: New page: PIE session: Level_1 (Mar 9, 2018, 5:46:49 PM)
+[2018.03.10-03.46.49:921][990]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.10-03.46.50:064][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.142752s)
+[2018.03.10-03.46.50:064][990]LogAIModule: Creating AISystem for world Level_1
+[2018.03.10-03.46.50:064][990]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2018.03.10-03.46.50:065][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.143868s)
+[2018.03.10-03.46.50:116][990]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.10-03.46.50:151][990]LogInit: FAudioDevice initialized.
+[2018.03.10-03.46.50:183][990]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.10-03.46.50:189][990]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.09-22.46.50
+[2018.03.10-03.46.50:189][990]LogWorld: Bringing up level for play took: 0.006037
+[2018.03.10-03.46.50:193][990]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.656
