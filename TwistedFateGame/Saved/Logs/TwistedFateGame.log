@@ -1598,3 +1598,44 @@ LogInit: Object subsystem initialized
 [2018.03.10-03.12.47:529][668]LogSavePackage: Save=46.68ms
 [2018.03.10-03.12.47:529][668]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Hero_BPF48B892946C58659C4AE5BA2E2830D00.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/RifleAnimsetPro/Survivor/Hero_BP.uasset'
 [2018.03.10-03.12.47:539][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/RifleAnimsetPro/Survivor/Hero_BP.uasset
+[2018.03.10-03.13.55:688][492]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-03.14.19:053][562]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{65c61c59-b92d-424d-a21a-3e7f479ffcf0} was removed. Shutting down audio device.
+[2018.03.10-03.14.19:053][562]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.10-03.14.24:309][577]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-03.14.25:438][581]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_1' took 0.035
+[2018.03.10-03.14.25:440][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RifleAnimsetPro/Survivor/HeroAnim_BP] ([1] browsable assets)...
+[2018.03.10-03.14.25:468][581]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/RifleAnimsetPro/Survivor/HeroAnim_BP.HeroAnim_BP]
+[2018.03.10-03.14.25:468][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/RifleAnimsetPro/Survivor/HeroAnim_BP]
+[2018.03.10-03.14.25:519][581]LogSavePackage: Save=40.34ms
+[2018.03.10-03.14.25:519][581]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/HeroAnim_BP_Auto24DBD43EA4EF3B26C459FC9A812248008.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/HeroAnim_BP_Auto2.uasset'
+[2018.03.10-03.14.25:521][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/HeroAnim_BP_Auto2.uasset
+[2018.03.10-03.14.25:522][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RifleAnimsetPro/Survivor/Hero_PC] ([1] browsable assets)...
+[2018.03.10-03.14.25:522][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/RifleAnimsetPro/Survivor/Hero_PC]
+[2018.03.10-03.14.25:583][581]LogSavePackage: Save=57.20ms
+[2018.03.10-03.14.25:583][581]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Hero_PC_Auto23078CA064B63E89EEC2F3AB3B02B95C0.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_PC_Auto2.uasset'
+[2018.03.10-03.14.25:585][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_PC_Auto2.uasset
+[2018.03.10-03.14.25:585][581]LogFileHelpers: Auto-saving content packages took 0.145
+[2018.03.10-03.15.45:299][362]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-03.15.45:338][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-03.15.45:338][362]PIE: New page: PIE session: Level_1 (Mar 9, 2018, 5:15:45 PM)
+[2018.03.10-03.15.45:338][362]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.10-03.15.45:406][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067302s)
+[2018.03.10-03.15.45:406][362]LogAIModule: Creating AISystem for world Level_1
+[2018.03.10-03.15.45:407][362]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2018.03.10-03.15.45:407][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.068699s)
+[2018.03.10-03.15.45:448][362]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-03.15.45:454][362]LogInit: FAudioDevice initialized.
+[2018.03.10-03.15.45:486][362]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.10-03.15.45:489][362]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.09-22.15.45
+[2018.03.10-03.15.45:489][362]LogWorld: Bringing up level for play took: 0.002166
+[2018.03.10-03.15.45:491][362]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.228
+[2018.03.10-03.17.50:405][393]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-03.18.24:646][946]BlueprintLog: New page: Compile Hero_BP
+[2018.03.10-03.24.33:855][608]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_1' took 0.053
+[2018.03.10-03.24.33:859][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RifleAnimsetPro/Survivor/Hero_BP] ([1] browsable assets)...
+[2018.03.10-03.24.33:897][608]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RifleAnimsetPro/Survivor/Hero_BP.Hero_BP]
+[2018.03.10-03.24.33:898][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/RifleAnimsetPro/Survivor/Hero_BP]
+[2018.03.10-03.24.33:978][608]LogSavePackage: Save=65.85ms
+[2018.03.10-03.24.33:978][608]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Hero_BP_Auto390D315F644060A2F3E672E86D7396F9B.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_BP_Auto3.uasset'
+[2018.03.10-03.24.33:981][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_BP_Auto3.uasset
+[2018.03.10-03.24.33:982][608]LogFileHelpers: Auto-saving content packages took 0.125
