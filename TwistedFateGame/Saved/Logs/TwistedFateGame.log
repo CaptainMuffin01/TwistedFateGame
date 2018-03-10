@@ -487,3 +487,18 @@ LogInit: Object subsystem initialized
 [2018.03.10-03.22.21:312][290]LogTemp: Env CWD: E:\UE_4.18\Engine\Binaries\DotNET\IOS
 [2018.03.10-03.22.21:312][290]LogTemp: BranchPath = DESKTOP-26BKDR7/E/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-26BKDR7/E/UE_4.18/Engine/Binaries
 [2018.03.10-03.22.21:424][301]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Cameron\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.10-03.44.28:321][138]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-03.44.28:347][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-03.44.28:348][138]LogHMD: Initializing OVRPlugin session
+[2018.03.10-03.44.28:411][138]PIE: New page: PIE session: Level_1 (Mar 9, 2018, 5:44:28 PM)
+[2018.03.10-03.44.28:411][138]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.10-03.44.28:514][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103920s)
+[2018.03.10-03.44.28:515][138]LogAIModule: Creating AISystem for world Level_1
+[2018.03.10-03.44.28:515][138]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2018.03.10-03.44.28:516][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.105175s)
+[2018.03.10-03.44.28:560][138]LogInit: XAudio2 using 'Headset Earphone (2- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.03.10-03.44.28:586][138]LogInit: FAudioDevice initialized.
+[2018.03.10-03.44.28:620][138]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.10-03.44.28:628][138]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.09-22.44.28
+[2018.03.10-03.44.28:628][138]LogWorld: Bringing up level for play took: 0.007225
+[2018.03.10-03.44.28:633][138]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 1.095
