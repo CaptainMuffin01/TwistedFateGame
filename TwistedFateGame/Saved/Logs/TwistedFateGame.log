@@ -480,3 +480,10 @@ LogInit: Object subsystem initialized
 [2018.03.10-03.18.31:859][698]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.09-22.18.31
 [2018.03.10-03.18.31:859][698]LogWorld: Bringing up level for play took: 0.007447
 [2018.03.10-03.18.31:864][698]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.326
+[2018.03.10-03.22.20:381][227]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.10-03.22.21:312][290]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TwistedFateGame
+[2018.03.10-03.22.21:312][290]LogTemp: CWD: E:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.10-03.22.21:312][290]LogTemp: Initial Dir: E:\UE_4.18
+[2018.03.10-03.22.21:312][290]LogTemp: Env CWD: E:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.10-03.22.21:312][290]LogTemp: BranchPath = DESKTOP-26BKDR7/E/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-26BKDR7/E/UE_4.18/Engine/Binaries
+[2018.03.10-03.22.21:424][301]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Cameron\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
