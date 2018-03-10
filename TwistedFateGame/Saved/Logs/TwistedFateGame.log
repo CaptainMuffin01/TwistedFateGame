@@ -1639,3 +1639,178 @@ LogInit: Object subsystem initialized
 [2018.03.10-03.24.33:978][608]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Hero_BP_Auto390D315F644060A2F3E672E86D7396F9B.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_BP_Auto3.uasset'
 [2018.03.10-03.24.33:981][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_BP_Auto3.uasset
 [2018.03.10-03.24.33:982][608]LogFileHelpers: Auto-saving content packages took 0.125
+[2018.03.10-03.39.33:485][871]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.10-03.39.33:498][871]LightingResults: New page: Lighting Build
+[2018.03.10-03.39.33:504][871]LoadErrors: New page: Loading map: Level_1.umap
+[2018.03.10-03.39.33:555][871]MapCheck: New page: Map Check
+[2018.03.10-03.39.33:555][871]LightingResults: New page: Lighting Build
+[2018.03.10-03.39.34:207][871]LogStaticMesh: Building static mesh Shack_Floor_01...
+[2018.03.10-03.39.35:065][871]LogStaticMesh: Built static mesh [0.86s] /Game/LowPolyRainforest/Shack/Shack_Floor_01.Shack_Floor_01
+[2018.03.10-03.39.35:068][871]LogStaticMesh: Building static mesh Shack_Roof_01...
+[2018.03.10-03.39.35:094][871]LogStaticMesh: Built static mesh [0.03s] /Game/LowPolyRainforest/Shack/Shack_Roof_01.Shack_Roof_01
+[2018.03.10-03.39.35:095][871]LogStaticMesh: Building static mesh Shack_Wall_01...
+[2018.03.10-03.39.35:124][871]LogStaticMesh: Built static mesh [0.03s] /Game/LowPolyRainforest/Shack/Shack_Wall_01.Shack_Wall_01
+[2018.03.10-03.39.35:125][871]LogStaticMesh: Building static mesh Shack_Wall_Door_01...
+[2018.03.10-03.39.35:167][871]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyRainforest/Shack/Shack_Wall_Door_01.Shack_Wall_Door_01
+[2018.03.10-03.39.35:168][871]LogStaticMesh: Building static mesh Rock_01...
+[2018.03.10-03.39.35:180][871]LogStaticMesh: Built static mesh [0.01s] /Game/LowPolyRainforest/Ground_Plants/Rock_01.Rock_01
+[2018.03.10-03.39.35:227][871]LogStaticMesh: Building static mesh Large_Leaf_02...
+[2018.03.10-03.39.35:235][871]LogStaticMesh: Built static mesh [0.01s] /Game/LowPolyRainforest/Ground_Plants/Large_Leaf_02.Large_Leaf_02
+[2018.03.10-03.39.35:249][871]LogStaticMesh: Building static mesh Large_Leaf_01...
+[2018.03.10-03.39.35:258][871]LogStaticMesh: Built static mesh [0.01s] /Game/LowPolyRainforest/Ground_Plants/Large_Leaf_01.Large_Leaf_01
+[2018.03.10-03.39.35:259][871]LogStaticMesh: Building static mesh Ground_Plant_02...
+[2018.03.10-03.39.35:290][871]LogStaticMesh: Built static mesh [0.03s] /Game/LowPolyRainforest/Ground_Plants/Ground_Plant_02.Ground_Plant_02
+[2018.03.10-03.39.36:325][871]LogTexture: Display: Building textures: rock_detail_01 (AutoDXT, 2048X2048)
+[2018.03.10-03.39.44:989][871]LogTexture: Display: Building textures: Thatch_01_SPEC (AutoDXT, 4096X4096)
+[2018.03.10-03.39.44:989][871]LogTexture: Display: Building textures: Thatch_01 (AutoDXT, 4096X4096)
+[2018.03.10-03.39.45:920][871]LogTexture: Display: Building textures: rock_detail_01_NRM (BC5, 2048X2048)
+[2018.03.10-03.39.47:367][871]LogTexture: Display: Building textures: rock_detail_01_SPEC (AutoDXT, 2048X2048)
+[2018.03.10-03.39.56:440][871]LogStaticMesh: Building static mesh Flat_Palm_01...
+[2018.03.10-03.39.56:448][871]LogStaticMesh: Built static mesh [0.01s] /Game/LowPolyRainforest/Ground_Plants/Flat_Palm_01.Flat_Palm_01
+[2018.03.10-03.39.56:449][871]LogStaticMesh: Building static mesh Fern_01...
+[2018.03.10-03.39.56:457][871]LogStaticMesh: Built static mesh [0.01s] /Game/LowPolyRainforest/Ground_Plants/Fern_01.Fern_01
+[2018.03.10-03.39.56:458][871]LogStaticMesh: Building static mesh Ground_Plant_04...
+[2018.03.10-03.39.56:461][871]LogStaticMesh: Built static mesh [0.00s] /Game/LowPolyRainforest/Ground_Plants/Ground_Plant_04.Ground_Plant_04
+[2018.03.10-03.39.56:462][871]LogStaticMesh: Building static mesh Ground_Plant_05...
+[2018.03.10-03.39.56:483][871]LogStaticMesh: Built static mesh [0.02s] /Game/LowPolyRainforest/Ground_Plants/Ground_Plant_05.Ground_Plant_05
+[2018.03.10-03.39.56:484][871]LogStaticMesh: Building static mesh Ground_Plant_03...
+[2018.03.10-03.39.56:492][871]LogStaticMesh: Built static mesh [0.01s] /Game/LowPolyRainforest/Ground_Plants/Ground_Plant_03.Ground_Plant_03
+[2018.03.10-03.39.56:492][871]LogStaticMesh: Building static mesh Flat_Palm_03...
+[2018.03.10-03.39.56:500][871]LogStaticMesh: Built static mesh [0.01s] /Game/LowPolyRainforest/Ground_Plants/Flat_Palm_03.Flat_Palm_03
+[2018.03.10-03.39.56:501][871]LogStaticMesh: Building static mesh Flat_Palm_02...
+[2018.03.10-03.39.56:508][871]LogStaticMesh: Built static mesh [0.01s] /Game/LowPolyRainforest/Ground_Plants/Flat_Palm_02.Flat_Palm_02
+[2018.03.10-03.39.56:509][871]LogStaticMesh: Building static mesh Ground_Plant_01...
+[2018.03.10-03.39.56:551][871]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyRainforest/Ground_Plants/Ground_Plant_01.Ground_Plant_01
+[2018.03.10-03.40.08:892][871]LogStaticMesh: Building static mesh Shack_Wall_Win_01...
+[2018.03.10-03.40.08:923][871]LogStaticMesh: Built static mesh [0.03s] /Game/LowPolyRainforest/Shack/Shack_Wall_Win_01.Shack_Wall_Win_01
+[2018.03.10-03.40.08:934][871]LogStaticMesh: Building static mesh Vines_01...
+[2018.03.10-03.40.08:935][871]LogStaticMesh: Built static mesh [0.00s] /Game/LowPolyRainforest/Ground_Plants/Vines_01.Vines_01
+[2018.03.10-03.40.08:936][871]LogStaticMesh: Building static mesh Shack_Roof_Side_01...
+[2018.03.10-03.40.08:963][871]LogStaticMesh: Built static mesh [0.03s] /Game/LowPolyRainforest/Shack/Shack_Roof_Side_01.Shack_Roof_Side_01
+[2018.03.10-03.40.08:964][871]LogStaticMesh: Building static mesh Shack_Support_01...
+[2018.03.10-03.40.08:996][871]LogStaticMesh: Built static mesh [0.03s] /Game/LowPolyRainforest/Shack/Shack_Support_01.Shack_Support_01
+[2018.03.10-03.40.14:176][871]LogTexture: Display: Building textures: Thatch_01_NRM (BC5, 4096X4096)
+[2018.03.10-03.40.14:462][871]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 256X256)
+[2018.03.10-03.40.14:462][871]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.03.10-03.40.14:497][871]LogStaticMesh: Building static mesh Dead_Plants_01...
+[2018.03.10-03.40.14:511][871]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.10-03.40.14:511][871]LogStaticMesh: Built static mesh [0.01s] /Game/LowPolyRainforest/Ground_Plants/Dead_Plants_01.Dead_Plants_01
+[2018.03.10-03.40.14:519][871]LogStaticMesh: Building static mesh Roots_01...
+[2018.03.10-03.40.14:523][871]LogStaticMesh: Built static mesh [0.00s] /Game/LowPolyRainforest/Ground_Plants/Roots_01.Roots_01
+[2018.03.10-03.40.14:578][871]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 256X256)
+[2018.03.10-03.40.14:578][871]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2018.03.10-03.40.14:578][871]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2018.03.10-03.40.14:578][871]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2018.03.10-03.40.14:578][871]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2018.03.10-03.40.14:578][871]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2018.03.10-03.40.14:578][871]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 256X256)
+[2018.03.10-03.40.14:597][871]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2018.03.10-03.40.14:597][871]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2018.03.10-03.40.14:597][871]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2018.03.10-03.40.14:597][871]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2018.03.10-03.40.14:597][871]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 256X256)
+[2018.03.10-03.40.14:597][871]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 256X256)
+[2018.03.10-03.40.14:602][871]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2018.03.10-03.40.14:602][871]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 256X256)
+[2018.03.10-03.40.14:687][871]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2018.03.10-03.40.14:687][871]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2018.03.10-03.40.14:687][871]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 256X256)
+[2018.03.10-03.40.14:687][871]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 256X256)
+[2018.03.10-03.40.14:687][871]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 256X256)
+[2018.03.10-03.40.14:687][871]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 256X256)
+[2018.03.10-03.40.14:687][871]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 256X256)
+[2018.03.10-03.40.14:687][871]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 256X256)
+[2018.03.10-03.40.14:687][871]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 256X256)
+[2018.03.10-03.40.14:688][871]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 256X256)
+[2018.03.10-03.40.14:688][871]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 256X256)
+[2018.03.10-03.40.14:946][871]LogStaticMesh: Building static mesh Balcony_01...
+[2018.03.10-03.40.14:985][871]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyRainforest/Shack/Balcony_01.Balcony_01
+[2018.03.10-03.40.14:986][871]LogStaticMesh: Building static mesh Ladder_01...
+[2018.03.10-03.40.15:006][871]LogStaticMesh: Built static mesh [0.02s] /Game/LowPolyRainforest/Shack/Ladder_01.Ladder_01
+[2018.03.10-03.40.15:035][871]LogAIModule: Creating AISystem for world Level_1
+[2018.03.10-03.40.17:506][871]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.10-03.40.17:581][871]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.10-03.40.17:701][871]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 118.72ms to complete.
+[2018.03.10-03.40.17:701][871]LogFileHelpers: Loading map 'Level_1' took 44.235
+[2018.03.10-03.41.08:029][686]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-03.41.08:079][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-03.41.08:079][686]PIE: New page: PIE session: Level_1 (Mar 9, 2018, 5:41:08 PM)
+[2018.03.10-03.41.08:079][686]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.10-03.41.08:229][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.150153s)
+[2018.03.10-03.41.08:245][686]LogAIModule: Creating AISystem for world Level_1
+[2018.03.10-03.41.08:248][686]LogPlayLevel: PIE: World Init took: (0.018820s)
+[2018.03.10-03.41.08:249][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.169593s)
+[2018.03.10-03.41.08:308][686]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-03.41.08:328][686]LogInit: FAudioDevice initialized.
+[2018.03.10-03.41.08:367][686]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.10-03.41.08:375][686]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.09-22.41.08
+[2018.03.10-03.41.08:376][686]LogWorld: Bringing up level for play took: 0.008123
+[2018.03.10-03.41.08:379][686]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 1.115
+[2018.03.10-03.45.00:086][813]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/HolsterRifle.HolsterRifle
+[2018.03.10-03.45.00:086][813]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/HolsterRifle.HolsterRifle) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:341][925]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Hit_C_1.Rifle_Hit_C_1
+[2018.03.10-03.45.02:341][925]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Hit_C_1.Rifle_Hit_C_1) using current/default (AnimCompress_BitwiseCompressOnly_171) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:377][926]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Grenade_Throw_Single.Rifle_Grenade_Throw_Single
+[2018.03.10-03.45.02:377][926]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Grenade_Throw_Single.Rifle_Grenade_Throw_Single) using current/default (AnimCompress_BitwiseCompressOnly_169) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:419][927]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_CrouchLoop.Rifle_CrouchLoop
+[2018.03.10-03.45.02:419][927]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_CrouchLoop.Rifle_CrouchLoop) using current/default (AnimCompress_BitwiseCompressOnly_160) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:437][927]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Death_3.Rifle_Death_3
+[2018.03.10-03.45.02:437][927]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Death_3.Rifle_Death_3) using current/default (AnimCompress_BitwiseCompressOnly_161) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:457][927]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Death_L.Rifle_Death_L
+[2018.03.10-03.45.02:457][927]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Death_L.Rifle_Death_L) using current/default (AnimCompress_BitwiseCompressOnly_162) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:478][927]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Death_R.Rifle_Death_R
+[2018.03.10-03.45.02:478][927]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Death_R.Rifle_Death_R) using current/default (AnimCompress_BitwiseCompressOnly_163) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:505][927]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Grenade_Throw_Cancel.Rifle_Grenade_Throw_Cancel
+[2018.03.10-03.45.02:505][927]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Grenade_Throw_Cancel.Rifle_Grenade_Throw_Cancel) using current/default (AnimCompress_BitwiseCompressOnly_165) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:662][929]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRight135Loop.Rifle_StrafeRight135Loop
+[2018.03.10-03.45.02:662][929]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRight135Loop.Rifle_StrafeRight135Loop) using current/default (AnimCompress_BitwiseCompressOnly_99) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:672][929]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRight45Loop.Rifle_StrafeRight45Loop
+[2018.03.10-03.45.02:672][929]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRight45Loop.Rifle_StrafeRight45Loop) using current/default (AnimCompress_BitwiseCompressOnly_100) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:681][929]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRightStart.Rifle_StrafeRightStart
+[2018.03.10-03.45.02:681][929]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRightStart.Rifle_StrafeRightStart) using current/default (AnimCompress_BitwiseCompressOnly_102) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:692][929]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRightStop_LU.Rifle_StrafeRightStop_LU
+[2018.03.10-03.45.02:692][929]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRightStop_LU.Rifle_StrafeRightStop_LU) using current/default (AnimCompress_BitwiseCompressOnly_103) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:702][929]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRightStop_RU.Rifle_StrafeRightStop_RU
+[2018.03.10-03.45.02:703][929]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRightStop_RU.Rifle_StrafeRightStop_RU) using current/default (AnimCompress_BitwiseCompressOnly_104) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:711][929]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRun135LeftLoop.Rifle_StrafeRun135LeftLoop
+[2018.03.10-03.45.02:711][929]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRun135LeftLoop.Rifle_StrafeRun135LeftLoop) using current/default (AnimCompress_BitwiseCompressOnly_105) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:718][929]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRun135RightLoop.Rifle_StrafeRun135RightLoop
+[2018.03.10-03.45.02:718][929]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRun135RightLoop.Rifle_StrafeRun135RightLoop) using current/default (AnimCompress_BitwiseCompressOnly_106) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:731][929]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRun45LeftLoop.Rifle_StrafeRun45LeftLoop
+[2018.03.10-03.45.02:731][929]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRun45LeftLoop.Rifle_StrafeRun45LeftLoop) using current/default (AnimCompress_BitwiseCompressOnly_107) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.45.02:741][929]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRun45RightLoop.Rifle_StrafeRun45RightLoop
+[2018.03.10-03.45.02:741][929]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_StrafeRun45RightLoop.Rifle_StrafeRun45RightLoop) using current/default (AnimCompress_BitwiseCompressOnly_108) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.10-03.46.02:115][574]BlueprintLog: New page: Compile HeroAnim_BP
+[2018.03.10-03.46.03:152][609]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-03.46.03:238][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-03.46.03:238][609]PIE: New page: PIE session: Level_1 (Mar 9, 2018, 5:46:03 PM)
+[2018.03.10-03.46.03:238][609]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.10-03.46.03:353][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114379s)
+[2018.03.10-03.46.03:354][609]LogAIModule: Creating AISystem for world Level_1
+[2018.03.10-03.46.03:354][609]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2018.03.10-03.46.03:354][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.115441s)
+[2018.03.10-03.46.03:455][609]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-03.46.03:609][609]LogInit: FAudioDevice initialized.
+[2018.03.10-03.46.03:691][609]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.10-03.46.03:699][609]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.09-22.46.03
+[2018.03.10-03.46.03:699][609]LogWorld: Bringing up level for play took: 0.007568
+[2018.03.10-03.46.03:705][609]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.442
+[2018.03.10-03.46.56:216][286]BlueprintLog: New page: Compile HeroAnim_BP
+[2018.03.10-03.47.01:616][642]LogSavePackage: Save=40.88ms
+[2018.03.10-03.47.01:616][642]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Hero_BPE50BB7944ABC9A75BA48F382FD4080BF.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/RifleAnimsetPro/Survivor/Hero_BP.uasset'
+[2018.03.10-03.47.01:632][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/RifleAnimsetPro/Survivor/Hero_BP.uasset
+[2018.03.10-03.47.01:717][642]LogSavePackage: Save=56.74ms
+[2018.03.10-03.47.01:717][642]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/HeroAnim_BPAC40499347A3934A705D278985CFAABB.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/RifleAnimsetPro/Survivor/HeroAnim_BP.uasset'
+[2018.03.10-03.47.01:738][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/RifleAnimsetPro/Survivor/HeroAnim_BP.uasset
+[2018.03.10-03.47.01:766][642]LogSavePackage: Save=13.52ms
+[2018.03.10-03.47.01:766][642]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/TwistedFate_GMC51D232442849EC05B56ED9003AAEFD9.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/RifleAnimsetPro/Survivor/TwistedFate_GM.uasset'
+[2018.03.10-03.47.01:772][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/RifleAnimsetPro/Survivor/TwistedFate_GM.uasset
+[2018.03.10-03.47.01:830][642]LogSavePackage: Save=50.23ms
+[2018.03.10-03.47.01:830][642]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Hero_PCA5AA074A4A658F3898B99BA0F3A36CAF.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/RifleAnimsetPro/Survivor/Hero_PC.uasset'
+[2018.03.10-03.47.01:836][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/RifleAnimsetPro/Survivor/Hero_PC.uasset
+[2018.03.10-03.47.08:789][ 54]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.03.10-03.47.16:842][ 54]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.10-03.47.17:896][ 54]SourceControl: [master b30f811] ds
+[2018.03.10-03.47.17:896][ 54]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2018.03.10-03.47.17:896][ 54]SourceControl:  create mode 100644 TwistedFateGame/Content/RifleAnimsetPro/Survivor/Hero_PC.uasset
+[2018.03.10-03.47.17:904][ 54]SourceControl: Commited [master b30f811] ds.
