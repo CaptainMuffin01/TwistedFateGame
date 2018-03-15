@@ -1737,3 +1737,13 @@ LogInit: Object subsystem initialized
 [2018.03.15-01.09.32:180][114]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Hero_PC_Auto70EA4BE0B43CE785A2B5CCB8978E4F921.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_PC_Auto7.uasset'
 [2018.03.15-01.09.32:183][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_PC_Auto7.uasset
 [2018.03.15-01.09.32:183][114]LogFileHelpers: Auto-saving content packages took 0.786
+[2018.03.15-01.11.51:034][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.15-01.11.51:047][  0]LightingResults: New page: Lighting Build
+[2018.03.15-01.11.51:048][  0]LoadErrors: New page: Loading map: Level_1.umap
+[2018.03.15-01.11.51:072][  0]MapCheck: New page: Map Check
+[2018.03.15-01.11.51:072][  0]LightingResults: New page: Lighting Build
+[2018.03.15-01.11.51:244][  0]LogAIModule: Creating AISystem for world Level_1
+[2018.03.15-01.11.51:398][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.15-01.11.51:654][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.15-01.11.51:778][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 123.374ms to complete.
+[2018.03.15-01.11.51:778][  0]LogFileHelpers: Loading map 'Level_1' took 0.745
