@@ -419,3 +419,184 @@ LogInit: Object subsystem initialized
 [2018.03.17-01.13.21:172][344]SourceControl: [master 3b4fffe] .
 [2018.03.17-01.13.21:172][344]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.03.17-01.13.21:181][344]SourceControl: Commited [master 3b4fffe] ..
+[2018.03.17-01.19.43:308][544]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.17-01.19.43:681][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.17-01.19.43:687][544]LogHMD: Initializing OVRPlugin session
+[2018.03.17-01.19.45:721][544]PIE: New page: PIE session: Level_1 (Mar 16, 2018, 5:19:45 PM)
+[2018.03.17-01.19.45:743][544]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.17-01.19.45:966][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.223049s)
+[2018.03.17-01.19.45:967][544]LogAIModule: Creating AISystem for world Level_1
+[2018.03.17-01.19.45:981][544]LogPlayLevel: PIE: World Init took: (0.014147s)
+[2018.03.17-01.19.45:993][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.250155s)
+[2018.03.17-01.19.46:047][544]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.17-01.19.46:056][544]LogInit: FAudioDevice initialized.
+[2018.03.17-01.19.46:949][544]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
+[2018.03.17-01.19.46:949][544]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.17-01.19.46:954][544]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Materials/M4_Mat
+[2018.03.17-01.19.46:954][544]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
+[2018.03.17-01.19.46:954][544]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.17-01.19.46:955][544]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
+[2018.03.17-01.19.46:955][544]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.17-01.19.46:955][544]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset
+[2018.03.17-01.19.46:955][544]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
+[2018.03.17-01.19.46:955][544]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.17-01.19.46:955][544]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton
+[2018.03.17-01.19.46:955][544]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
+[2018.03.17-01.19.46:955][544]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.17-01.19.46:955][544]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
+[2018.03.17-01.19.46:956][544]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.17-01.19.47:225][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Blendspace Player 'RifleStrafeMovement'  references blendspace that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:227][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Play Rifle_Reload_2  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:227][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Blendspace Player 'RifleStrafeMovement'  references blendspace that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:227][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Play Rifle_Idle2Crouch  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:228][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Blendspace Player 'CrouchStrafeMovement'  references blendspace that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:228][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Play Rifle_Crouch2Idle  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:228][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Play Rifle_Crouch_Reload2  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:229][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Blendspace Player 'CrouchStrafeMovement'  references blendspace that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:229][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Play Rifle_SprintStart  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:229][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Play Rifle_SprintLoop  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:230][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Blendspace Player 'RifleStrafeMovement'  references blendspace that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:230][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Play Rifle_ShootLoop_Additive  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:230][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Play Rifle_Idle2Prone  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:230][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Blendspace Player 'ProneMovement_BS'  references blendspace that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:231][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Play Rifle_Prone2Idle  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:231][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Play Rifle_Prone2Crouch  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:231][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Play Rifle_Crouch2Prone  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:231][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Play Rifle_Jump_Platformer_Start  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:232][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Play Rifle_Jump_Platformer_Fall  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.03.17-01.19.47:243][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_7 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:243][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_1 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:243][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_SequencePlayer_507 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:243][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_SequencePlayer_630 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:243][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_4 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:243][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_SequencePlayer_645 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:243][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_5 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:243][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_SequencePlayer_660 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:243][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_SequencePlayer_666 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:243][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_SequencePlayer_494 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:243][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_8 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:243][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_SequencePlayer_609 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:243][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_SequencePlayer_651 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:243][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_12 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:244][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_SequencePlayer_652 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:244][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_SequencePlayer_653 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:244][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_SequencePlayer_654 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:244][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_SequencePlayer_653 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:244][544]LogBlueprint: Error: [Compiler HeroAnim_BP] Missing allocated node for AnimGraphNode_SequencePlayer_654 while searching for node links - likely due to the node having outstanding errors.
+[2018.03.17-01.19.47:337][544]LogBlueprint: Warning: [Compiler HeroAnim_BP] [0642.69] Compile of HeroAnim_BP failed. 38 Fatal Issue(s) 0 Warning(s) [in 297 ms] (/Game/RifleAnimsetPro/Survivor/HeroAnim_BP.HeroAnim_BP)
+[2018.03.17-01.19.47:398][544]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
+[2018.03.17-01.19.47:398][544]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton.M4_Rifle_01_Skeleton Referenced by M4_Rifle_01
+[2018.03.17-01.19.47:398][544]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading NULL.
+[2018.03.17-01.19.47:398][544]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
+[2018.03.17-01.19.47:398][544]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset.M4_Rifle_01_PhysicsAsset Referenced by M4_Rifle_01
+[2018.03.17-01.19.47:399][544]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading NULL.
+[2018.03.17-01.19.47:414][544]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
+[2018.03.17-01.19.47:414][544]LoadErrors: Failed to load /Game/Rifle_01/Character/Materials/M4_Mat.M4_Mat Referenced by M4_Rifle_01
+[2018.03.17-01.19.47:414][544]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading NULL.
+[2018.03.17-01.19.47:581][544]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Jump_Platformer_Start.Rifle_Jump_Platformer_Start
+[2018.03.17-01.19.47:582][544]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Jump_Platformer_Start.Rifle_Jump_Platformer_Start) using current/default (AnimCompress_BitwiseCompressOnly_187) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.17-01.19.47:603][544]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Jump_Platformer_Fall.Rifle_Jump_Platformer_Fall
+[2018.03.17-01.19.47:603][544]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Jump_Platformer_Fall.Rifle_Jump_Platformer_Fall) using current/default (AnimCompress_BitwiseCompressOnly_57) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.17-01.19.47:752][544]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Death_3.Rifle_Death_3
+[2018.03.17-01.19.47:752][544]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Death_3.Rifle_Death_3) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.17-01.19.47:771][544]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.17-01.19.47:898][544]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.16-21.19.47
+[2018.03.17-01.19.47:927][544]LogWorld: Bringing up level for play took: 0.044334
+[2018.03.17-01.19.48:086][544]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.03.17-01.19.48:319][544]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 4.527
+[2018.03.17-01.19.56:257][342]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.17-01.19.56:281][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.17-01.20.05:773][342]LogHMD: Initializing OVRPlugin session
+[2018.03.17-01.20.05:801][342]PIE: New page: PIE session: Level_1 (Mar 16, 2018, 5:20:05 PM)
+[2018.03.17-01.20.05:802][342]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.17-01.20.05:965][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.162414s)
+[2018.03.17-01.20.05:965][342]LogAIModule: Creating AISystem for world Level_1
+[2018.03.17-01.20.05:966][342]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2018.03.17-01.20.05:966][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.163885s)
+[2018.03.17-01.20.05:997][342]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.17-01.20.06:007][342]LogInit: FAudioDevice initialized.
+[2018.03.17-01.20.06:039][342]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.17-01.20.06:051][342]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.16-21.20.06
+[2018.03.17-01.20.06:052][342]LogWorld: Bringing up level for play took: 0.012050
+[2018.03.17-01.20.06:055][342]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 10.263
+[2018.03.17-01.20.59:026][308]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.17-01.20.59:048][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.17-01.20.59:048][308]LogHMD: Initializing OVRPlugin session
+[2018.03.17-01.20.59:075][308]PIE: New page: PIE session: Level_1 (Mar 16, 2018, 5:20:59 PM)
+[2018.03.17-01.20.59:076][308]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.17-01.20.59:218][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.142314s)
+[2018.03.17-01.20.59:219][308]LogAIModule: Creating AISystem for world Level_1
+[2018.03.17-01.20.59:219][308]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2018.03.17-01.20.59:219][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.143214s)
+[2018.03.17-01.20.59:244][308]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.17-01.20.59:253][308]LogInit: FAudioDevice initialized.
+[2018.03.17-01.20.59:287][308]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.17-01.20.59:302][308]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.16-21.20.59
+[2018.03.17-01.20.59:302][308]LogWorld: Bringing up level for play took: 0.013909
+[2018.03.17-01.20.59:305][308]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.487
+[2018.03.17-01.22.44:785][384]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.17-01.22.44:805][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.17-01.22.44:805][384]LogHMD: Initializing OVRPlugin session
+[2018.03.17-01.22.44:829][384]PIE: New page: PIE session: Level_1 (Mar 16, 2018, 5:22:44 PM)
+[2018.03.17-01.22.44:830][384]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.17-01.22.44:975][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144851s)
+[2018.03.17-01.22.44:975][384]LogAIModule: Creating AISystem for world Level_1
+[2018.03.17-01.22.44:976][384]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2018.03.17-01.22.44:976][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.145812s)
+[2018.03.17-01.22.45:003][384]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.17-01.22.45:012][384]LogInit: FAudioDevice initialized.
+[2018.03.17-01.22.45:044][384]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.17-01.22.45:058][384]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.16-21.22.45
+[2018.03.17-01.22.45:059][384]LogWorld: Bringing up level for play took: 0.014445
+[2018.03.17-01.22.45:062][384]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.73
+[2018.03.17-01.24.50:142][534]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.17-01.24.50:162][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.17-01.24.50:162][534]LogHMD: Initializing OVRPlugin session
+[2018.03.17-01.24.50:185][534]PIE: New page: PIE session: Level_1 (Mar 16, 2018, 5:24:50 PM)
+[2018.03.17-01.24.50:186][534]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.17-01.24.50:333][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.146548s)
+[2018.03.17-01.24.50:333][534]LogAIModule: Creating AISystem for world Level_1
+[2018.03.17-01.24.50:333][534]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2018.03.17-01.24.50:334][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.147791s)
+[2018.03.17-01.24.50:361][534]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.17-01.24.50:372][534]LogInit: FAudioDevice initialized.
+[2018.03.17-01.24.50:407][534]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.17-01.24.50:421][534]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.16-21.24.50
+[2018.03.17-01.24.50:421][534]LogWorld: Bringing up level for play took: 0.012789
+[2018.03.17-01.24.50:425][534]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.632
+[2018.03.17-01.24.55:739][164]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:0675
+[2018.03.17-01.24.55:739][164]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3 from function: 'ExecuteUbergraph_Hero_PC' from node: Set MaxWalkSpeed in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3
+[2018.03.17-01.24.55:739][164]LogScript: Warning: Accessed None
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:068A
+[2018.03.17-01.24.55:739][164]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_Hero_PC' from node: Set MaxWalkSpeed in graph: EventGraph in object: Hero_PC with description: Accessed None
+[2018.03.17-01.24.55:739][164]LogScript: Warning: Attempted to assign to None
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:069F
+[2018.03.17-01.24.55:739][164]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_Hero_PC' from node: Set MaxWalkSpeed in graph: EventGraph in object: Hero_PC with description: Attempted to assign to None
+[2018.03.17-01.24.55:790][170]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:0036
+[2018.03.17-01.24.55:790][170]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3 from function: 'ExecuteUbergraph_Hero_PC' from node: Set CurrentStamina in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3
+[2018.03.17-01.24.55:790][170]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:0055
+[2018.03.17-01.24.55:790][170]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3 from function: 'ExecuteUbergraph_Hero_PC' from node: Set CurrentStamina in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3
+[2018.03.17-01.24.55:791][170]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:007F
+[2018.03.17-01.24.55:791][170]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3 from function: 'ExecuteUbergraph_Hero_PC' from node: Set CurrentStamina in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3
+[2018.03.17-01.24.55:791][170]LogScript: Warning: Attempted to assign to None
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:0094
+[2018.03.17-01.24.55:791][170]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_Hero_PC' from node: Set CurrentStamina in graph: EventGraph in object: Hero_PC with description: Attempted to assign to None
+[2018.03.17-01.24.55:791][170]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:00BB
+[2018.03.17-01.24.55:791][170]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3 from function: 'ExecuteUbergraph_Hero_PC' from node: Branch in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3
+[2018.03.17-01.24.55:791][170]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:00DA
+[2018.03.17-01.24.55:791][170]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3 from function: 'ExecuteUbergraph_Hero_PC' from node: Branch in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP3
