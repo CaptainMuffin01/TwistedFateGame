@@ -504,3 +504,308 @@ LogInit: Object subsystem initialized
 [2018.03.19-03.51.59:028][  0]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.03.19-03.51.59:041][  0]SourceControl: Commited [master 1598704] ..
 [2018.03.19-03.52.36:099][953]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.19-03.56.33:329][153]Cmd: TRANSACTION UNDO
+[2018.03.19-03.56.33:329][153]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.03.19-03.56.33:467][153]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.19-03.56.34:151][153]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X512)
+[2018.03.19-04.00.02:909][912]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.00.02:932][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.00.02:932][912]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.00.02:956][912]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:00:02 PM)
+[2018.03.19-04.00.02:957][912]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.00.03:109][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152122s)
+[2018.03.19-04.00.03:110][912]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.00.03:110][912]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2018.03.19-04.00.03:110][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.153447s)
+[2018.03.19-04.00.03:144][912]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.00.03:159][912]LogInit: FAudioDevice initialized.
+[2018.03.19-04.00.03:191][912]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.00.03:207][912]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.00.03
+[2018.03.19-04.00.03:208][912]LogWorld: Bringing up level for play took: 0.016030
+[2018.03.19-04.00.03:212][912]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.51
+[2018.03.19-04.00.34:420][402]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater39)
+[2018.03.19-04.00.48:511][852]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.00.48:533][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.00.48:533][852]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.00.48:732][852]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:00:48 PM)
+[2018.03.19-04.00.48:732][852]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.00.48:880][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147836s)
+[2018.03.19-04.00.48:881][852]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.00.48:881][852]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2018.03.19-04.00.48:881][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.148838s)
+[2018.03.19-04.00.48:908][852]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.00.48:919][852]LogInit: FAudioDevice initialized.
+[2018.03.19-04.00.48:957][852]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.00.48:971][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.00.48
+[2018.03.19-04.00.48:973][852]LogWorld: Bringing up level for play took: 0.015029
+[2018.03.19-04.00.48:976][852]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 1.255
+[2018.03.19-04.00.54:121][397]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.00.54:142][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.00.54:142][397]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.00.54:165][397]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:00:54 PM)
+[2018.03.19-04.00.54:165][397]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.00.54:313][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147067s)
+[2018.03.19-04.00.54:313][397]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.00.54:314][397]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2018.03.19-04.00.54:314][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.148156s)
+[2018.03.19-04.00.54:340][397]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.00.54:351][397]LogInit: FAudioDevice initialized.
+[2018.03.19-04.00.54:384][397]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.00.54:397][397]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.00.54
+[2018.03.19-04.00.54:398][397]LogWorld: Bringing up level for play took: 0.013940
+[2018.03.19-04.00.54:401][397]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.68
+[2018.03.19-04.01.14:384][395]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater42)
+[2018.03.19-04.01.15:924][569]Cmd: DELETE
+[2018.03.19-04.01.15:924][569]Cmd: ACTOR DELETE
+[2018.03.19-04.01.15:951][569]LogEditorActor: Deleted Actor: BP_TranslucentWater_C
+[2018.03.19-04.01.15:963][569]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.03.19-04.01.20:247][ 72]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater39)
+[2018.03.19-04.01.22:648][343]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater40)
+[2018.03.19-04.01.35:494][833]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater31)
+[2018.03.19-04.01.36:566][955]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater41)
+[2018.03.19-04.02.02:527][902]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.19-04.03.07:835][943]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.03.07:859][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.03.07:859][943]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.03.07:884][943]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:03:07 PM)
+[2018.03.19-04.03.07:885][943]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.03.08:038][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152899s)
+[2018.03.19-04.03.08:039][943]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.03.08:039][943]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2018.03.19-04.03.08:039][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.153901s)
+[2018.03.19-04.03.08:079][943]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.03.08:092][943]LogInit: FAudioDevice initialized.
+[2018.03.19-04.03.08:123][943]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.03.08:139][943]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.03.08
+[2018.03.19-04.03.08:140][943]LogWorld: Bringing up level for play took: 0.016458
+[2018.03.19-04.03.08:144][943]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.422
+[2018.03.19-04.06.04:141][892]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater35)
+[2018.03.19-04.06.04:868][973]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater26)
+[2018.03.19-04.06.05:732][ 70]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater35)
+[2018.03.19-04.06.06:489][155]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater41)
+[2018.03.19-04.06.12:316][833]Cmd: DELETE
+[2018.03.19-04.06.12:316][833]Cmd: ACTOR DELETE
+[2018.03.19-04.06.12:344][833]LogEditorActor: Deleted Actor: BP_TranslucentWater_C
+[2018.03.19-04.06.12:357][833]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.03.19-04.06.12:831][889]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater47)
+[2018.03.19-04.06.13:043][909]Cmd: DELETE
+[2018.03.19-04.06.13:043][909]Cmd: ACTOR DELETE
+[2018.03.19-04.06.13:072][909]LogEditorActor: Deleted Actor: BP_TranslucentWater_C
+[2018.03.19-04.06.13:083][909]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.03.19-04.06.15:914][247]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater25)
+[2018.03.19-04.06.16:640][328]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater20)
+[2018.03.19-04.06.18:390][531]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater11)
+[2018.03.19-04.06.19:188][620]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater25)
+[2018.03.19-04.06.19:791][685]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater20)
+[2018.03.19-04.06.21:855][925]Cmd: DELETE
+[2018.03.19-04.06.21:855][925]Cmd: ACTOR DELETE
+[2018.03.19-04.06.21:882][925]LogEditorActor: Deleted Actor: BP_TranslucentWater_C
+[2018.03.19-04.06.21:892][925]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.03.19-04.06.25:712][346]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater11)
+[2018.03.19-04.06.38:377][740]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_TranslucentWater_C (BP_TranslucentWater25)
+[2018.03.19-04.06.39:103][821]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_TranslucentWater_C (BP_TranslucentWater35)
+[2018.03.19-04.06.40:387][967]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_TranslucentWater_C (BP_TranslucentWater26)
+[2018.03.19-04.06.41:878][138]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_TranslucentWater_C (BP_TranslucentWater36)
+[2018.03.19-04.06.42:753][237]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_TranslucentWater_C (BP_TranslucentWater42)
+[2018.03.19-04.07.05:548][772]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.19-04.07.06:546][876]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater61)
+[2018.03.19-04.07.08:109][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater60)
+[2018.03.19-04.07.10:304][277]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_TranslucentWater_C (BP_TranslucentWater61)
+[2018.03.19-04.07.21:608][591]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater64)
+[2018.03.19-04.07.22:578][701]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater62)
+[2018.03.19-04.07.35:476][177]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.07.35:498][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.07.35:499][177]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.07.35:525][177]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:07:35 PM)
+[2018.03.19-04.07.35:525][177]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.07.35:695][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.169217s)
+[2018.03.19-04.07.35:695][177]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.07.35:696][177]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2018.03.19-04.07.35:696][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.170812s)
+[2018.03.19-04.07.35:744][177]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.07.35:758][177]LogInit: FAudioDevice initialized.
+[2018.03.19-04.07.35:790][177]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.07.35:805][177]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.07.35
+[2018.03.19-04.07.35:806][177]LogWorld: Bringing up level for play took: 0.015910
+[2018.03.19-04.07.35:810][177]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.089
+[2018.03.19-04.08.33:464][520]Cmd: POLY SELECT MEMORY UNION
+[2018.03.19-04.10.30:422][594]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.10.30:444][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.10.30:445][594]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.10.30:471][594]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:10:30 PM)
+[2018.03.19-04.10.30:471][594]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.10.30:632][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.160117s)
+[2018.03.19-04.10.30:632][594]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.10.30:632][594]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2018.03.19-04.10.30:633][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.161372s)
+[2018.03.19-04.10.30:670][594]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.10.30:687][594]LogInit: FAudioDevice initialized.
+[2018.03.19-04.10.30:722][594]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.10.30:736][594]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.10.30
+[2018.03.19-04.10.30:737][594]LogWorld: Bringing up level for play took: 0.014518
+[2018.03.19-04.10.30:740][594]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 1.019
+[2018.03.19-04.10.53:586][ 26]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater65)
+[2018.03.19-04.10.56:291][302]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater64)
+[2018.03.19-04.11.00:777][812]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater65)
+[2018.03.19-04.11.10:543][888]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.19-04.11.19:590][923]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater66)
+[2018.03.19-04.11.28:089][876]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater67)
+[2018.03.19-04.11.52:738][686]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater45)
+[2018.03.19-04.11.53:478][765]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater46)
+[2018.03.19-04.11.55:592][ 12]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater44)
+[2018.03.19-04.11.57:869][252]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater46)
+[2018.03.19-04.13.11:684][353]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater131)
+[2018.03.19-04.13.13:648][547]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater129)
+[2018.03.19-04.13.14:422][635]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater128)
+[2018.03.19-04.13.25:173][875]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater126)
+[2018.03.19-04.13.27:489][142]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater129)
+[2018.03.19-04.13.30:266][465]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater130)
+[2018.03.19-04.13.32:185][684]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater131)
+[2018.03.19-04.13.34:420][943]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater127)
+[2018.03.19-04.13.37:438][293]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater126)
+[2018.03.19-04.13.43:357][927]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater125)
+[2018.03.19-04.13.50:780][769]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.19-04.14.04:961][387]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.14.04:982][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.14.04:982][387]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.14.05:010][387]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:14:05 PM)
+[2018.03.19-04.14.05:011][387]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.14.05:184][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.173579s)
+[2018.03.19-04.14.05:186][387]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.14.05:186][387]LogPlayLevel: PIE: World Init took: (0.001844s)
+[2018.03.19-04.14.05:186][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.175844s)
+[2018.03.19-04.14.05:258][387]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.14.05:276][387]LogInit: FAudioDevice initialized.
+[2018.03.19-04.14.05:308][387]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.14.05:325][387]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.14.05
+[2018.03.19-04.14.05:326][387]LogWorld: Bringing up level for play took: 0.017260
+[2018.03.19-04.14.05:329][387]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.392
+[2018.03.19-04.15.33:950][825]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.15.33:971][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.15.33:971][825]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.15.33:997][825]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:15:33 PM)
+[2018.03.19-04.15.33:997][825]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.15.34:159][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.161330s)
+[2018.03.19-04.15.34:159][825]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.15.34:159][825]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2018.03.19-04.15.34:160][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.162287s)
+[2018.03.19-04.15.34:185][825]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.15.34:196][825]LogInit: FAudioDevice initialized.
+[2018.03.19-04.15.34:227][825]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.15.34:243][825]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.15.34
+[2018.03.19-04.15.34:245][825]LogWorld: Bringing up level for play took: 0.016878
+[2018.03.19-04.15.34:248][825]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.527
+[2018.03.19-04.15.39:956][360]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:0792
+[2018.03.19-04.15.39:956][360]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP from function: 'ExecuteUbergraph_Hero_PC' from node: Set MaxWalkSpeed in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+[2018.03.19-04.15.39:956][360]LogScript: Warning: Accessed None
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:07A7
+[2018.03.19-04.15.39:956][360]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_Hero_PC' from node: Set MaxWalkSpeed in graph: EventGraph in object: Hero_PC with description: Accessed None
+[2018.03.19-04.15.39:956][360]LogScript: Warning: Attempted to assign to None
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:07BC
+[2018.03.19-04.15.39:956][360]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_Hero_PC' from node: Set MaxWalkSpeed in graph: EventGraph in object: Hero_PC with description: Attempted to assign to None
+[2018.03.19-04.15.40:010][364]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:101E
+[2018.03.19-04.15.40:010][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP from function: 'ExecuteUbergraph_Hero_PC' from node: Set CurrentStamina in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+[2018.03.19-04.15.40:011][364]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:103D
+[2018.03.19-04.15.40:011][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP from function: 'ExecuteUbergraph_Hero_PC' from node: Set CurrentStamina in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+[2018.03.19-04.15.40:011][364]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:1067
+[2018.03.19-04.15.40:011][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP from function: 'ExecuteUbergraph_Hero_PC' from node: Set CurrentStamina in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+[2018.03.19-04.15.40:011][364]LogScript: Warning: Attempted to assign to None
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:107C
+[2018.03.19-04.15.40:011][364]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_Hero_PC' from node: Set CurrentStamina in graph: EventGraph in object: Hero_PC with description: Attempted to assign to None
+[2018.03.19-04.15.40:011][364]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:0FB2
+[2018.03.19-04.15.40:011][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP from function: 'ExecuteUbergraph_Hero_PC' from node: Branch in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+[2018.03.19-04.15.40:011][364]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:0FD1
+[2018.03.19-04.15.40:011][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP from function: 'ExecuteUbergraph_Hero_PC' from node: Branch in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+[2018.03.19-04.17.16:523][726]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.17.16:546][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.17.16:547][726]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.17.16:573][726]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:17:16 PM)
+[2018.03.19-04.17.16:574][726]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.17.16:740][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166426s)
+[2018.03.19-04.17.16:741][726]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.17.16:741][726]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2018.03.19-04.17.16:741][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.167643s)
+[2018.03.19-04.17.16:778][726]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.17.16:790][726]LogInit: FAudioDevice initialized.
+[2018.03.19-04.17.16:827][726]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.17.16:842][726]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.17.16
+[2018.03.19-04.17.16:844][726]LogWorld: Bringing up level for play took: 0.016444
+[2018.03.19-04.17.16:847][726]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 1.125
+[2018.03.19-04.17.28:327][839]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.17.28:348][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.17.28:348][839]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.17.28:372][839]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:17:28 PM)
+[2018.03.19-04.17.28:373][839]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.17.28:533][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.160387s)
+[2018.03.19-04.17.28:534][839]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.17.28:534][839]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2018.03.19-04.17.28:535][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.161647s)
+[2018.03.19-04.17.28:563][839]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.17.28:573][839]LogInit: FAudioDevice initialized.
+[2018.03.19-04.17.28:605][839]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.17.28:622][839]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.17.28
+[2018.03.19-04.17.28:623][839]LogWorld: Bringing up level for play took: 0.017489
+[2018.03.19-04.17.28:626][839]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.904
+[2018.03.19-04.17.59:664][347]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater20)
+[2018.03.19-04.18.04:956][951]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater11)
+[2018.03.19-04.18.10:324][555]Cmd: DELETE
+[2018.03.19-04.18.10:324][555]Cmd: ACTOR DELETE
+[2018.03.19-04.18.10:359][555]LogEditorActor: Deleted Actor: BP_TranslucentWater_C
+[2018.03.19-04.18.10:372][555]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.03.19-04.18.11:986][746]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater51)
+[2018.03.19-04.18.32:521][949]Cmd: TRANSACTION UNDO
+[2018.03.19-04.18.32:521][949]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.03.19-04.18.34:219][949]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.19-04.18.34:273][949]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Bamboo_02)
+[2018.03.19-04.18.55:934][986]Cmd: TRANSACTION UNDO
+[2018.03.19-04.18.55:934][986]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.03.19-04.18.56:012][986]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.19-04.18.57:012][986]Cmd: TRANSACTION UNDO
+[2018.03.19-04.18.57:012][986]LogEditorTransaction: Undo Edit Tool Strength
+[2018.03.19-04.19.55:753][ 95]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater25)
+[2018.03.19-04.19.56:451][172]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater21)
+[2018.03.19-04.19.57:216][258]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater11)
+[2018.03.19-04.19.57:648][303]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater25)
+[2018.03.19-04.19.58:102][352]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater41)
+[2018.03.19-04.20.43:622][351]Cmd: TRANSACTION UNDO
+[2018.03.19-04.20.43:622][351]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.03.19-04.20.43:687][351]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.19-04.20.52:325][311]Cmd: TRANSACTION UNDO
+[2018.03.19-04.20.52:325][311]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.03.19-04.20.52:392][311]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.19-04.20.53:295][397]Cmd: TRANSACTION UNDO
+[2018.03.19-04.20.53:295][397]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.19-04.20.54:141][493]Cmd: TRANSACTION UNDO
+[2018.03.19-04.20.54:141][493]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.19-04.22.57:485][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.19-04.22.57:746][580]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 512X512)
+[2018.03.19-04.22.57:760][580]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 256X256)
+[2018.03.19-04.22.57:764][580]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.19-04.22.57:773][580]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 256X256)
+[2018.03.19-04.22.57:776][580]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X512)
+[2018.03.19-04.22.57:786][580]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 256X256)
+[2018.03.19-04.22.57:789][580]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 256X256)
+[2018.03.19-04.22.57:792][580]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2018.03.19-04.23.00:548][580]LogSavePackage: Save=3008.30ms
+[2018.03.19-04.23.00:548][580]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1E8A189DD4BC8FEDB39B2D7843B05E270.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.19-04.23.00:559][580]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.19-04.23.02:993][707]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.19-04.23.11:420][707]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.19-04.23.11:528][707]SourceControl: [master 9a9f3ad] .
+[2018.03.19-04.23.11:528][707]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.19-04.23.11:542][707]SourceControl: Commited [master 9a9f3ad] ..
