@@ -1,0 +1,1227 @@
+﻿Log file open, 03/23/18 20:26:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TwistedFateGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1011664929) SRandInit(1011664929).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.187067
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.24-00.26.02:950][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.24-00.26.02:950][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.24-00.26.02:976][  0]LogInit: Computer: RYAN
+[2018.03.24-00.26.02:976][  0]LogInit: User: Ryan
+[2018.03.24-00.26.02:976][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.24-00.26.02:976][  0]LogInit: High frequency timer resolution =2.648434 MHz
+[2018.03.24-00.26.02:976][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.24-00.26.02:976][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.24-00.26.02:976][  0]LogMemory: Process Physical Memory: 273.34 MB used, 273.34 MB peak
+[2018.03.24-00.26.02:976][  0]LogMemory: Process Virtual Memory: 275.90 MB used, 275.90 MB peak
+[2018.03.24-00.26.02:976][  0]LogMemory: Physical Memory: 9963.33 MB used,  6346.54 MB free, 16309.86 MB total
+[2018.03.24-00.26.02:976][  0]LogMemory: Virtual Memory: 673.20 MB used,  6346.54 MB free, 134217728.00 MB total
+[2018.03.24-00.26.03:155][  0]LogInit: Using OS detected language (en-US).
+[2018.03.24-00.26.03:155][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.24-00.26.03:162][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.24-00.26.03:601][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.24-00.26.04:064][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.24-00.26.04:112][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.03.24-00.26.04:112][  0]LogD3D11RHI:       4058/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.24-00.26.04:115][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.24-00.26.04:115][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.24-00.26.04:115][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.24-00.26.04:151][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.24-00.26.04:151][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.24-00.26.04:151][  0]LogWindows: EnumDisplayDevices:
+[2018.03.24-00.26.04:151][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.03.24-00.26.04:151][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.03.24-00.26.04:151][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.03.24-00.26.04:151][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.03.24-00.26.04:152][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.24-00.26.04:152][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.03.24-00.26.04:152][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.24-00.26.04:152][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.24-00.26.04:152][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2018.03.24-00.26.04:174][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.24-00.26.04:188][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.24-00.26.04:233][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Intermediate/Shaders/WorkingDirectory/294308/).
+[2018.03.24-00.26.04:233][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ryan/AppData/Local/Temp/UnrealShaderWorkingDir/86593BD44CC9B5FC93DFA2B481588627/'.
+[2018.03.24-00.26.04:233][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.24-00.26.05:390][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.24-00.26.05:456][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.24-00.26.05:522][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.24-00.26.05:590][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.24-00.26.05:658][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.24-00.26.05:722][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.24-00.26.05:788][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.24-00.26.05:856][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.24-00.26.05:916][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.24-00.26.05:982][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.24-00.26.06:050][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.24-00.26.06:114][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.24-00.26.06:178][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.24-00.26.06:242][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.24-00.26.06:371][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.24-00.26.06:371][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.24-00.26.06:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.24-00.26.06:489][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.24-00.26.06:599][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.24-00.26.06:632][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.24-00.26.06:696][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.24-00.26.06:759][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.24-00.26.06:821][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.24-00.26.06:885][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.24-00.26.06:885][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.24-00.26.07:502][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.24-00.26.07:573][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Ryan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.24-00.26.07:573][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ryan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.24-00.26.07:573][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.24-00.26.07:573][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.24-00.26.07:573][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.24-00.26.07:573][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.24-00.26.07:591][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.24-00.26.07:603][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.24-00.26.07:614][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.24-00.26.07:614][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.24-00.26.07:616][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.24-00.26.07:616][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.24-00.26.08:092][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.24-00.26.08:523][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.24-00.26.08:581][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.24-00.26.08:581][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.24-00.26.08:581][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.24-00.26.08:581][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.24-00.26.08:581][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.24-00.26.08:633][  0]LogNetVersion: TwistedFateGame , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1574445964)
+[2018.03.24-00.26.08:845][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.03.24-00.26.09:554][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.161064 seconds
+[2018.03.24-00.26.09:560][  0]LogUObjectArray: 35871 objects as part of root set at end of initial load.
+[2018.03.24-00.26.09:560][  0]LogUObjectAllocator: 7363928 out of 0 bytes used by permanent object pool.
+[2018.03.24-00.26.09:560][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.24-00.26.09:625][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.24-00.26.13:532][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.24-00.26.13:595][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.24-00.26.14:590][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.24-00.26.15:200][  0]SourceControl: Source control is disabled
+[2018.03.24-00.26.17:833][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.24-00.26.18:262][  0]LogOcInput: OculusInput pre-init called
+[2018.03.24-00.26.18:681][  0]LogEngine: Initializing Engine...
+[2018.03.24-00.26.18:742][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.03.24-00.26.18:973][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.24-00.26.18:973][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.24-00.26.19:134][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.24-00.26.19:156][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.24-00.26.19:181][  0]LogInit: FAudioDevice initialized.
+[2018.03.24-00.26.19:352][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/Ryan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.24-00.26.19:362][  0]LogInit: Texture streaming: Enabled
+[2018.03.24-00.26.19:482][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.24-00.26.19:680][  0]LogInit: Transaction tracking system initialized
+[2018.03.24-00.26.20:073][  0]BlueprintLog: New page: Editor Load
+[2018.03.24-00.26.21:198][  0]LocalizationService: Localization service is disabled
+[2018.03.24-00.26.22:164][  0]LogConsoleResponse: Display: 
+[2018.03.24-00.26.22:419][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ as it will conflict with another watching ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/.
+[2018.03.24-00.26.22:438][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.24-00.26.22:438][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.24-00.26.22:438][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.24-00.26.23:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/' took 0.24s
+[2018.03.24-00.26.24:180][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.24-00.26.24:181][  0]LightingResults: New page: Lighting Build
+[2018.03.24-00.26.24:234][  0]MapCheck: New page: Map Check
+[2018.03.24-00.26.24:234][  0]LightingResults: New page: Lighting Build
+[2018.03.24-00.26.32:798][  0]LogAIModule: Creating AISystem for world Level_1
+[2018.03.24-00.26.34:706][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.24-00.26.34:961][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.24-00.26.35:160][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 198.484ms to complete.
+[2018.03.24-00.26.35:160][  0]LogFileHelpers: Loading map 'Level_1' took 10.980
+[2018.03.24-00.26.35:360][  0]LogCollectionManager: Loaded 0 collections in 0.002862 seconds
+[2018.03.24-00.26.35:463][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Collections/' took 0.01s
+[2018.03.24-00.26.35:463][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Developers/Ryan/Collections/' took 0.01s
+[2018.03.24-00.26.35:463][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Collections/' took 0.01s
+[2018.03.24-00.26.35:463][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.24-00.26.35:472][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2363 classes and 519 folders.
+[2018.03.24-00.26.35:559][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.24-00.26.35:656][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.24-00.26.35:711][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.24-00.26.35:803][  0]LogSlate: Took 0.001055 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.24-00.26.35:807][  0]LogSlate: Took 0.000939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.24-00.26.35:812][  0]LogSlate: Took 0.000691 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.24-00.26.35:923][  0]LogRenderer: Reallocating scene render targets to support 1140x532 Format 10 NumSamples 1 (Frame:1).
+[2018.03.24-00.26.36:138][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.24-00.26.36:138][  0]LogLoad: (Engine Initialization) Total time: 37.60 seconds
+[2018.03.24-00.26.36:138][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.24-00.26.36:139][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.24-00.26.36:148][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.24-00.26.36:205][  0]SourceControl: On branch master
+[2018.03.24-00.26.36:205][  0]SourceControl: Your branch is behind 'origin/master' by 12 commits, and can be fast-forwarded.
+[2018.03.24-00.26.36:205][  0]SourceControl:   (use "git pull" to update your local branch)
+[2018.03.24-00.26.36:205][  0]SourceControl: Changes to be committed:
+[2018.03.24-00.26.36:205][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim-.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_CC1.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Center.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Center_Down.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Center_Up.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_D1.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_L1.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_LD1.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_LU1.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Left_Center.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Left_Down.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Left_Up.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_R1.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_RD1.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_RU1.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Right_Center.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Right_Down.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Right_Up.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Space_Hip1.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_U1.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/BS_Jog.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Crouch_Idle_Rifle_Hip.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Crouch_Walk_Bwd_Rifle_Hip.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Crouch_Walk_Fwd_Rifle_Hip.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Crouch_Walk_Lt_Rifle_Hip.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Crouch_Walk_Rt_Rifle_Hip.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Crouch_to_Stand_Rifle_Hip.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Fire_Rifle_Hip.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Fire_Shotgun_Hip.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Hip_AimOffset.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Idle_Rifle_Hip.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Idle_Rifle_Hip_Break1.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Idle_Rifle_Hip_Break2.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Jog_Bwd_Rifle.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Jog_Fwd_Rifle.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Jog_Lt_Rifle.uasset
+[2018.03.24-00.26.36:205][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Jog_Rt_Rifle.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Reload_Rifle_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Reload_Shotgun_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Rifle_Crouch_AimAdditive_RC_PoseAsset.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Stand_to_Crouch_Rifle_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Animations/InPlace/Idle_Rifle_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Survivor/Crosshair.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Survivor/SpawnPoint.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Survivor/WaveStruct.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/UE4_Mannequin/Aim_Space_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/UE4_Mannequin/Aim_Space_Hip1.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/UE4_Mannequin/Mesh/Rifle_Hip__AimOffset.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/UE4_Mannequin/Mesh/Rifle_Hip__AimOffset2D.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	new file:   TwistedFateGame/Content/RifleAnimsetPro/Weapons/Crosshair/8_2_neon-orange.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/ThirdPersonBP/Animations/StarterPackAnimations/Aim_Space_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: Changes not staged for commit:
+[2018.03.24-00.26.36:206][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.03.24-00.26.36:206][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Config/DefaultInput.ini
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/InfinityBladeAdversaries/Enemy/Enemy_Creature_Spider/Enemy_CreatureSpider2_Animation/ExoGame_Spider_Idle.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_CC1.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Center.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Center_Down.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Center_Up.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_D1.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_L1.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_LD1.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_LU1.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Left_Center.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Left_Down.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Left_Up.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_R1.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_RD1.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_RU1.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Right_Center.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Right_Down.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_Right_Up.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Aim_U1.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/BS_Jog.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Crouch_Idle_Rifle_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Crouch_Walk_Bwd_Rifle_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Crouch_Walk_Fwd_Rifle_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Crouch_Walk_Lt_Rifle_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Crouch_Walk_Rt_Rifle_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Crouch_to_Stand_Rifle_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Fire_Rifle_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Fire_Shotgun_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Idle_Rifle_Hip.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Idle_Rifle_Hip_Break1.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Idle_Rifle_Hip_Break2.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Jog_Bwd_Rifle.uasset
+[2018.03.24-00.26.36:206][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Jog_Fwd_Rifle.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Jog_Lt_Rifle.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Jog_Rt_Rifle.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Reload_Rifle_Hip.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Reload_Shotgun_Hip.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Animations/AimOffsets/Stand_to_Crouch_Rifle_Hip.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/BlendSpaces/RifleStrafeMovement.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Enemy/Enemy.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Enemy/EnemyController.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Enemy/Enemy_BP.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Enemy/Spider_BS.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Survivor/Crosshair.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Survivor/Hero_BP.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Survivor/Hero_PC.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Survivor/StaminaBar.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Survivor/TwistedFate_GM.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Survivor/WaveStruct.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/UE4_Mannequin/HeroAnim_BP.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/UE4_Mannequin/Mesh/Rifle_Hip__AimOffset.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/UE4_Mannequin/Mesh/SK_Mannequin.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Weapons/Bullet_BP.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Content/RifleAnimsetPro/Weapons/M4A1_BP.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Intermediate/AssetRegistryCache/311563bb.bin
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Intermediate/CachedAssetRegistry.bin
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/AutoScreenshot.png
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/Mannequin/Character/Mesh/SK_Mannequin_Auto1.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto3.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto4.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto8.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto0.umap
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto1.umap
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto3.umap
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto5.umap
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/Maps/Level_1_Auto6.umap
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/EnemyController_Auto6.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/Enemy_BP_Auto0.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/Enemy_BP_Auto1.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/Enemy_BP_Auto2.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/Enemy_BP_Auto3.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/Enemy_BP_Auto4.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/Enemy_BP_Auto5.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/Enemy_BP_Auto6.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/Enemy_BP_Auto9.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_BP_Auto0.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_BP_Auto1.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_BP_Auto2.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_BP_Auto3.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_BP_Auto4.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_BP_Auto5.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_BP_Auto6.uasset
+[2018.03.24-00.26.36:207][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_BP_Auto7.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_BP_Auto8.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_BP_Auto9.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_PC_Auto0.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_PC_Auto1.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_PC_Auto2.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_PC_Auto3.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_PC_Auto4.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_PC_Auto5.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_PC_Auto6.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_PC_Auto7.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_PC_Auto8.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Hero_PC_Auto9.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/TwistedFate_GM_Auto0.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/TwistedFate_GM_Auto2.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/TwistedFate_GM_Auto6.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/TwistedFate_GM_Auto7.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/HeroAnim_BP_Auto1.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/HeroAnim_BP_Auto2.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/HeroAnim_BP_Auto3.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/HeroAnim_BP_Auto4.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/HeroAnim_BP_Auto5.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/Mesh/SK_Mannequin_Auto3.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto4.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/Enemy_BP_2018-03-16-22-14-10.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-16-22-14-10.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-17-22-19-30.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-17-22-42-47.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-17-22-52-59.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-17-23-19-32.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/Hero_PC_2018-03-16-22-14-11.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/Hero_PC_2018-03-17-22-42-52.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/Hero_PC_2018-03-17-22-53-00.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/Hero_PC_2018-03-17-23-19-33.uasset
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/Level_1_2018-03-16-22-05-32.umap
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/Level_1_2018-03-16-22-14-04.umap~HEAD
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/Level_1_2018-03-16-22-14-04.umap~b62a564490693281aa161c65a405372f5057adf3
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/Level_1_2018-03-16-22-23-09.umap
+[2018.03.24-00.26.36:208][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/Level_1_2018-03-16-22-35-39.umap
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/Level_1_2018-03-17-21-31-17.umap
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/Level_1_2018-03-17-22-42-50.umap
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/M_Shader_SimpleTranslucent_2018-03-16-22-05-36.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Backup/M_Shader_SimpleTranslucent_2018-03-16-22-37-14.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-019C014849F4EF536B3473942ECED390/CrashReportClient.ini
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-0E8A325E4038A333F7A134A7B413933A/CrashReportClient.ini~0e8db4ccc5687e5017c80b885cc1dc3aadbf5705
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-0E8A325E4038A333F7A134A7B413933A/CrashReportClient.ini~HEAD
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-1248B2DA4854C53E4669C9B3724959CD/CrashReportClient.ini
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-2C6649934353949F3B766881FAD4B98D/CrashReportClient.ini
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-336B90A3499388D8A9CB7D94B808FAA6/CrashReportClient.ini
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-3BC3605B4C67B5006E9D4BA84CC025B1/CrashReportClient.ini
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-89A41CB04D33AF4B48FA3C8E396380ED/CrashReportClient.ini
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-A1B9FBF144FA7A21226257BC59AB4BF2/CrashReportClient.ini
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-A81CD473499312E72F86F797D11325FB/CrashReportClient.ini
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-CC27667E49FA37CE72C83893440C2C79/CrashReportClient.ini~0e8db4ccc5687e5017c80b885cc1dc3aadbf5705
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-CC27667E49FA37CE72C83893440C2C79/CrashReportClient.ini~HEAD
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-D95EA696486B5C8FBCBD7DAC854E6B44/CrashReportClient.ini
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-EAD71C4C49C710C474DABA8F3C065F99/CrashReportClient.ini
+[2018.03.24-00.26.36:209][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.03.24-00.26.36:209][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Config/Windows/Engine.ini
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.13-19.47.23.log
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.14-21.02.49.log
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.14-21.16.49.log
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.15-17.27.44.log
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.15-20.45.48.log
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.16-21.09.05.log
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.16-21.28.55.log
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.16-21.33.04.log
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.16-21.35.58.log
+[2018.03.24-00.26.36:209][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Logs/TwistedFateGame.log
+[2018.03.24-00.26.36:209][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Logs/TwistedFateGame_2-backup-2018.03.10-18.35.14.log
+[2018.03.24-00.26.36:209][  0]SourceControl: Untracked files:
+[2018.03.24-00.26.36:209][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto0.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto2.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Animations/AimOffsets/
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/EnemyController_Auto0.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/EnemyController_Auto2.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/EnemyController_Auto4.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/EnemyController_Auto5.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/EnemyController_Auto8.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/EnemyController_Auto9.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Enemy/Enemy_Auto7.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Crosshair_Auto0.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Crosshair_Auto1.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Crosshair_Auto2.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Crosshair_Auto3.uasset
+[2018.03.24-00.26.36:209][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Crosshair_Auto4.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/Crosshair_Auto5.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/SpawnPoint_Auto0.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/SpawnPoint_Auto1.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/SpawnPoint_Auto5.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/StaminaBar_Auto0.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/StaminaBar_Auto1.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/StaminaBar_Auto2.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/StaminaBar_Auto5.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/StaminaBar_Auto6.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/StaminaBar_Auto8.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/TwistedFate_GM_Auto1.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/TwistedFate_GM_Auto3.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/TwistedFate_GM_Auto4.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/TwistedFate_GM_Auto5.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/TwistedFate_GM_Auto8.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Survivor/TwistedFate_GM_Auto9.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/Aim_Space_Hip1_Auto4.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/HeroAnim_BP_Auto0.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/HeroAnim_BP_Auto6.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/HeroAnim_BP_Auto7.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/HeroAnim_BP_Auto8.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/HeroAnim_BP_Auto9.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/Mesh/SK_Mannequin_Auto0.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto0.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto7.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto8.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/Bullet_BP_Auto0.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/Bullet_BP_Auto1.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/Bullet_BP_Auto3.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/Bullet_BP_Auto4.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/Bullet_BP_Auto5.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/Bullet_BP_Auto6.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/Bullet_BP_Auto7.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/Bullet_BP_Auto8.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/Bullet_BP_Auto9.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/Crosshair/
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/M4A1_BP_Auto0.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/M4A1_BP_Auto1.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/M4A1_BP_Auto3.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/M4A1_BP_Auto4.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/M4A1_BP_Auto5.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/M4A1_BP_Auto6.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/M4A1_BP_Auto7.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/M4A1_BP_Auto8.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Autosaves/Game/RifleAnimsetPro/Weapons/M4A1_BP_Auto9.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_CC1_2018-03-22-21-13-49.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_CC1_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Center_2018-03-22-22-48-47.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Center_2018-03-22-23-05-09.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Center_Down_2018-03-22-22-50-35.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Center_Down_2018-03-22-23-05-09.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Center_Up_2018-03-22-22-52-00.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Center_Up_2018-03-22-23-05-09.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_D1_2018-03-22-21-13-49.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_D1_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_L1_2018-03-22-21-13-49.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_L1_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_LD1_2018-03-22-21-13-49.uasset
+[2018.03.24-00.26.36:210][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_LD1_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_LU1_2018-03-22-21-13-49.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_LU1_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Left_Center_2018-03-22-22-57-54.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Left_Center_2018-03-22-23-05-09.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Left_Down_2018-03-22-22-59-47.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Left_Down_2018-03-22-23-05-09.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Left_Up_2018-03-22-22-58-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Left_Up_2018-03-22-23-05-09.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_R1_2018-03-22-21-13-49.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_R1_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_RD1_2018-03-22-21-13-49.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_RD1_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_RU1_2018-03-22-21-13-49.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_RU1_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Right_Center_2018-03-22-23-00-56.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Right_Center_2018-03-22-23-06-45.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Right_Down_2018-03-22-23-02-56.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Right_Up_2018-03-22-23-01-59.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Space_Hip1_2018-03-22-21-13-48.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_Space_Hip_2018-03-22-12-35-08.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_U1_2018-03-22-21-13-49.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Aim_U1_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/BS_Jog_2018-03-22-22-21-08.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/BS_Jog_2018-03-22-22-26-57.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/BS_Jog_2018-03-22-22-32-40.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/BS_Jog_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Bullet_BP_2018-03-22-09-50-13.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Bullet_BP_2018-03-22-22-52-46.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Bullet_BP_2018-03-22-23-05-09.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Bullet_BP_2018-03-23-10-11-15.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Bullet_BP_2018-03-23-12-16-01.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Crosshair_2018-03-22-22-52-46.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Crosshair_2018-03-22-23-05-08.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Crouch_Idle_Rifle_Hip_2018-03-22-21-13-48.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Crouch_Idle_Rifle_Hip_2018-03-22-23-06-43.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Crouch_Walk_Bwd_Rifle_Hip_2018-03-22-21-13-48.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Crouch_Walk_Bwd_Rifle_Hip_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Crouch_Walk_Fwd_Rifle_Hip_2018-03-22-21-13-48.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Crouch_Walk_Fwd_Rifle_Hip_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Crouch_Walk_Lt_Rifle_Hip_2018-03-22-21-13-48.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Crouch_Walk_Lt_Rifle_Hip_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Crouch_Walk_Rt_Rifle_Hip_2018-03-22-21-13-48.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Crouch_Walk_Rt_Rifle_Hip_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Crouch_to_Stand_Rifle_Hip_2018-03-22-21-13-48.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Crouch_to_Stand_Rifle_Hip_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Enemy_BP_2018-03-22-09-50-13.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Enemy_BP_2018-03-22-22-52-46.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Enemy_BP_2018-03-22-23-05-08.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Fire_Rifle_Hip_2018-03-22-21-13-48.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Fire_Rifle_Hip_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Fire_Shotgun_Hip_2018-03-22-21-13-48.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Fire_Shotgun_Hip_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:211][  0]SourceControl: 	TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-22-10-01-50.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-22-10-17-47.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-22-21-01-10.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-22-21-13-47.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-22-21-36-16.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-22-21-46-35.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-22-22-19-11.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-22-22-32-39.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-22-22-52-45.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-22-23-05-07.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-22-23-15-28.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-22-23-31-57.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-23-09-22-37.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/HeroAnim_BP_2018-03-23-12-15-59.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_BP_2018-03-22-21-36-16.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_BP_2018-03-22-21-46-35.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_BP_2018-03-22-22-19-11.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_BP_2018-03-22-22-32-39.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_BP_2018-03-22-22-52-45.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_BP_2018-03-22-23-05-07.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_BP_2018-03-22-23-35-46.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_BP_2018-03-22-23-59-42.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_BP_2018-03-23-00-23-46.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_BP_2018-03-23-00-35-38.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_BP_2018-03-23-00-46-04.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_BP_2018-03-23-09-22-37.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_BP_2018-03-23-11-40-20.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_BP_2018-03-23-12-15-59.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_PC_2018-03-22-10-17-48.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_PC_2018-03-22-21-36-17.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_PC_2018-03-22-21-46-36.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_PC_2018-03-22-22-19-12.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_PC_2018-03-22-22-32-40.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_PC_2018-03-22-22-52-45.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_PC_2018-03-22-23-05-08.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_PC_2018-03-22-23-59-43.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_PC_2018-03-23-00-23-46.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_PC_2018-03-23-00-35-39.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_PC_2018-03-23-00-46-04.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_PC_2018-03-23-09-22-38.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Hero_PC_2018-03-23-12-16-01.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Idle_Rifle_Hip_2018-03-22-21-13-48.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Idle_Rifle_Hip_2018-03-22-22-02-55.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Idle_Rifle_Hip_2018-03-22-22-13-44.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Idle_Rifle_Hip_Break1_2018-03-22-21-13-48.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Idle_Rifle_Hip_Break1_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Idle_Rifle_Hip_Break2_2018-03-22-21-13-48.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Idle_Rifle_Hip_Break2_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Jog_Bwd_Rifle_2018-03-22-22-32-40.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Jog_Bwd_Rifle_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Jog_Fwd_Rifle_2018-03-22-22-32-40.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Jog_Fwd_Rifle_2018-03-22-23-06-45.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Jog_Lt_Rifle_2018-03-22-22-32-40.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Jog_Lt_Rifle_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Jog_Rt_Rifle_2018-03-22-22-32-40.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Jog_Rt_Rifle_2018-03-22-23-06-45.uasset
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Level_1_2018-03-22-22-52-41.umap
+[2018.03.24-00.26.36:212][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Level_1_2018-03-22-23-05-04.umap
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Level_1_2018-03-22-23-15-25.umap
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/M4A1_BP_2018-03-22-09-50-13.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/M4A1_BP_2018-03-22-10-01-50.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/M4A1_BP_2018-03-22-10-17-48.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/M4A1_BP_2018-03-22-21-36-17.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/M4A1_BP_2018-03-22-21-46-36.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/M4A1_BP_2018-03-22-22-19-12.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/M4A1_BP_2018-03-22-22-52-46.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/M4A1_BP_2018-03-22-23-05-08.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Reload_Rifle_Hip_2018-03-22-21-13-49.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Reload_Rifle_Hip_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Reload_Shotgun_Hip_2018-03-22-21-13-49.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Reload_Shotgun_Hip_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/RifleStrafeMovement_2018-03-22-10-07-51.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Rifle_Hip__AimOffset_2018-03-22-23-13-46.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/SK_Mannequin_2018-03-22-12-31-01.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/SK_Mannequin_2018-03-22-21-01-10.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/SK_Mannequin_2018-03-22-23-06-42.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/StaminaBar_2018-03-22-21-36-18.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/StaminaBar_2018-03-22-21-46-36.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/StaminaBar_2018-03-22-22-32-40.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/StaminaBar_2018-03-22-22-52-46.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/StaminaBar_2018-03-22-23-05-08.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Stand_to_Crouch_Rifle_Hip_2018-03-22-21-13-49.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/Stand_to_Crouch_Rifle_Hip_2018-03-22-23-06-44.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/TwistedFate_GM_2018-03-22-09-50-13.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/TwistedFate_GM_2018-03-22-10-01-49.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/TwistedFate_GM_2018-03-22-10-27-52.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/TwistedFate_GM_2018-03-22-10-40-50.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/TwistedFate_GM_2018-03-22-12-31-01.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/TwistedFate_GM_2018-03-22-22-52-44.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/TwistedFate_GM_2018-03-22-23-05-07.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/UE4_Mannequin_Skeleton_2018-03-22-12-31-01.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/UE4_Mannequin_Skeleton_2018-03-22-20-37-55.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/UE4_Mannequin_Skeleton_2018-03-22-20-59-48.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/UE4_Mannequin_Skeleton_2018-03-22-21-13-48.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/UE4_Mannequin_Skeleton_2018-03-22-22-19-12.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/UE4_Mannequin_Skeleton_2018-03-22-22-32-40.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Backup/UE4_Mannequin_Skeleton_2018-03-22-23-06-42.uasset
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-3542F10D4A35F589B39D23820E548293/
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Crashes/UE4CC-Windows-8E52F4AC49DB9CF831516E9568358703_0000/
+[2018.03.24-00.26.36:213][  0]SourceControl: 	TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.23-20.25.59.log
+[2018.03.24-00.26.36:214][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.03.24-00.26.36:265][  0]LogSlate: Took 0.000689 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.24-00.26.36:484][  3]LogAssetRegistry: Asset discovery search completed in 27.6605 seconds
+[2018.03.24-00.26.36:489][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.24-00.26.36:489][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2018.03.24-00.26.37:380][ 14]LogSlate: Took 0.000456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.24-00.26.54:769][343]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
+[2018.03.24-00.26.54:769][343]LoadErrors: Failed to load /Game/RifleAnimsetPro/Weapons/M4A1_BP.M4A1_BP_C Referenced by Default__Hero_BP_C
+[2018.03.24-00.26.54:769][343]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.24-00.26.54:769][343]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Materials/M4_Mat
+[2018.03.24-00.26.54:769][343]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
+[2018.03.24-00.26.54:770][343]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.24-00.26.54:770][343]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
+[2018.03.24-00.26.54:770][343]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.24-00.26.54:770][343]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset
+[2018.03.24-00.26.54:770][343]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
+[2018.03.24-00.26.54:770][343]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.24-00.26.54:770][343]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton
+[2018.03.24-00.26.54:770][343]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
+[2018.03.24-00.26.54:771][343]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.24-00.26.54:771][343]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
+[2018.03.24-00.26.54:771][343]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.24-00.26.55:622][343]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
+[2018.03.24-00.26.55:622][343]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton.M4_Rifle_01_Skeleton Referenced by M4_Rifle_01
+[2018.03.24-00.26.55:622][343]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading NULL.
+[2018.03.24-00.26.55:623][343]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
+[2018.03.24-00.26.55:623][343]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset.M4_Rifle_01_PhysicsAsset Referenced by M4_Rifle_01
+[2018.03.24-00.26.55:623][343]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading NULL.
+[2018.03.24-00.26.55:623][343]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
+[2018.03.24-00.26.55:623][343]LoadErrors: Failed to load /Game/Rifle_01/Character/Materials/M4_Mat.M4_Mat Referenced by M4_Rifle_01
+[2018.03.24-00.26.55:623][343]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading NULL.
+[2018.03.24-00.26.55:920][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Death_3.Rifle_Death_3
+[2018.03.24-00.26.55:937][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Death_3.Rifle_Death_3) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:029][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRightLoop.Rifle_StrafeRightLoop
+[2018.03.24-00.26.56:029][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRightLoop.Rifle_StrafeRightLoop) using current/default (AnimCompress_BitwiseCompressOnly_228) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:032][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRight135Loop.Rifle_StrafeRight135Loop
+[2018.03.24-00.26.56:032][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRight135Loop.Rifle_StrafeRight135Loop) using current/default (AnimCompress_BitwiseCompressOnly_226) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:047][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRight45Loop.Rifle_StrafeRight45Loop
+[2018.03.24-00.26.56:047][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRight45Loop.Rifle_StrafeRight45Loop) using current/default (AnimCompress_BitwiseCompressOnly_227) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:086][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRun135LeftLoop.Rifle_StrafeRun135LeftLoop
+[2018.03.24-00.26.56:086][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRun135LeftLoop.Rifle_StrafeRun135LeftLoop) using current/default (AnimCompress_BitwiseCompressOnly_232) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:170][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Reload_2.Rifle_Reload_2
+[2018.03.24-00.26.56:170][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Reload_2.Rifle_Reload_2) using current/default (AnimCompress_BitwiseCompressOnly_81) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:234][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Idle.Rifle_Idle
+[2018.03.24-00.26.56:234][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Idle.Rifle_Idle) using current/default (AnimCompress_BitwiseCompressOnly_175) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:242][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_CrouchLoop.Rifle_CrouchLoop
+[2018.03.24-00.26.56:242][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_CrouchLoop.Rifle_CrouchLoop) using current/default (AnimCompress_BitwiseCompressOnly_160) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:248][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_RunBwdLoop.Rifle_RunBwdLoop
+[2018.03.24-00.26.56:248][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_RunBwdLoop.Rifle_RunBwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_209) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:254][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_R.Aim_R
+[2018.03.24-00.26.56:255][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_R.Aim_R) using current/default (AnimCompress_BitwiseCompressOnly_231) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:255][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_LU.Aim_LU
+[2018.03.24-00.26.56:255][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_LU.Aim_LU) using current/default (AnimCompress_BitwiseCompressOnly_230) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:289][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_LD.Aim_LD
+[2018.03.24-00.26.56:289][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_LD.Aim_LD) using current/default (AnimCompress_BitwiseCompressOnly_229) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:290][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_L.Aim_L
+[2018.03.24-00.26.56:290][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_L.Aim_L) using current/default (AnimCompress_BitwiseCompressOnly_228) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:291][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Prone2Crouch.Rifle_Prone2Crouch
+[2018.03.24-00.26.56:291][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Prone2Crouch.Rifle_Prone2Crouch) using current/default (AnimCompress_BitwiseCompressOnly_194) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:315][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Prone2Idle.Rifle_Prone2Idle
+[2018.03.24-00.26.56:315][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Prone2Idle.Rifle_Prone2Idle) using current/default (AnimCompress_BitwiseCompressOnly_195) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:334][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_ShootLoop_Additive.Rifle_ShootLoop_Additive
+[2018.03.24-00.26.56:334][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_ShootLoop_Additive.Rifle_ShootLoop_Additive) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:370][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Crouch_StrafeRight135.Rifle_Crouch_StrafeRight135
+[2018.03.24-00.26.56:370][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Crouch_StrafeRight135.Rifle_Crouch_StrafeRight135) using current/default (AnimCompress_BitwiseCompressOnly_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:373][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Crouch_StrafeLeft135.Rifle_Crouch_StrafeLeft135
+[2018.03.24-00.26.56:373][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Crouch_StrafeLeft135.Rifle_Crouch_StrafeLeft135) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:375][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Crouch_StrafeLeftt45.Rifle_Crouch_StrafeLeftt45
+[2018.03.24-00.26.56:375][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Crouch_StrafeLeftt45.Rifle_Crouch_StrafeLeftt45) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:441][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Prone_WalkFwd.Rifle_Prone_WalkFwd
+[2018.03.24-00.26.56:442][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Prone_WalkFwd.Rifle_Prone_WalkFwd) using current/default (AnimCompress_BitwiseCompressOnly_77) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:459][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Prone_WalkBwd.Rifle_Prone_WalkBwd
+[2018.03.24-00.26.56:459][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Prone_WalkBwd.Rifle_Prone_WalkBwd) using current/default (AnimCompress_BitwiseCompressOnly_73) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:461][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Prone.Rifle_Prone
+[2018.03.24-00.26.56:461][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Prone.Rifle_Prone) using current/default (AnimCompress_BitwiseCompressOnly_193) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:497][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_RunFwdLoop.Rifle_RunFwdLoop
+[2018.03.24-00.26.56:497][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_RunFwdLoop.Rifle_RunFwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_210) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:500][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeLeft135Loop.Rifle_StrafeLeft135Loop
+[2018.03.24-00.26.56:500][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeLeft135Loop.Rifle_StrafeLeft135Loop) using current/default (AnimCompress_BitwiseCompressOnly_220) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:558][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_D.Aim_D
+[2018.03.24-00.26.56:558][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_D.Aim_D) using current/default (AnimCompress_BitwiseCompressOnly_227) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:558][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_RD.Aim_RD
+[2018.03.24-00.26.56:559][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_RD.Aim_RD) using current/default (AnimCompress_BitwiseCompressOnly_232) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:559][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_RU.Aim_RU
+[2018.03.24-00.26.56:559][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_RU.Aim_RU) using current/default (AnimCompress_BitwiseCompressOnly_233) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:560][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_U.Aim_U
+[2018.03.24-00.26.56:560][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/AimOffsets/Aim_U.Aim_U) using current/default (AnimCompress_BitwiseCompressOnly_234) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:560][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeLeft45Loop.Rifle_StrafeLeft45Loop
+[2018.03.24-00.26.56:560][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeLeft45Loop.Rifle_StrafeLeft45Loop) using current/default (AnimCompress_BitwiseCompressOnly_221) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:562][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeLeftLoop.Rifle_StrafeLeftLoop
+[2018.03.24-00.26.56:563][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeLeftLoop.Rifle_StrafeLeftLoop) using current/default (AnimCompress_BitwiseCompressOnly_222) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:564][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Crouch_WalkFwd.Rifle_Crouch_WalkFwd
+[2018.03.24-00.26.56:565][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Crouch_WalkFwd.Rifle_Crouch_WalkFwd) using current/default (AnimCompress_BitwiseCompressOnly_21) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:567][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Crouch_StrafeRight45.Rifle_Crouch_StrafeRight45
+[2018.03.24-00.26.56:567][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Crouch_StrafeRight45.Rifle_Crouch_StrafeRight45) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:596][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Jump_Platformer_Fall.Rifle_Jump_Platformer_Fall
+[2018.03.24-00.26.56:596][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Jump_Platformer_Fall.Rifle_Jump_Platformer_Fall) using current/default (AnimCompress_BitwiseCompressOnly_57) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:599][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_SprintStart.Rifle_SprintStart
+[2018.03.24-00.26.56:599][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_SprintStart.Rifle_SprintStart) using current/default (AnimCompress_BitwiseCompressOnly_90) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:608][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_SprintLoop.Rifle_SprintLoop
+[2018.03.24-00.26.56:608][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_SprintLoop.Rifle_SprintLoop) using current/default (AnimCompress_BitwiseCompressOnly_89) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:610][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Crouch2Idle.Rifle_Crouch2Idle
+[2018.03.24-00.26.56:610][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Crouch2Idle.Rifle_Crouch2Idle) using current/default (AnimCompress_BitwiseCompressOnly_133) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:630][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Crouch_Reload2.Rifle_Crouch_Reload2
+[2018.03.24-00.26.56:630][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Crouch_Reload2.Rifle_Crouch_Reload2) using current/default (AnimCompress_BitwiseCompressOnly_137) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:636][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Idle2Crouch.Rifle_Idle2Crouch
+[2018.03.24-00.26.56:636][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Idle2Crouch.Rifle_Idle2Crouch) using current/default (AnimCompress_BitwiseCompressOnly_176) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:637][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Crouch2Prone.Rifle_Crouch2Prone
+[2018.03.24-00.26.56:638][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Crouch2Prone.Rifle_Crouch2Prone) using current/default (AnimCompress_BitwiseCompressOnly_134) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:641][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRun45RightLoop.Rifle_StrafeRun45RightLoop
+[2018.03.24-00.26.56:641][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRun45RightLoop.Rifle_StrafeRun45RightLoop) using current/default (AnimCompress_BitwiseCompressOnly_235) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:643][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRunLeftLoop.Rifle_StrafeRunLeftLoop
+[2018.03.24-00.26.56:644][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRunLeftLoop.Rifle_StrafeRunLeftLoop) using current/default (AnimCompress_BitwiseCompressOnly_236) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:646][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRun135RightLoop.Rifle_StrafeRun135RightLoop
+[2018.03.24-00.26.56:646][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRun135RightLoop.Rifle_StrafeRun135RightLoop) using current/default (AnimCompress_BitwiseCompressOnly_233) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:647][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRun45LeftLoop.Rifle_StrafeRun45LeftLoop
+[2018.03.24-00.26.56:647][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRun45LeftLoop.Rifle_StrafeRun45LeftLoop) using current/default (AnimCompress_BitwiseCompressOnly_234) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:650][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Crouch_WalkRt.Rifle_Crouch_WalkRt
+[2018.03.24-00.26.56:650][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Crouch_WalkRt.Rifle_Crouch_WalkRt) using current/default (AnimCompress_BitwiseCompressOnly_29) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:652][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Crouch_WalkBwd.Rifle_Crouch_WalkBwd
+[2018.03.24-00.26.56:653][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Crouch_WalkBwd.Rifle_Crouch_WalkBwd) using current/default (AnimCompress_BitwiseCompressOnly_144) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:659][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Crouch_WalkLt.Rifle_Crouch_WalkLt
+[2018.03.24-00.26.56:659][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Crouch_WalkLt.Rifle_Crouch_WalkLt) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:679][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Idle.Rifle_Idle
+[2018.03.24-00.26.56:679][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/InPlace/Rifle_Idle.Rifle_Idle) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:763][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Idle2Prone.Rifle_Idle2Prone
+[2018.03.24-00.26.56:763][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Idle2Prone.Rifle_Idle2Prone) using current/default (AnimCompress_BitwiseCompressOnly_177) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:769][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Jump_Platformer_Start.Rifle_Jump_Platformer_Start
+[2018.03.24-00.26.56:769][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_Jump_Platformer_Start.Rifle_Jump_Platformer_Start) using current/default (AnimCompress_BitwiseCompressOnly_187) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:787][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_WalkBwdLoop.Rifle_WalkBwdLoop
+[2018.03.24-00.26.56:787][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_WalkBwdLoop.Rifle_WalkBwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_245) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:800][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRunRightLoop.Rifle_StrafeRunRightLoop
+[2018.03.24-00.26.56:800][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_StrafeRunRightLoop.Rifle_StrafeRunRightLoop) using current/default (AnimCompress_BitwiseCompressOnly_237) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:803][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_WalkFwdLoop.Rifle_WalkFwdLoop
+[2018.03.24-00.26.56:803][343]LogAnimationCompression: Recompressing (AnimSequence /Game/RifleAnimsetPro/Animations/RootMotion/Rifle_WalkFwdLoop.Rifle_WalkFwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_249) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.24-00.26.56:886][343]LogSlate: Took 0.001008 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.24-00.26.57:232][343]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.03.24-00.26.57:959][343]LogSlate: Took 0.000821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.24-00.26.58:025][343]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/' took 21.86s
+[2018.03.24-00.26.58:042][343]LogSlate: Took 0.001020 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.24-00.26.58:215][344]LogSlate: Took 0.000666 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.24-00.27.16:845][360]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.24-00.27.17:039][361]Cmd: QUIT_EDITOR
+[2018.03.24-00.27.17:066][361]LogExit: Preparing to exit.
+[2018.03.24-00.27.17:681][361]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/' was aborted.
+[2018.03.24-00.27.17:759][361]LogExit: Editor shut down
+[2018.03.24-00.27.17:762][361]LogExit: Transaction tracking system shut down
+[2018.03.24-00.27.17:892][361]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.24-00.27.17:893][361]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/' was aborted.
+[2018.03.24-00.27.17:893][361]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.24-00.27.17:893][361]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.24-00.27.17:893][361]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.24-00.27.17:893][361]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.24-00.27.17:893][361]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.24-00.27.18:004][361]LogExit: Object subsystem successfully closed.
+[2018.03.24-00.27.18:103][361]LogD3D11RHI: Shutdown
+[2018.03.24-00.27.18:103][361]LogD3D11RHI: CleanupD3DDevice
+[2018.03.24-00.27.18:124][361]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.24-00.27.18:150][361]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.03.24-00.27.18:150][361]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.03.24-00.27.18:150][361]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.03.24-00.27.18:150][361]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.03.24-00.27.18:150][361]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.03.24-00.27.18:151][361]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Collections/' was aborted.
+[2018.03.24-00.27.18:151][361]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/Developers/Ryan/Collections/' was aborted.
+[2018.03.24-00.27.18:151][361]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/Collections/' was aborted.
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.03.24-00.27.18:151][361]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.03.24-00.27.18:152][361]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.03.24-00.27.18:153][361]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.03.24-00.27.18:153][361]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.03.24-00.27.18:153][361]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.03.24-00.27.18:153][361]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.03.24-00.27.18:153][361]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.03.24-00.27.18:723][361]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.03.24-00.27.18:776][361]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.03.24-00.27.18:776][361]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.03.24-00.27.18:776][361]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.03.24-00.27.18:776][361]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.03.24-00.27.18:776][361]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.03.24-00.27.18:776][361]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.03.24-00.27.18:776][361]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.03.24-00.27.18:776][361]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.03.24-00.27.18:777][361]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.03.24-00.27.18:777][361]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.03.24-00.27.18:784][361]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.24-00.27.18:914][361]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.24-00.27.18:915][361]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.24-00.27.18:915][361]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.24-00.27.18:915][361]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.24-00.27.18:915][361]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.24-00.27.18:916][361]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.24-00.27.18:916][361]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.24-00.27.18:916][361]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.24-00.27.18:916][361]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.24-00.27.18:916][361]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.24-00.27.18:916][361]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.24-00.27.18:916][361]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.24-00.27.18:916][361]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.24-00.27.19:017][361]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.24-00.27.19:117][361]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.24-00.27.19:117][361]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.24-00.27.19:117][361]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.24-00.27.19:117][361]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.24-00.27.19:117][361]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.24-00.27.19:117][361]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.24-00.27.19:118][361]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.24-00.27.19:118][361]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.24-00.27.19:118][361]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.24-00.27.19:118][361]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.24-00.27.19:120][361]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.24-00.27.19:120][361]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.24-00.27.19:120][361]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.24-00.27.19:120][361]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.24-00.27.19:120][361]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.24-00.27.19:120][361]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.24-00.27.19:126][361]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.24-00.27.19:126][361]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.24-00.27.19:126][361]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.24-00.27.19:126][361]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.24-00.27.19:126][361]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.24-00.27.19:126][361]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.24-00.27.19:126][361]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.24-00.27.19:126][361]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.24-00.27.19:126][361]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.24-00.27.19:126][361]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.24-00.27.19:126][361]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.24-00.27.19:126][361]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.24-00.27.19:127][361]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.24-00.27.19:127][361]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.24-00.27.19:127][361]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.24-00.27.19:127][361]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.24-00.27.19:129][361]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.24-00.27.19:129][361]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.24-00.27.19:129][361]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.24-00.27.19:129][361]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.24-00.27.19:129][361]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.24-00.27.19:129][361]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.24-00.27.19:129][361]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.24-00.27.19:130][361]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.24-00.27.19:130][361]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.24-00.27.19:130][361]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.24-00.27.19:130][361]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.24-00.27.19:130][361]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.24-00.27.19:130][361]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.24-00.27.19:130][361]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.24-00.27.19:130][361]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.24-00.27.19:130][361]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.24-00.27.19:130][361]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.24-00.27.19:148][361]LogDerivedDataCache: Shutdown
+[2018.03.24-00.27.19:148][361]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.24-00.27.19:148][361]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.24-00.27.19:148][361]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.24-00.27.19:148][361]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.24-00.27.19:148][361]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.24-00.27.19:148][361]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.24-00.27.19:148][361]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.24-00.27.19:148][361]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.24-00.27.19:148][361]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.24-00.27.19:148][361]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.24-00.27.19:148][361]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.24-00.27.19:148][361]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.24-00.27.19:149][361]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.24-00.27.19:150][361]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.24-00.27.19:150][361]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.24-00.27.19:150][361]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.24-00.27.19:150][361]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6A385150-459B-622A-8EC9-EDBD0BE6AE75%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=a673814544279ce46f6135809adaf604%7Cfec4826529d245d98e73ff82f185adde%7C21447c6a-dcef-4c43-b5a1-1fc95c7aa48c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.24-00.27.19:165][361]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.24-00.27.19:166][361]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.24-00.27.19:166][361]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.24-00.27.19:166][361]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.24-00.27.19:166][361]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.24-00.27.19:166][361]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.24-00.27.19:167][361]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.24-00.27.19:167][361]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.24-00.27.19:167][361]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.24-00.27.19:167][361]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.24-00.27.19:167][361]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.24-00.27.19:167][361]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.24-00.27.19:167][361]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.24-00.27.19:167][361]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.24-00.27.19:167][361]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.24-00.27.19:167][361]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.24-00.27.19:167][361]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.24-00.27.19:167][361]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.24-00.27.19:167][361]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.24-00.27.19:171][361]LogExit: Exiting.
+[2018.03.24-00.27.19:191][361]Log file closed, 03/23/18 20:27:19
