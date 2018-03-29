@@ -1,0 +1,1106 @@
+﻿Log file open, 03/18/18 23:43:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TwistedFateGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1642943207) SRandInit(1642943207).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185332
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: E:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.19-03.43.55:072][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.19-03.43.55:072][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.19-03.43.55:083][  0]LogInit: Computer: DESKTOP-26BKDR7
+[2018.03.19-03.43.55:083][  0]LogInit: User: Cameron
+[2018.03.19-03.43.55:083][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.19-03.43.55:083][  0]LogInit: High frequency timer resolution =2.648438 MHz
+[2018.03.19-03.43.55:083][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.19-03.43.55:083][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.19-03.43.55:083][  0]LogMemory: Process Physical Memory: 283.54 MB used, 283.54 MB peak
+[2018.03.19-03.43.55:083][  0]LogMemory: Process Virtual Memory: 282.32 MB used, 282.32 MB peak
+[2018.03.19-03.43.55:083][  0]LogMemory: Physical Memory: 8312.96 MB used,  7996.88 MB free, 16309.84 MB total
+[2018.03.19-03.43.55:083][  0]LogMemory: Virtual Memory: 727.42 MB used,  7996.88 MB free, 134217728.00 MB total
+[2018.03.19-03.43.55:205][  0]LogInit: Using OS detected language (en-US).
+[2018.03.19-03.43.55:205][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.19-03.43.55:210][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.19-03.43.55:648][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.19-03.43.55:961][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.19-03.43.55:997][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.03.19-03.43.55:997][  0]LogD3D11RHI:       4058/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.19-03.43.56:000][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.19-03.43.56:000][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.19-03.43.56:000][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.19-03.43.56:010][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.19-03.43.56:010][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.19-03.43.56:010][  0]LogWindows: EnumDisplayDevices:
+[2018.03.19-03.43.56:010][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.03.19-03.43.56:011][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.03.19-03.43.56:011][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.03.19-03.43.56:011][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.03.19-03.43.56:011][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.19-03.43.56:011][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.03.19-03.43.56:011][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.19-03.43.56:011][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.19-03.43.56:011][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2018.03.19-03.43.56:035][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.19-03.43.56:075][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.19-03.43.56:120][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Intermediate/Shaders/WorkingDirectory/20664/).
+[2018.03.19-03.43.56:121][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cameron/AppData/Local/Temp/UnrealShaderWorkingDir/1D1C59D54DEE7177D5D2BC98B6424681/'.
+[2018.03.19-03.43.56:121][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.19-03.43.57:080][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.19-03.43.57:127][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.19-03.43.57:174][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.19-03.43.57:220][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.19-03.43.57:271][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.19-03.43.57:317][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.19-03.43.57:364][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.19-03.43.57:412][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.19-03.43.57:452][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.19-03.43.57:499][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.19-03.43.57:548][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.19-03.43.57:594][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.19-03.43.57:640][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.19-03.43.57:687][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.19-03.43.57:779][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.19-03.43.57:779][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.19-03.43.57:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.19-03.43.57:861][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.19-03.43.57:942][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.19-03.43.57:967][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.19-03.43.58:012][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.19-03.43.58:059][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.19-03.43.58:104][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.19-03.43.58:150][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.19-03.43.58:150][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.19-03.43.58:552][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.19-03.43.58:623][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.19-03.43.58:624][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.19-03.43.58:624][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.19-03.43.58:624][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.19-03.43.58:624][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.19-03.43.58:624][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.19-03.43.58:640][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.19-03.43.58:653][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cameron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.19-03.43.58:664][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.19-03.43.58:664][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.19-03.43.58:665][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.19-03.43.58:665][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.19-03.43.59:073][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.19-03.43.59:307][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.19-03.43.59:342][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.19-03.43.59:342][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.19-03.43.59:342][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.19-03.43.59:342][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.19-03.43.59:342][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.19-03.43.59:464][  0]LogNetVersion: TwistedFateGame , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1574445964)
+[2018.03.19-03.43.59:642][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.03.19-03.44.00:174][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.082668 seconds
+[2018.03.19-03.44.00:179][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.19-03.44.00:180][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.03.19-03.44.00:180][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.19-03.44.00:219][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.19-03.44.02:986][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.19-03.44.03:029][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.19-03.44.03:712][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.19-03.44.04:138][  0]SourceControl: Source control is disabled
+[2018.03.19-03.44.05:679][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.19-03.44.05:948][  0]LogOcInput: OculusInput pre-init called
+[2018.03.19-03.44.06:224][  0]LogEngine: Initializing Engine...
+[2018.03.19-03.44.06:226][  0]LogHMD: Oculus plugin initialized. Version: 4.18.3-3832480+++UE4+Release-4.18, OVRPlugin: 1.19.0
+[2018.03.19-03.44.06:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.19-03.44.06:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.19-03.44.06:558][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.19-03.44.06:582][  0]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-03.44.06:600][  0]LogInit: FAudioDevice initialized.
+[2018.03.19-03.44.06:695][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.19-03.44.06:706][  0]LogInit: Texture streaming: Enabled
+[2018.03.19-03.44.06:786][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.19-03.44.06:901][  0]LogInit: Transaction tracking system initialized
+[2018.03.19-03.44.07:171][  0]BlueprintLog: New page: Editor Load
+[2018.03.19-03.44.07:936][  0]LocalizationService: Localization service is disabled
+[2018.03.19-03.44.08:589][  0]LogConsoleResponse: Display: 
+[2018.03.19-03.44.08:762][  0]LogAutoReimportManager: Warning: Unable to watch directory C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ as it will conflict with another watching C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/.
+[2018.03.19-03.44.08:773][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.19-03.44.08:773][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.19-03.44.08:773][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.19-03.44.09:484][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/' took 0.07s
+[2018.03.19-03.44.09:897][  0]Cmd: MAP LOAD FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.19-03.44.09:898][  0]LightingResults: New page: Lighting Build
+[2018.03.19-03.44.09:934][  0]MapCheck: New page: Map Check
+[2018.03.19-03.44.09:934][  0]LightingResults: New page: Lighting Build
+[2018.03.19-03.44.11:290][  0]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-03.44.11:479][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.19-03.44.11:496][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.19-03.44.11:593][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97.555ms to complete.
+[2018.03.19-03.44.11:593][  0]LogFileHelpers: Loading map 'Level_1' took 1.696
+[2018.03.19-03.44.11:759][  0]LogCollectionManager: Loaded 0 collections in 0.001718 seconds
+[2018.03.19-03.44.11:844][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Collections/' took 0.01s
+[2018.03.19-03.44.11:844][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Developers/Cameron/Collections/' took 0.01s
+[2018.03.19-03.44.11:844][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Collections/' took 0.01s
+[2018.03.19-03.44.11:844][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.03.19-03.44.11:853][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2363 classes and 519 folders.
+[2018.03.19-03.44.11:917][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.19-03.44.11:972][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.19-03.44.12:008][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.19-03.44.12:083][  0]LogSlate: Took 0.000628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.19-03.44.12:086][  0]LogSlate: Took 0.000545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.19-03.44.12:091][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.19-03.44.12:199][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.03.19-03.44.12:382][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.19-03.44.12:382][  0]LogLoad: (Engine Initialization) Total time: 20.05 seconds
+[2018.03.19-03.44.12:382][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.19-03.44.12:382][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.19-03.44.12:392][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.19-03.44.12:397][  0]LogOcInput: OculusInput is initialized
+[2018.03.19-03.44.12:446][  0]SourceControl: On branch master
+[2018.03.19-03.44.12:446][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.03.19-03.44.12:446][  0]SourceControl: Changes not staged for commit:
+[2018.03.19-03.44.12:446][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.03.19-03.44.12:446][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.03.19-03.44.12:446][  0]SourceControl: 	modified:   TwistedFateGame/Intermediate/CachedAssetRegistry.bin
+[2018.03.19-03.44.12:446][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.03.19-03.44.12:446][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Config/Windows/Engine.ini
+[2018.03.19-03.44.12:446][  0]SourceControl: 	deleted:    TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.15-17.27.44.log
+[2018.03.19-03.44.12:446][  0]SourceControl: 	modified:   TwistedFateGame/Saved/Logs/TwistedFateGame.log
+[2018.03.19-03.44.12:446][  0]SourceControl: Untracked files:
+[2018.03.19-03.44.12:446][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.03.19-03.44.12:446][  0]SourceControl: 	TwistedFateGame/Saved/Config/CrashReportClient/UE4CC-Windows-8909E7914FD25E68E5522993A19C27B6/
+[2018.03.19-03.44.12:446][  0]SourceControl: 	TwistedFateGame/Saved/Logs/TwistedFateGame-backup-2018.03.18-23.43.53.log
+[2018.03.19-03.44.12:446][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.03.19-03.44.12:447][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.19-03.44.12:645][  2]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.19-03.44.12:736][  3]LogAssetRegistry: Asset discovery search completed in 13.1164 seconds
+[2018.03.19-03.44.12:741][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.19-03.44.12:741][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2018.03.19-03.44.13:507][ 23]LogSlate: Took 0.000359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.19-03.44.17:529][327]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/' took 5.12s
+[2018.03.19-03.44.23:997][843]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-03.44.24:149][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-03.44.24:149][843]LogHMD: Initializing OVRPlugin session
+[2018.03.19-03.44.24:184][843]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 7:44:24 PM)
+[2018.03.19-03.44.24:187][843]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-03.44.24:398][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211298s)
+[2018.03.19-03.44.24:399][843]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-03.44.24:399][843]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2018.03.19-03.44.24:399][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.212510s)
+[2018.03.19-03.44.24:427][843]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-03.44.24:438][843]LogInit: FAudioDevice initialized.
+[2018.03.19-03.44.24:849][843]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
+[2018.03.19-03.44.24:849][843]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.19-03.44.24:850][843]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Materials/M4_Mat
+[2018.03.19-03.44.24:850][843]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
+[2018.03.19-03.44.24:850][843]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.19-03.44.24:850][843]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
+[2018.03.19-03.44.24:850][843]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.19-03.44.24:850][843]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset
+[2018.03.19-03.44.24:850][843]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
+[2018.03.19-03.44.24:850][843]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.19-03.44.24:850][843]LoadErrors: Error: /Game/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01 : Can't find file for asset. /Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton
+[2018.03.19-03.44.24:851][843]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
+[2018.03.19-03.44.24:851][843]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.19-03.44.24:851][843]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
+[2018.03.19-03.44.24:851][843]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/ThirdPersonBP/Animations/Rifle_01/Character/Mesh/M4_Rifle_01.uasset.
+[2018.03.19-03.44.25:060][843]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton'
+[2018.03.19-03.44.25:060][843]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton.M4_Rifle_01_Skeleton Referenced by M4_Rifle_01
+[2018.03.19-03.44.25:060][843]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_Skeleton' while loading NULL.
+[2018.03.19-03.44.25:061][843]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset'
+[2018.03.19-03.44.25:061][843]LoadErrors: Failed to load /Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset.M4_Rifle_01_PhysicsAsset Referenced by M4_Rifle_01
+[2018.03.19-03.44.25:061][843]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Mesh/M4_Rifle_01_PhysicsAsset' while loading NULL.
+[2018.03.19-03.44.25:061][843]LogLinker: Warning: Can't find file '/Game/Rifle_01/Character/Materials/M4_Mat'
+[2018.03.19-03.44.25:061][843]LoadErrors: Failed to load /Game/Rifle_01/Character/Materials/M4_Mat.M4_Mat Referenced by M4_Rifle_01
+[2018.03.19-03.44.25:061][843]LogLinker: Warning: Can't find file for asset '/Game/Rifle_01/Character/Materials/M4_Mat' while loading NULL.
+[2018.03.19-03.44.25:236][843]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-03.44.25:253][843]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.18-23.44.25
+[2018.03.19-03.44.25:255][843]LogWorld: Bringing up level for play took: 0.016719
+[2018.03.19-03.44.25:293][843]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.19-03.44.25:297][843]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 1.575
+[2018.03.19-03.44.49:708][970]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-03.44.49:729][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-03.44.49:729][970]LogHMD: Initializing OVRPlugin session
+[2018.03.19-03.44.49:754][970]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 7:44:49 PM)
+[2018.03.19-03.44.49:755][970]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-03.44.49:900][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.145214s)
+[2018.03.19-03.44.49:901][970]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-03.44.49:901][970]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2018.03.19-03.44.49:902][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.146478s)
+[2018.03.19-03.44.49:930][970]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-03.44.49:941][970]LogInit: FAudioDevice initialized.
+[2018.03.19-03.44.49:977][970]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-03.44.49:991][970]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.18-23.44.49
+[2018.03.19-03.44.49:992][970]LogWorld: Bringing up level for play took: 0.014890
+[2018.03.19-03.44.49:995][970]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.274
+[2018.03.19-03.45.33:917][781]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-03.45.33:938][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-03.45.33:939][781]LogHMD: Initializing OVRPlugin session
+[2018.03.19-03.45.33:964][781]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 7:45:33 PM)
+[2018.03.19-03.45.33:964][781]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-03.45.34:111][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.146792s)
+[2018.03.19-03.45.34:112][781]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-03.45.34:112][781]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2018.03.19-03.45.34:112][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.147814s)
+[2018.03.19-03.45.34:139][781]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-03.45.34:150][781]LogInit: FAudioDevice initialized.
+[2018.03.19-03.45.34:181][781]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-03.45.34:195][781]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.18-23.45.34
+[2018.03.19-03.45.34:197][781]LogWorld: Bringing up level for play took: 0.015016
+[2018.03.19-03.45.34:200][781]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.479
+[2018.03.19-03.46.38:183][236]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-03.46.38:204][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-03.46.38:204][236]LogHMD: Initializing OVRPlugin session
+[2018.03.19-03.46.38:229][236]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 7:46:38 PM)
+[2018.03.19-03.46.38:230][236]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-03.46.38:380][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.150361s)
+[2018.03.19-03.46.38:381][236]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-03.46.38:381][236]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2018.03.19-03.46.38:381][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.151366s)
+[2018.03.19-03.46.38:412][236]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-03.46.38:423][236]LogInit: FAudioDevice initialized.
+[2018.03.19-03.46.38:455][236]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-03.46.38:471][236]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.18-23.46.38
+[2018.03.19-03.46.38:473][236]LogWorld: Bringing up level for play took: 0.016495
+[2018.03.19-03.46.38:476][236]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.754
+[2018.03.19-03.47.23:406][463]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.03.19-03.47.45:938][972]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape2)
+[2018.03.19-03.51.16:318][995]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-03.51.16:341][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-03.51.16:341][995]LogHMD: Initializing OVRPlugin session
+[2018.03.19-03.51.16:368][995]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 7:51:16 PM)
+[2018.03.19-03.51.16:369][995]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-03.51.16:533][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.164338s)
+[2018.03.19-03.51.16:534][995]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-03.51.16:534][995]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2018.03.19-03.51.16:534][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.165536s)
+[2018.03.19-03.51.16:568][995]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-03.51.16:589][995]LogInit: FAudioDevice initialized.
+[2018.03.19-03.51.16:621][995]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-03.51.16:637][995]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.18-23.51.16
+[2018.03.19-03.51.16:638][995]LogWorld: Bringing up level for play took: 0.016503
+[2018.03.19-03.51.16:642][995]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.921
+[2018.03.19-03.51.35:081][918]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-03.51.35:102][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-03.51.35:102][918]LogHMD: Initializing OVRPlugin session
+[2018.03.19-03.51.35:126][918]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 7:51:35 PM)
+[2018.03.19-03.51.35:126][918]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-03.51.35:271][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144549s)
+[2018.03.19-03.51.35:272][918]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-03.51.35:272][918]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2018.03.19-03.51.35:272][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.145556s)
+[2018.03.19-03.51.35:299][918]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-03.51.35:310][918]LogInit: FAudioDevice initialized.
+[2018.03.19-03.51.35:346][918]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-03.51.35:359][918]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.18-23.51.35
+[2018.03.19-03.51.35:360][918]LogWorld: Bringing up level for play took: 0.014029
+[2018.03.19-03.51.35:363][918]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.358
+[2018.03.19-03.51.46:188][828]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.19-03.51.46:201][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.19-03.51.46:292][828]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.03.19-03.51.46:302][828]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X512)
+[2018.03.19-03.51.46:314][828]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.19-03.51.46:327][828]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X512)
+[2018.03.19-03.51.46:341][828]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2018.03.19-03.51.46:344][828]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2018.03.19-03.51.46:349][828]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 256X256)
+[2018.03.19-03.51.46:352][828]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 256X256)
+[2018.03.19-03.51.46:358][828]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 256X256)
+[2018.03.19-03.51.46:366][828]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 256X256)
+[2018.03.19-03.51.46:372][828]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 256X256)
+[2018.03.19-03.51.46:375][828]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 256X256)
+[2018.03.19-03.51.46:378][828]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 256X256)
+[2018.03.19-03.51.48:550][828]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.19-03.51.48:999][828]LogSavePackage: Save=2732.08ms
+[2018.03.19-03.51.48:999][828]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1066CC17B46AA73B3FAC0B5B0AFEACD9C.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.19-03.51.49:009][828]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.19-03.51.52:088][  0]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.19-03.51.58:933][  0]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.19-03.51.59:028][  0]SourceControl: [master 1598704] .
+[2018.03.19-03.51.59:028][  0]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.19-03.51.59:041][  0]SourceControl: Commited [master 1598704] ..
+[2018.03.19-03.52.36:099][953]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.19-03.56.33:329][153]Cmd: TRANSACTION UNDO
+[2018.03.19-03.56.33:329][153]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.03.19-03.56.33:467][153]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.19-03.56.34:151][153]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X512)
+[2018.03.19-04.00.02:909][912]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.00.02:932][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.00.02:932][912]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.00.02:956][912]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:00:02 PM)
+[2018.03.19-04.00.02:957][912]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.00.03:109][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152122s)
+[2018.03.19-04.00.03:110][912]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.00.03:110][912]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2018.03.19-04.00.03:110][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.153447s)
+[2018.03.19-04.00.03:144][912]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.00.03:159][912]LogInit: FAudioDevice initialized.
+[2018.03.19-04.00.03:191][912]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.00.03:207][912]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.00.03
+[2018.03.19-04.00.03:208][912]LogWorld: Bringing up level for play took: 0.016030
+[2018.03.19-04.00.03:212][912]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.51
+[2018.03.19-04.00.34:420][402]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater39)
+[2018.03.19-04.00.48:511][852]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.00.48:533][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.00.48:533][852]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.00.48:732][852]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:00:48 PM)
+[2018.03.19-04.00.48:732][852]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.00.48:880][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147836s)
+[2018.03.19-04.00.48:881][852]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.00.48:881][852]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2018.03.19-04.00.48:881][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.148838s)
+[2018.03.19-04.00.48:908][852]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.00.48:919][852]LogInit: FAudioDevice initialized.
+[2018.03.19-04.00.48:957][852]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.00.48:971][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.00.48
+[2018.03.19-04.00.48:973][852]LogWorld: Bringing up level for play took: 0.015029
+[2018.03.19-04.00.48:976][852]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 1.255
+[2018.03.19-04.00.54:121][397]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.00.54:142][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.00.54:142][397]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.00.54:165][397]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:00:54 PM)
+[2018.03.19-04.00.54:165][397]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.00.54:313][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147067s)
+[2018.03.19-04.00.54:313][397]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.00.54:314][397]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2018.03.19-04.00.54:314][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.148156s)
+[2018.03.19-04.00.54:340][397]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.00.54:351][397]LogInit: FAudioDevice initialized.
+[2018.03.19-04.00.54:384][397]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.00.54:397][397]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.00.54
+[2018.03.19-04.00.54:398][397]LogWorld: Bringing up level for play took: 0.013940
+[2018.03.19-04.00.54:401][397]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.68
+[2018.03.19-04.01.14:384][395]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater42)
+[2018.03.19-04.01.15:924][569]Cmd: DELETE
+[2018.03.19-04.01.15:924][569]Cmd: ACTOR DELETE
+[2018.03.19-04.01.15:951][569]LogEditorActor: Deleted Actor: BP_TranslucentWater_C
+[2018.03.19-04.01.15:963][569]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.03.19-04.01.20:247][ 72]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater39)
+[2018.03.19-04.01.22:648][343]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater40)
+[2018.03.19-04.01.35:494][833]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater31)
+[2018.03.19-04.01.36:566][955]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater41)
+[2018.03.19-04.02.02:527][902]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.19-04.03.07:835][943]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.03.07:859][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.03.07:859][943]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.03.07:884][943]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:03:07 PM)
+[2018.03.19-04.03.07:885][943]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.03.08:038][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152899s)
+[2018.03.19-04.03.08:039][943]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.03.08:039][943]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2018.03.19-04.03.08:039][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.153901s)
+[2018.03.19-04.03.08:079][943]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.03.08:092][943]LogInit: FAudioDevice initialized.
+[2018.03.19-04.03.08:123][943]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.03.08:139][943]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.03.08
+[2018.03.19-04.03.08:140][943]LogWorld: Bringing up level for play took: 0.016458
+[2018.03.19-04.03.08:144][943]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.422
+[2018.03.19-04.06.04:141][892]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater35)
+[2018.03.19-04.06.04:868][973]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater26)
+[2018.03.19-04.06.05:732][ 70]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater35)
+[2018.03.19-04.06.06:489][155]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater41)
+[2018.03.19-04.06.12:316][833]Cmd: DELETE
+[2018.03.19-04.06.12:316][833]Cmd: ACTOR DELETE
+[2018.03.19-04.06.12:344][833]LogEditorActor: Deleted Actor: BP_TranslucentWater_C
+[2018.03.19-04.06.12:357][833]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.03.19-04.06.12:831][889]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater47)
+[2018.03.19-04.06.13:043][909]Cmd: DELETE
+[2018.03.19-04.06.13:043][909]Cmd: ACTOR DELETE
+[2018.03.19-04.06.13:072][909]LogEditorActor: Deleted Actor: BP_TranslucentWater_C
+[2018.03.19-04.06.13:083][909]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.03.19-04.06.15:914][247]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater25)
+[2018.03.19-04.06.16:640][328]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater20)
+[2018.03.19-04.06.18:390][531]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater11)
+[2018.03.19-04.06.19:188][620]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater25)
+[2018.03.19-04.06.19:791][685]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater20)
+[2018.03.19-04.06.21:855][925]Cmd: DELETE
+[2018.03.19-04.06.21:855][925]Cmd: ACTOR DELETE
+[2018.03.19-04.06.21:882][925]LogEditorActor: Deleted Actor: BP_TranslucentWater_C
+[2018.03.19-04.06.21:892][925]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.03.19-04.06.25:712][346]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater11)
+[2018.03.19-04.06.38:377][740]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_TranslucentWater_C (BP_TranslucentWater25)
+[2018.03.19-04.06.39:103][821]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_TranslucentWater_C (BP_TranslucentWater35)
+[2018.03.19-04.06.40:387][967]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_TranslucentWater_C (BP_TranslucentWater26)
+[2018.03.19-04.06.41:878][138]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_TranslucentWater_C (BP_TranslucentWater36)
+[2018.03.19-04.06.42:753][237]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_TranslucentWater_C (BP_TranslucentWater42)
+[2018.03.19-04.07.05:548][772]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.19-04.07.06:546][876]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater61)
+[2018.03.19-04.07.08:109][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater60)
+[2018.03.19-04.07.10:304][277]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_TranslucentWater_C (BP_TranslucentWater61)
+[2018.03.19-04.07.21:608][591]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater64)
+[2018.03.19-04.07.22:578][701]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater62)
+[2018.03.19-04.07.35:476][177]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.07.35:498][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.07.35:499][177]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.07.35:525][177]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:07:35 PM)
+[2018.03.19-04.07.35:525][177]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.07.35:695][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.169217s)
+[2018.03.19-04.07.35:695][177]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.07.35:696][177]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2018.03.19-04.07.35:696][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.170812s)
+[2018.03.19-04.07.35:744][177]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.07.35:758][177]LogInit: FAudioDevice initialized.
+[2018.03.19-04.07.35:790][177]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.07.35:805][177]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.07.35
+[2018.03.19-04.07.35:806][177]LogWorld: Bringing up level for play took: 0.015910
+[2018.03.19-04.07.35:810][177]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.089
+[2018.03.19-04.08.33:464][520]Cmd: POLY SELECT MEMORY UNION
+[2018.03.19-04.10.30:422][594]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.10.30:444][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.10.30:445][594]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.10.30:471][594]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:10:30 PM)
+[2018.03.19-04.10.30:471][594]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.10.30:632][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.160117s)
+[2018.03.19-04.10.30:632][594]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.10.30:632][594]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2018.03.19-04.10.30:633][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.161372s)
+[2018.03.19-04.10.30:670][594]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.10.30:687][594]LogInit: FAudioDevice initialized.
+[2018.03.19-04.10.30:722][594]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.10.30:736][594]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.10.30
+[2018.03.19-04.10.30:737][594]LogWorld: Bringing up level for play took: 0.014518
+[2018.03.19-04.10.30:740][594]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 1.019
+[2018.03.19-04.10.53:586][ 26]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater65)
+[2018.03.19-04.10.56:291][302]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater64)
+[2018.03.19-04.11.00:777][812]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater65)
+[2018.03.19-04.11.10:543][888]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.19-04.11.19:590][923]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater66)
+[2018.03.19-04.11.28:089][876]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater67)
+[2018.03.19-04.11.52:738][686]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater45)
+[2018.03.19-04.11.53:478][765]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater46)
+[2018.03.19-04.11.55:592][ 12]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater44)
+[2018.03.19-04.11.57:869][252]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater46)
+[2018.03.19-04.13.11:684][353]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater131)
+[2018.03.19-04.13.13:648][547]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater129)
+[2018.03.19-04.13.14:422][635]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater128)
+[2018.03.19-04.13.25:173][875]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater126)
+[2018.03.19-04.13.27:489][142]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater129)
+[2018.03.19-04.13.30:266][465]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater130)
+[2018.03.19-04.13.32:185][684]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater131)
+[2018.03.19-04.13.34:420][943]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater127)
+[2018.03.19-04.13.37:438][293]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater126)
+[2018.03.19-04.13.43:357][927]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater125)
+[2018.03.19-04.13.50:780][769]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.19-04.14.04:961][387]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.14.04:982][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.14.04:982][387]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.14.05:010][387]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:14:05 PM)
+[2018.03.19-04.14.05:011][387]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.14.05:184][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.173579s)
+[2018.03.19-04.14.05:186][387]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.14.05:186][387]LogPlayLevel: PIE: World Init took: (0.001844s)
+[2018.03.19-04.14.05:186][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.175844s)
+[2018.03.19-04.14.05:258][387]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.14.05:276][387]LogInit: FAudioDevice initialized.
+[2018.03.19-04.14.05:308][387]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.14.05:325][387]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.14.05
+[2018.03.19-04.14.05:326][387]LogWorld: Bringing up level for play took: 0.017260
+[2018.03.19-04.14.05:329][387]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.392
+[2018.03.19-04.15.33:950][825]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.15.33:971][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.15.33:971][825]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.15.33:997][825]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:15:33 PM)
+[2018.03.19-04.15.33:997][825]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.15.34:159][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.161330s)
+[2018.03.19-04.15.34:159][825]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.15.34:159][825]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2018.03.19-04.15.34:160][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.162287s)
+[2018.03.19-04.15.34:185][825]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.15.34:196][825]LogInit: FAudioDevice initialized.
+[2018.03.19-04.15.34:227][825]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.15.34:243][825]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.15.34
+[2018.03.19-04.15.34:245][825]LogWorld: Bringing up level for play took: 0.016878
+[2018.03.19-04.15.34:248][825]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.527
+[2018.03.19-04.15.39:956][360]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:0792
+[2018.03.19-04.15.39:956][360]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP from function: 'ExecuteUbergraph_Hero_PC' from node: Set MaxWalkSpeed in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+[2018.03.19-04.15.39:956][360]LogScript: Warning: Accessed None
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:07A7
+[2018.03.19-04.15.39:956][360]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_Hero_PC' from node: Set MaxWalkSpeed in graph: EventGraph in object: Hero_PC with description: Accessed None
+[2018.03.19-04.15.39:956][360]LogScript: Warning: Attempted to assign to None
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:07BC
+[2018.03.19-04.15.39:956][360]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_Hero_PC' from node: Set MaxWalkSpeed in graph: EventGraph in object: Hero_PC with description: Attempted to assign to None
+[2018.03.19-04.15.40:010][364]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:101E
+[2018.03.19-04.15.40:010][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP from function: 'ExecuteUbergraph_Hero_PC' from node: Set CurrentStamina in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+[2018.03.19-04.15.40:011][364]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:103D
+[2018.03.19-04.15.40:011][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP from function: 'ExecuteUbergraph_Hero_PC' from node: Set CurrentStamina in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+[2018.03.19-04.15.40:011][364]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:1067
+[2018.03.19-04.15.40:011][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP from function: 'ExecuteUbergraph_Hero_PC' from node: Set CurrentStamina in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+[2018.03.19-04.15.40:011][364]LogScript: Warning: Attempted to assign to None
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:107C
+[2018.03.19-04.15.40:011][364]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_Hero_PC' from node: Set CurrentStamina in graph: EventGraph in object: Hero_PC with description: Attempted to assign to None
+[2018.03.19-04.15.40:011][364]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:0FB2
+[2018.03.19-04.15.40:011][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP from function: 'ExecuteUbergraph_Hero_PC' from node: Branch in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+[2018.03.19-04.15.40:011][364]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+	Hero_PC_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.Hero_PC_C_0
+	Function /Game/RifleAnimsetPro/Survivor/Hero_PC.Hero_PC_C:ExecuteUbergraph_Hero_PC:0FD1
+[2018.03.19-04.15.40:011][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP from function: 'ExecuteUbergraph_Hero_PC' from node: Branch in graph: EventGraph in object: Hero_PC with description: Accessed None trying to read property K2Node_DynamicCast_AsHero_BP
+[2018.03.19-04.17.16:523][726]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.17.16:546][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.17.16:547][726]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.17.16:573][726]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:17:16 PM)
+[2018.03.19-04.17.16:574][726]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.17.16:740][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166426s)
+[2018.03.19-04.17.16:741][726]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.17.16:741][726]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2018.03.19-04.17.16:741][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.167643s)
+[2018.03.19-04.17.16:778][726]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.17.16:790][726]LogInit: FAudioDevice initialized.
+[2018.03.19-04.17.16:827][726]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.17.16:842][726]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.17.16
+[2018.03.19-04.17.16:844][726]LogWorld: Bringing up level for play took: 0.016444
+[2018.03.19-04.17.16:847][726]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 1.125
+[2018.03.19-04.17.28:327][839]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.19-04.17.28:348][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-04.17.28:348][839]LogHMD: Initializing OVRPlugin session
+[2018.03.19-04.17.28:372][839]PIE: New page: PIE session: Level_1 (Mar 18, 2018, 8:17:28 PM)
+[2018.03.19-04.17.28:373][839]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2018.03.19-04.17.28:533][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.160387s)
+[2018.03.19-04.17.28:534][839]LogAIModule: Creating AISystem for world Level_1
+[2018.03.19-04.17.28:534][839]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2018.03.19-04.17.28:535][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.161647s)
+[2018.03.19-04.17.28:563][839]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-04.17.28:573][839]LogInit: FAudioDevice initialized.
+[2018.03.19-04.17.28:605][839]LogLoad: Game class is 'TwistedFate_GM_C'
+[2018.03.19-04.17.28:622][839]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.03.19-00.17.28
+[2018.03.19-04.17.28:623][839]LogWorld: Bringing up level for play took: 0.017489
+[2018.03.19-04.17.28:626][839]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.904
+[2018.03.19-04.17.59:664][347]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater20)
+[2018.03.19-04.18.04:956][951]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater11)
+[2018.03.19-04.18.10:324][555]Cmd: DELETE
+[2018.03.19-04.18.10:324][555]Cmd: ACTOR DELETE
+[2018.03.19-04.18.10:359][555]LogEditorActor: Deleted Actor: BP_TranslucentWater_C
+[2018.03.19-04.18.10:372][555]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.03.19-04.18.11:986][746]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater51)
+[2018.03.19-04.18.32:521][949]Cmd: TRANSACTION UNDO
+[2018.03.19-04.18.32:521][949]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.03.19-04.18.34:219][949]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.19-04.18.34:273][949]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Bamboo_02)
+[2018.03.19-04.18.55:934][986]Cmd: TRANSACTION UNDO
+[2018.03.19-04.18.55:934][986]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.03.19-04.18.56:012][986]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.19-04.18.57:012][986]Cmd: TRANSACTION UNDO
+[2018.03.19-04.18.57:012][986]LogEditorTransaction: Undo Edit Tool Strength
+[2018.03.19-04.19.55:753][ 95]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater25)
+[2018.03.19-04.19.56:451][172]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater21)
+[2018.03.19-04.19.57:216][258]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater11)
+[2018.03.19-04.19.57:648][303]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater25)
+[2018.03.19-04.19.58:102][352]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater41)
+[2018.03.19-04.20.43:622][351]Cmd: TRANSACTION UNDO
+[2018.03.19-04.20.43:622][351]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.03.19-04.20.43:687][351]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.19-04.20.52:325][311]Cmd: TRANSACTION UNDO
+[2018.03.19-04.20.52:325][311]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.03.19-04.20.52:392][311]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.19-04.20.53:295][397]Cmd: TRANSACTION UNDO
+[2018.03.19-04.20.53:295][397]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.19-04.20.54:141][493]Cmd: TRANSACTION UNDO
+[2018.03.19-04.20.54:141][493]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.19-04.22.57:485][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.19-04.22.57:746][580]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 512X512)
+[2018.03.19-04.22.57:760][580]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 256X256)
+[2018.03.19-04.22.57:764][580]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.03.19-04.22.57:773][580]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 256X256)
+[2018.03.19-04.22.57:776][580]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X512)
+[2018.03.19-04.22.57:786][580]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 256X256)
+[2018.03.19-04.22.57:789][580]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 256X256)
+[2018.03.19-04.22.57:792][580]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2018.03.19-04.23.00:548][580]LogSavePackage: Save=3008.30ms
+[2018.03.19-04.23.00:548][580]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Level_1E8A189DD4BC8FEDB39B2D7843B05E270.tmp' to 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap'
+[2018.03.19-04.23.00:559][580]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Maps/Level_1.umap
+[2018.03.19-04.23.02:993][707]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.03.19-04.23.11:420][707]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.19-04.23.11:528][707]SourceControl: [master 9a9f3ad] .
+[2018.03.19-04.23.11:528][707]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.03.19-04.23.11:542][707]SourceControl: Commited [master 9a9f3ad] ..
+[2018.03.19-04.23.45:204][ 57]Cmd: QUIT_EDITOR
+[2018.03.19-04.23.45:524][ 57]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.19-04.23.45:556][ 57]LogExit: Preparing to exit.
+[2018.03.19-04.23.47:498][ 57]LogExit: Editor shut down
+[2018.03.19-04.23.47:533][ 57]LogExit: Transaction tracking system shut down
+[2018.03.19-04.23.47:936][ 57]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.19-04.23.47:937][ 57]LogDirectoryWatcher: A directory notification for 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/' was aborted.
+[2018.03.19-04.23.47:937][ 57]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.19-04.23.47:937][ 57]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.19-04.23.47:937][ 57]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.19-04.23.47:937][ 57]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.19-04.23.47:937][ 57]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.19-04.23.48:113][ 57]LogExit: Object subsystem successfully closed.
+[2018.03.19-04.23.48:165][ 57]LogD3D11RHI: Shutdown
+[2018.03.19-04.23.48:165][ 57]LogD3D11RHI: CleanupD3DDevice
+[2018.03.19-04.23.48:173][ 57]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.19-04.23.48:186][ 57]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.03.19-04.23.48:186][ 57]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.03.19-04.23.48:186][ 57]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.03.19-04.23.48:186][ 57]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.03.19-04.23.48:187][ 57]LogDirectoryWatcher: A directory notification for 'E:/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.03.19-04.23.48:194][ 57]LogDirectoryWatcher: A directory notification for 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Collections/' was aborted.
+[2018.03.19-04.23.48:194][ 57]LogDirectoryWatcher: A directory notification for 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Content/Developers/Cameron/Collections/' was aborted.
+[2018.03.19-04.23.48:194][ 57]LogDirectoryWatcher: A directory notification for 'C:/Users/Cameron/Documents/GitHub/TwistedFateGame/TwistedFateGame/Saved/Collections/' was aborted.
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.03.19-04.23.48:194][ 57]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.03.19-04.23.48:195][ 57]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.03.19-04.23.48:772][ 57]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.03.19-04.23.48:773][ 57]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.03.19-04.23.48:773][ 57]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.03.19-04.23.48:773][ 57]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.03.19-04.23.48:773][ 57]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.03.19-04.23.48:773][ 57]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.03.19-04.23.48:826][ 57]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.03.19-04.23.48:826][ 57]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.03.19-04.23.48:826][ 57]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.03.19-04.23.48:826][ 57]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.03.19-04.23.48:826][ 57]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.03.19-04.23.48:826][ 57]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.03.19-04.23.48:826][ 57]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.03.19-04.23.48:826][ 57]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.03.19-04.23.48:826][ 57]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.03.19-04.23.48:826][ 57]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.03.19-04.23.48:828][ 57]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.19-04.23.48:917][ 57]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.19-04.23.48:918][ 57]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.19-04.23.48:918][ 57]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.19-04.23.48:918][ 57]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.19-04.23.48:918][ 57]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.19-04.23.48:918][ 57]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.19-04.23.48:918][ 57]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.19-04.23.48:918][ 57]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.19-04.23.48:918][ 57]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.19-04.23.48:918][ 57]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.19-04.23.48:918][ 57]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.19-04.23.48:918][ 57]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.19-04.23.48:918][ 57]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.19-04.23.48:920][ 57]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.19-04.23.48:920][ 57]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.19-04.23.48:920][ 57]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.19-04.23.48:920][ 57]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.19-04.23.48:920][ 57]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.19-04.23.48:920][ 57]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.19-04.23.48:920][ 57]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.19-04.23.48:920][ 57]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.19-04.23.48:920][ 57]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.19-04.23.48:920][ 57]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.19-04.23.48:920][ 57]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.19-04.23.49:021][ 57]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.19-04.23.49:122][ 57]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.19-04.23.49:122][ 57]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.19-04.23.49:122][ 57]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.19-04.23.49:122][ 57]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.19-04.23.49:122][ 57]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.19-04.23.49:122][ 57]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.19-04.23.49:124][ 57]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.19-04.23.49:124][ 57]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.19-04.23.49:124][ 57]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.19-04.23.49:124][ 57]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.19-04.23.49:126][ 57]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.19-04.23.49:126][ 57]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.19-04.23.49:126][ 57]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.19-04.23.49:126][ 57]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.19-04.23.49:126][ 57]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.19-04.23.49:126][ 57]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.19-04.23.49:132][ 57]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.19-04.23.49:135][ 57]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.19-04.23.49:135][ 57]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.19-04.23.49:135][ 57]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.19-04.23.49:135][ 57]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.19-04.23.49:135][ 57]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.19-04.23.49:135][ 57]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.19-04.23.49:135][ 57]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.19-04.23.49:135][ 57]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.19-04.23.49:142][ 57]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.19-04.23.49:142][ 57]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.19-04.23.49:142][ 57]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.19-04.23.49:142][ 57]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.19-04.23.49:142][ 57]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.19-04.23.49:142][ 57]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.19-04.23.49:142][ 57]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.19-04.23.49:142][ 57]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.19-04.23.49:142][ 57]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.19-04.23.49:174][ 57]LogDerivedDataCache: Shutdown
+[2018.03.19-04.23.49:175][ 57]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.19-04.23.49:175][ 57]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.19-04.23.49:175][ 57]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.19-04.23.49:175][ 57]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.19-04.23.49:175][ 57]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.19-04.23.49:175][ 57]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.19-04.23.49:175][ 57]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.19-04.23.49:175][ 57]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.19-04.23.49:175][ 57]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.19-04.23.49:175][ 57]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.19-04.23.49:176][ 57]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.19-04.23.49:177][ 57]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.19-04.23.49:177][ 57]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.19-04.23.49:177][ 57]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA327FD4B-4BDC-94CD-3BDC-569798AB3F0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=53b19e1a4c66008f887ef79341d17316%7Cd5951a104dca4ad0a06bb7043cc25760%7C10cd45eb-d778-418f-954e-16fdba5101c0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.19-04.23.49:192][ 57]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.19-04.23.49:193][ 57]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.19-04.23.49:193][ 57]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.19-04.23.49:194][ 57]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.19-04.23.49:194][ 57]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.19-04.23.49:194][ 57]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.19-04.23.49:194][ 57]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.19-04.23.49:194][ 57]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.19-04.23.49:196][ 57]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.19-04.23.49:197][ 57]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.19-04.23.49:197][ 57]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.19-04.23.49:197][ 57]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.19-04.23.49:197][ 57]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.19-04.23.49:197][ 57]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.19-04.23.49:197][ 57]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.19-04.23.49:197][ 57]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.19-04.23.49:197][ 57]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.19-04.23.49:197][ 57]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.19-04.23.49:197][ 57]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.19-04.23.49:200][ 57]LogExit: Exiting.
+[2018.03.19-04.23.49:241][ 57]Log file closed, 03/19/18 00:23:49
