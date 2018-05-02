@@ -6499,3 +6499,14 @@ LogInit: Object subsystem initialized
 [2018.05.02-00.59.19:316][191]LogSavePackage: Save=1107.63ms
 [2018.05.02-00.59.19:316][191]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Saved/InventoryHUD5CC359CF4E6C584BC8C064AC7CF92622.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/SurvivalInventory/Blueprints/HUD/InventoryHUD.uasset'
 [2018.05.02-00.59.19:328][191]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/TwistedFateGame/TwistedFateGame/Content/SurvivalInventory/Blueprints/HUD/InventoryHUD.uasset
+[2018.05.02-01.00.37:834][894]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.05.02-01.00.50:951][577]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.05.02-01.00.57:342][577]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.05.02-01.00.57:437][577]SourceControl: On branch master
+[2018.05.02-01.00.57:437][577]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.05.02-01.00.57:437][577]SourceControl: Changes not staged for commit:
+[2018.05.02-01.00.57:437][577]SourceControl: 	modified:   TwistedFateGame/Saved/Logs/TwistedFateGame.log
+[2018.05.02-01.00.57:437][577]SourceControl: Untracked files:
+[2018.05.02-01.00.57:437][577]SourceControl: 	TwistedFateGame/Saved/Logs/Git-Temp0F5CCE8240ED9C842A6F04B0C14ECC63.txt
+[2018.05.02-01.00.57:437][577]SourceControl: no changes added to commit
+[2018.05.02-01.00.57:446][577]SourceControl: Commited On branch master.
